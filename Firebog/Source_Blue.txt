@@ -1,1 +1,20 @@
 
+# Suspicious Lists
+
+wget https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt -Oblue01 && wget https://someonewhocares.org/hosts/zero/hosts -Oblue02 && wget https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts -Oblue03 && wget https://winhelp2002.mvps.org/hosts.txt -Oblue04 && wget https://v.firebog.net/hosts/neohostsbasic.txt -Oblue05 && wget https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt -Oblue06 && wget https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt -Oblue07
+
+# Advertising Lists
+
+wget https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts -Oblue08
+
+# Tracking & Telemetry Lists
+
+wget https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt -Oblue09 && wget https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt -Oblue10 && wget https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt -Oblue11 && wget https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt -Oblue12 && wget https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt -Oblue13 && wget https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt -Oblue14
+
+# Malicious Lists
+
+wget https://v.firebog.net/hosts/Prigent-Malware.txt -Oblue15 && wget https://v.firebog.net/hosts/Shalla-mal.txt -Oblue16
+
+# Other Lists
+
+wget https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list -Oblue17 && wget https://v.firebog.net/hosts/Prigent-Adult.txt -Oblue18 && wget https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt -Oblue19
