@@ -4,7 +4,7 @@ wget https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhost
 
 # Advertising Lists
 
-wget https://adaway.org/hosts.txt -O04 && wget https://v.firebog.net/hosts/AdguardDNS.txt -O05 && wget https://v.firebog.net/hosts/Admiral.txt -O06 && wget https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt -O07 && wget https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt -O08 && wget https://v.firebog.net/hosts/Easylist.txt -O09 && wget https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext -O10 && wget https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts -O11 && wget https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts -O12
+wget https://adaway.org/hosts.txt -O04 && wget https://v.firebog.net/hosts/AdguardDNS.txt -O05 && wget https://v.firebog.net/hosts/Admiral.txt -O06 && wget https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt -O07 && wget https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt -O08 && wget https://v.firebog.net/hosts/Easylist.txt -O09 && wget https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts -O11 && wget https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts -O12
 
 # Tracking & Telemetry Lists
 
