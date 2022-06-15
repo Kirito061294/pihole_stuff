@@ -1,11 +1,11 @@
 # Suspicious Lists
 
-wget https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt -O01 && wget https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts -O02 && wget https://v.firebog.net/hosts/static/w3kbl.txt -O03
+wget https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt -O01 && wget https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts -O02 && wget https://v.firebog.net/hosts/static/w3kbl.txt -O03 && cat 01 02 03 > green_suspicious_lists.txt && rm 01 02 03
 
 # Advertising Lists
 # https://bit.ly/3xPsnIl = https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 
-wget https://adaway.org/hosts.txt -O04 && wget https://v.firebog.net/hosts/AdguardDNS.txt -O05 && wget https://v.firebog.net/hosts/Admiral.txt -O06 && wget https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt -O07 && wget https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt -O08 && wget https://v.firebog.net/hosts/Easylist.txt -O09 && wget https://bit.ly/3xPsnIl -O10 && wget https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts -O11 && wget https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts -O12
+wget https://adaway.org/hosts.txt -O04 && wget https://v.firebog.net/hosts/AdguardDNS.txt -O05 && wget https://v.firebog.net/hosts/Admiral.txt -O06 && wget https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt -O07 && wget https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt -O08 && wget https://v.firebog.net/hosts/Easylist.txt -O09 && wget https://bit.ly/3xPsnIl -O10 && wget https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts -O11 && wget https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts -O12 && cat 04 05 06 07 08 09 10 11 12 > green_advertising_lists.txt && rm 04 05 06 07 08 09 10 11 12
 
 # Tracking & Telemetry Lists
 
