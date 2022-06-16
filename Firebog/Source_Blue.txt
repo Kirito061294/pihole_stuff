@@ -1,23 +1,27 @@
+#
 # Alle Listen in einem Befehl:
-
+#
 wget https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt -Ob1ue01 && wget https://someonewhocares.org/hosts/zero/hosts -Ob1ue02 && wget https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts -Ob1ue03 && wget https://winhelp2002.mvps.org/hosts.txt -Ob1ue04 && wget https://v.firebog.net/hosts/neohostsbasic.txt -Ob1ue05 && wget https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt -Ob1ue06 && wget https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt -Ob1ue07 && cat b1ue01 b1ue02 b1ue03 b1ue04 b1ue05 b1ue06 b1ue07 > blue_suspicious_lists.txt && rm *b1ue* && wget https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts -Ob1ue08 && cat b1ue08 > blue_advertising_lists.txt && rm *b1ue* && wget https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt -Ob1ue09 && wget https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt -Ob1ue10 && wget https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt -Ob1ue11 && wget https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt -Ob1ue12 && wget https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt -Ob1ue13 && wget https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt -Ob1ue14 && cat b1ue09 b1ue10 b1ue11 b1ue12 b1ue13 b1ue14 > blue_tracking+telemetry_lists.txt && rm *b1ue* && wget https://v.firebog.net/hosts/Prigent-Malware.txt -Ob1ue15 && wget https://v.firebog.net/hosts/Shalla-mal.txt -Ob1ue16 && cat b1ue15 b1ue16 > blue_malicious_lists.txt && rm *b1ue* && wget https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list -Ob1ue17 && wget https://v.firebog.net/hosts/Prigent-Adult.txt -Ob1ue18 && wget https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt -Ob1ue19 && cat b1ue17 b1ue18 b1ue19 > blue_other_lists.txt && rm *b1ue* && cat blue_suspicious_lists.txt blue_advertising_lists.txt blue_tracking+telemetry_lists.txt blue_malicious_lists.txt blue_other_lists.txt > blue && rm *.txt
-
+# Bei Bedarf zum aufteilen: split -d -l 800000 blue blue_
+#
 # Suspicious Lists
-
+#
 wget https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt -Ob1ue01 && wget https://someonewhocares.org/hosts/zero/hosts -Ob1ue02 && wget https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts -Ob1ue03 && wget https://winhelp2002.mvps.org/hosts.txt -Ob1ue04 && wget https://v.firebog.net/hosts/neohostsbasic.txt -Ob1ue05 && wget https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt -Ob1ue06 && wget https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt -Ob1ue07 && cat b1ue01 b1ue02 b1ue03 b1ue04 b1ue05 b1ue06 b1ue07 > blue_suspicious_lists.txt && rm *b1ue*
-
+#
 # Advertising Lists
-
+#
 wget https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts -Ob1ue08 && cat b1ue08 > blue_advertising_lists.txt && rm *b1ue*
-
+#
 # Tracking & Telemetry Lists
-
+#
 wget https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt -Ob1ue09 && wget https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt -Ob1ue10 && wget https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt -Ob1ue11 && wget https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt -Ob1ue12 && wget https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt -Ob1ue13 && wget https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt -Ob1ue14 && cat b1ue09 b1ue10 b1ue11 b1ue12 b1ue13 b1ue14 > blue_tracking+telemetry_lists.txt && rm *b1ue*
-
+#
 # Malicious Lists
-
+#
 wget https://v.firebog.net/hosts/Prigent-Malware.txt -Ob1ue15 && wget https://v.firebog.net/hosts/Shalla-mal.txt -Ob1ue16 && cat b1ue15 b1ue16 > blue_malicious_lists.txt && rm *b1ue*
-
+#
 # Other Lists
-
+#
 wget https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list -Ob1ue17 && wget https://v.firebog.net/hosts/Prigent-Adult.txt -Ob1ue18 && wget https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt -Ob1ue19 && cat b1ue17 b1ue18 b1ue19 > blue_other_lists.txt && rm *b1ue*
+# Bei Bedarf zum aufteilen: split -d -l 800000 blue blue_
+#
