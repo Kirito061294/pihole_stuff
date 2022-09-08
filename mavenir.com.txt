@@ -8,6 +8,7 @@ asbc2.de2.rbm.mavenir.com
 asbc2.de1.rbm.mavenir.com
 asbc2.de3.rbm.mavenir.com
 asbc2.de4.rbm.mavenir.com
-asbc-01.de1.rbm.mavenir.com
-asbc-02.de1.rbm.mavenir.com
-asbc-04.de1.rbm.mavenir.com
+asbc-03.de1.rbm.mavenir.com
+asbc-05.de1.rbm.mavenir.com
+asbc-06.de1.rbm.mavenir.com
+asbc-07.de1.rbm.mavenir.com
