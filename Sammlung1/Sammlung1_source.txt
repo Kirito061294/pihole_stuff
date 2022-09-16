@@ -1,0 +1,14 @@
+https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/TikTok/tiktokblocklist.txt
+https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/SmartTV/smarttvblocklist.txt
+https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/MobileAppAds/appadsblocklist.txt
+https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Instagram/Instagramblocklist.txt
+https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Facebook/facebookblocklist.txt
+https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Android/androidblocklist.txt
+https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Agency/agencyblocklist.txt
+https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Adobe/adobeblocklist.txt
+https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
+https://raw.githubusercontent.com/Kirito061294/pihole_stuff/main/mavenir.com.txt
+https://raw.githubusercontent.com/RPiList/specials/master/regex.list
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Streaming
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/notserious
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
