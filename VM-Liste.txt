@@ -1,0 +1,6 @@
+# Microsoft
+###
+# Windows Update
+ds.download.windowsupdate.com
+ctldl.windowsupdate.com
+teredo.ipv6.microsoft.com
