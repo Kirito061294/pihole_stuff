@@ -3,4 +3,7 @@
 # Windows Update
 ds.download.windowsupdate.com
 ctldl.windowsupdate.com
+slscr.update.microsoft.com
+###
+# Netzwerk Stuff
 teredo.ipv6.microsoft.com
