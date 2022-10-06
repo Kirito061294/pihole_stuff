@@ -1,10 +1,7 @@
 ###
 # Linux-Befehl:
 ###
-wget https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/notserious -Onull1 && 
-wget https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Streaming -Onull2 && 
-wget https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware -Onull3 && 
-wget https://raw.githubusercontent.com/RPiList/specials/master/regex.list -Onull4 && cat null1 null2 null3 null4 > eins.txt && rm *null*
+wget https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/notserious -Onull1 && wget https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Streaming -Onull2 && wget https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware -Onull3 && wget https://raw.githubusercontent.com/RPiList/specials/master/regex.list -Onull4 && cat null1 null2 null3 null4 > eins.txt && rm *null*
 ###
 # Bei Bedarf zum aufteilen: split -d -l 800000 eins.txt eins_.txt
 ###
