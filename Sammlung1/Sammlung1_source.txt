@@ -29,3 +29,4 @@ wget https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Tik
 #https://raw.githubusercontent.com/Dogino/Discord-Phishing-URLs/main/pihole-phishing-adlist.txt
 #https://raw.githubusercontent.com/Dogino/Discord-Phishing-URLs/main/scam-urls.txt
 #https://raw.githubusercontent.com/Kirito061294/pihole_stuff/main/Emnasty/emnasty
+#https://raw.githubusercontent.com/Kirito061294/pihole_stuff/main/Verschiedenes/datei1.txt
