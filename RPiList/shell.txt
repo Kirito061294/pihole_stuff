@@ -1,7 +1,10 @@
 ###
 # Linux-Befehl:
 ###
-wget https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/notserious -Onull1 && wget https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Streaming -Onull2 && wget https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock1 -Onull3 && wget https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock2 -Onull4 && wget https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock3 -Onull5 && wget https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock4 -Onull6 && wget https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware -Onull7 && wget https://raw.githubusercontent.com/RPiList/specials/master/regex.list -Onull8 && cat null1 null2 null3 null4 null5 null6 null7 null8 > eins.txt && rm *null*
+wget https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/notserious -Onull1 && 
+wget https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Streaming -Onull2 && 
+wget https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware -Onull3 && 
+wget https://raw.githubusercontent.com/RPiList/specials/master/regex.list -Onull4 && cat null1 null2 null3 null4 > eins.txt && rm *null*
 ###
 # Bei Bedarf zum aufteilen: split -d -l 800000 eins.txt eins_.txt
 ###
@@ -9,9 +12,11 @@ wget https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/notse
 ###
 #https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/notserious
 #https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Streaming
+#https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware
+#https://raw.githubusercontent.com/RPiList/specials/master/regex.list
+
+#Nicht einbezogen da zu groß:
 #https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock1
 #https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock2
 #https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock3
 #https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock4
-#https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware
-#https://raw.githubusercontent.com/RPiList/specials/master/regex.list
