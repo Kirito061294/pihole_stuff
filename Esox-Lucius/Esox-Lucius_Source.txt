@@ -55,3 +55,15 @@ https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Predator%20-
 https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/PredatorTheThief%20-%20Malware%20Domain%20Feed%20V2
 https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Ramnit%20-%20Malware%20Domain%20Feed%20V2
 https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/RedLine%20-%20Malware%20Domain%20Feed%20V2
+https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Remcos%20-%20Malware%20Domain%20Feed%20V2
+https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Ryuk%20Ransomware%20and%20Associated%20Threat%20Activity
+https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Spelevo.EK%20IOCs%20-%20Domains%20%26%20Hosts
+https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/TA2552%20IOCs%20-%20Domains%20%26%20Hosts
+https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/TA2719%20IOCs%20-%20Domains%20%26%20Hosts
+https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/TA505%20IOCs%20-%20Domains%20%26%20Hosts
+https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/TA551%20IOCs%20-%20Domains%20%26%20Hosts
+https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Upatre%20-%20Malware%20Domain%20Feed%20V2
+https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Ursnif%20-%20Malware%20Domain%20Feed%20V2
+https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/W32.Bayrob%20-%20Malware%20Domain%20Feed%20V2
+https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Zbot%20-%20Malware%20Domain%20Feed%20V2
+https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Zeus%20-%20Malware%20Domain%20Feed%20V2
