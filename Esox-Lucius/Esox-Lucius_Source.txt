@@ -4,43 +4,23 @@
 # https://github.com/Esox-Lucius/PiHoleblocklists
 # 
 ### ---old---
-wget https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/APPLE%20Malware%2C%20Exploits%2C%20Hacks%20IOCs -Oa01 && wget https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/AZORult%20-%20Malware%20Domain%20Feed%20V2 -Oa02 && wget https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/AgentTesla%20-%20Malware%20Domain%20Feed%20V2 -Oa03 && wget https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Amadey%20-%20Malware%20Domain%20Feed%20V2 -Oa04 && wget https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Andromeda%20-%20Malware%20Domain%20Feed%20V2 -Oa05 && wget https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Arkei%20-%20Malware%20Domain%20Feed%20V2 -Oa06 && wget https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/AsyncRAT%20-%20Malware%20Domain%20Feed%20V2 -Oa07 && wget 
-https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Ave.Maria%20-%20Malware%20Domain%20Feed%20V2 -Oa08 && wget 
- -Oa09 && wget 
- -Oa10 && wget 
- -Oa11 && wget 
- -Oa12 && wget 
- -Oa13 && wget 
- -Oa14 && wget 
- -Oa15 && wget 
- -Oa16 && wget 
- -Oa17 && wget 
+wget https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/APPLE%20Malware%2C%20Exploits%2C%20Hacks%20IOCs -Oa01 && wget https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/AZORult%20-%20Malware%20Domain%20Feed%20V2 -Oa02 && wget https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/AgentTesla%20-%20Malware%20Domain%20Feed%20V2 -Oa03 && wget https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Amadey%20-%20Malware%20Domain%20Feed%20V2 -Oa04 && wget https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Andromeda%20-%20Malware%20Domain%20Feed%20V2 -Oa05 && wget https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Arkei%20-%20Malware%20Domain%20Feed%20V2 -Oa06 && wget https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/AsyncRAT%20-%20Malware%20Domain%20Feed%20V2 -Oa07 && wget https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Ave.Maria%20-%20Malware%20Domain%20Feed%20V2 -Oa08 && wget https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Bahamut%20IOCs%20-%20Domains%20%26%20Hosts -Oa09 && wget https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/CobaltStrike%20-%20Malware%20Domain%20Feed%20V2 -Oa10 && wget https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Covid-19%20Related%20Domains%20(SPAM) -Oa11 && wget https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Cryptowall%20-%20Malware%20Domain%20Feed%20V2 -Oa12 && wget https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/DGA%20-%20Unknown%20Use -Oa13 && wget https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/DarkComet%20-%20Malware%20Domain%20Feed%20V2 -Oa14 && wget https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Dridex%20IOCs%20-%20Domains%20%26%20Hosts -Oa15 && wget 
+https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Dunihi%20-%20Malware%20Domain%20Feed%20V2 -Oa16 && wget 
+https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Emotet%20IOCs%20-%20Domains%20%26%20Hosts -Oa17 && wget 
  -Oa18 && wget 
- -Oa19 && wget  -Oa20 && wget  -Oa21 && wget  -Oa22 && wget  -Oa23 && wget  -Oa24 && wget 
- -Oa25 && wget 
- -Oa26 && wget 
- -Oa27 && wget 
- -Oa28 && wget  -Oa29 && wget  -Oa30 && wget  -Oa31 && wget  -Oa32 && wget  -Oa33 && wget 
- -Oa34 && wget https://raw.githubusercontent.com/Esox-Lucius/BlockList-Malware/master/Spelevo.EK%20IOCs%20-%20Domains%20%26%20Hosts -Oa35 && wget https://raw.githubusercontent.com/Esox-Lucius/BlockList-Malware/master/TA2552%20IOCs%20-%20Domains%20%26%20Hosts -Oa36 && wget https://raw.githubusercontent.com/Esox-Lucius/BlockList-Malware/master/TA2719%20IOCs%20-%20Domains%20%26%20Hosts -Oa37 && wget https://raw.githubusercontent.com/Esox-Lucius/BlockList-Malware/master/TA505%20IOCs%20-%20Domains%20%26%20Hosts -Oa38 && wget https://raw.githubusercontent.com/Esox-Lucius/BlockList-Malware/master/TA551%20IOCs%20-%20Domains%20%26%20Hosts -Oa39 && wget https://raw.githubusercontent.com/Esox-Lucius/BlockList-Malware/master/Ursnif%20-%20Malware%20Domain%20Feed%20V2 -Oa40 && wget https://raw.githubusercontent.com/Esox-Lucius/BlockList-Malware/master/Zbot%20-%20Malware%20Domain%20Feed%20V2 -Oa41 && wget https://raw.githubusercontent.com/Esox-Lucius/BlockList-Malware/master/Zeus%20-%20Malware%20Domain%20Feed%20V2 -Oa42 && cat a01 a02 a03 a04 a05 a06 a07 a08 a09 a10 a11 a12 a13 a14 a15 a16 a17 a18 a19 a20 a21 a22 a23 a24 a25 a26 a27 a28 a29 a30 a31 a32 a33 a34 a35 a36 a37 a38 a39 a40 a41 a42 > Esox-Lucius.txt && rm *a*
+ -Oa19 && wget 
+ -Oa20 && wget 
+ -Oa21 && wget 
+ -Oa22 && wget 
+ -Oa23 && wget 
+ -Oa24 && wget 
+ -Oa25 && wget  -Oa26 && wget  -Oa27 && wget  -Oa28 && wget  -Oa29 && wget  -Oa30 && wget  -Oa31 && wget  -Oa32 && wget  -Oa33 && wget 
+ -Oa34 && wget https://raw.githubusercontent.com/Esox-Lucius/BlockList-Malware/master/Spelevo.EK%20IOCs%20-%20Domains%20%26%20Hosts -Oa35 && wget https://raw.githubusercontent.com/Esox-Lucius/BlockList-Malware/master/TA2552%20IOCs%20-%20Domains%20%26%20Hosts -Oa36 && wget https://raw.githubusercontent.com/Esox-Lucius/BlockList-Malware/master/TA2719%20IOCs%20-%20Domains%20%26%20Hosts -Oa37 && wget https://raw.githubusercontent.com/Esox-Lucius/BlockList-Malware/master/TA505%20IOCs%20-%20Domains%20%26%20Hosts -Oa38 && wget https://raw.githubusercontent.com/Esox-Lucius/BlockList-Malware/master/TA551%20IOCs%20-%20Domains%20%26%20Hosts -Oa39 && wget https://raw.githubusercontent.com/Esox-Lucius/BlockList-Malware/master/Ursnif%20-%20Malware%20Domain%20Feed%20V2 -Oa40 && wget https://raw.githubusercontent.com/Esox-Lucius/BlockList-Malware/master/Zbot%20-%20Malware%20Domain%20Feed%20V2 -Oa41 && wget https://raw.githubusercontent.com/Esox-Lucius/BlockList-Malware/master/Zeus%20-%20Malware%20Domain%20Feed%20V2 -Oa42 && 
+ cat a01 a02 a03 a04 a05 a06 a07 a08 a09 a10 a11 a12 a13 a14 a15 a16 a17 a18 a19 a20 a21 a22 a23 a24 a25 a26 a27 a28 a29 a30 a31 a32 a33 a34 a35 a36 a37 a38 a39 a40 a41 a42 > Esox-Lucius.txt && rm *a*
 ###
 #Listen: list below is updated 28.01.2023
 ###
-https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/APPLE%20Malware%2C%20Exploits%2C%20Hacks%20IOCs
-https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/AZORult%20-%20Malware%20Domain%20Feed%20V2
-https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/AgentTesla%20-%20Malware%20Domain%20Feed%20V2
-https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Amadey%20-%20Malware%20Domain%20Feed%20V2
-https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Andromeda%20-%20Malware%20Domain%20Feed%20V2
-https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Arkei%20-%20Malware%20Domain%20Feed%20V2
-https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/AsyncRAT%20-%20Malware%20Domain%20Feed%20V2
-https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Ave.Maria%20-%20Malware%20Domain%20Feed%20V2
-https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Bahamut%20IOCs%20-%20Domains%20%26%20Hosts
-https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/CobaltStrike%20-%20Malware%20Domain%20Feed%20V2
-https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Covid-19%20Related%20Domains%20(SPAM)
-https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Cryptowall%20-%20Malware%20Domain%20Feed%20V2
-https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/DGA%20-%20Unknown%20Use
-https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/DarkComet%20-%20Malware%20Domain%20Feed%20V2
-https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Dridex%20IOCs%20-%20Domains%20%26%20Hosts
-https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Dunihi%20-%20Malware%20Domain%20Feed%20V2
+https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/APPLE%20Malware%2C%20Exploits%2C%20Hacks%20IOCs  https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/AZORult%20-%20Malware%20Domain%20Feed%20V2  https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/AgentTesla%20-%20Malware%20Domain%20Feed%20V2  https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Amadey%20-%20Malware%20Domain%20Feed%20V2  https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Andromeda%20-%20Malware%20Domain%20Feed%20V2  https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Arkei%20-%20Malware%20Domain%20Feed%20V2  https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/AsyncRAT%20-%20Malware%20Domain%20Feed%20V2  https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Ave.Maria%20-%20Malware%20Domain%20Feed%20V2  https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Bahamut%20IOCs%20-%20Domains%20%26%20Hosts  https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/CobaltStrike%20-%20Malware%20Domain%20Feed%20V2  https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Covid-19%20Related%20Domains%20(SPAM)  https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Cryptowall%20-%20Malware%20Domain%20Feed%20V2  https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/DGA%20-%20Unknown%20Use  https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/DarkComet%20-%20Malware%20Domain%20Feed%20V2  https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Dridex%20IOCs%20-%20Domains%20%26%20Hosts  https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Dunihi%20-%20Malware%20Domain%20Feed%20V2
 https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Emotet%20IOCs%20-%20Domains%20%26%20Hosts
 https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/FakeSpy%20(JapanPost)%20-%20Domains%20%26%20Hosts
 https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/FormBook%20-%20Malware%20Domain%20Feed%20V2
