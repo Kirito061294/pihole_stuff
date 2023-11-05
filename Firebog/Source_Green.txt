@@ -19,7 +19,7 @@ wget https://bit.ly/3Qtq71G -Ohello04 && wget https://bit.ly/3suqyk9 -Ohello05 &
 #https://bit.ly/3suqyk9 = https://v.firebog.net/hosts/AdguardDNS.txt
 #https://bit.ly/471KIBa = https://v.firebog.net/hosts/Admiral.txt
 #https://bit.ly/466wD3X = https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
-#https://bit.ly/46U2XZc = https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+#08 - https://bit.ly/46U2XZc = https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 #https://bit.ly/3QiDHEY = https://v.firebog.net/hosts/Easylist.txt
 #https://bit.ly/3SqNxas = https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 #https://bit.ly/3u2knEs = https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
@@ -43,7 +43,7 @@ wget https://bit.ly/3sjW4kQ -O18 && wget https://bit.ly/3FNaKw2 -O19 && wget htt
 ###
 #https://bit.ly/3sjW4kQ = https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 #https://bit.ly/3FNaKw2 = https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
-#https://bit.ly/3Mwbdql = https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
+#20 - https://bit.ly/3Mwbdql = https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 #https://bit.ly/3Sv19Sg = https://v.firebog.net/hosts/Prigent-Crypto.txt
 #https://bit.ly/3MwUaEi = https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
 #https://bit.ly/46gASKJ = https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
@@ -53,7 +53,7 @@ wget https://bit.ly/3sjW4kQ -O18 && wget https://bit.ly/3FNaKw2 -O19 && wget htt
 #https://bit.ly/3FJmzDB = https://v.firebog.net/hosts/RPiList-Phishing.txt
 #https://bit.ly/49nwkof = https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 #https://bit.ly/3MwUiUi = https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
-#https://bit.ly/3slgv0R = https://urlhaus.abuse.ch/downloads/hostfile/
+#30 - https://bit.ly/3slgv0R = https://urlhaus.abuse.ch/downloads/hostfile/
 ###
 ###
 # Other Lists
