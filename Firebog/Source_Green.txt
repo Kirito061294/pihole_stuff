@@ -1,38 +1,63 @@
 # Alle Listen in einem Befehl:
 
-wget https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt -O01 && wget https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts -O02 && wget https://v.firebog.net/hosts/static/w3kbl.txt -O03 && cat 01 02 03 > green_suspicious_lists.txt && rm 01 02 03 && wget https://adaway.org/hosts.txt -O04 && wget https://v.firebog.net/hosts/AdguardDNS.txt -O05 && wget https://v.firebog.net/hosts/Admiral.txt -O06 && wget https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt -O07 && wget https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt -O08 && wget https://v.firebog.net/hosts/Easylist.txt -O09 && wget https://bit.ly/3xPsnIl -O10 && wget https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts -O11 && wget https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts -O12 && cat 04 05 06 07 08 09 10 11 12 > green_advertising_lists.txt && rm 04 05 06 07 08 09 10 11 12 && wget https://v.firebog.net/hosts/Easyprivacy.txt -O13 && wget https://v.firebog.net/hosts/Prigent-Ads.txt -O14 && wget https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts -O15 && wget https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt -O16 && wget https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt -O17 && cat 13 14 15 16 17 > green_tracking+telemetry_lists.txt && rm 13 14 15 16 17 && wget https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt -O18 && wget https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt -O19 && wget https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt -O20 && wget https://v.firebog.net/hosts/Prigent-Crypto.txt -O21 && wget https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts -O22 && wget https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt -O23 && wget https://phishing.army/download/phishing_army_blocklist_extended.txt -O24 && wget https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt -O25 && wget https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt -O26 && wget https://raw.githubusercontent.com/Te-k/stalkerware-indicators/master/generated/hosts -O27 && wget https://urlhaus.abuse.ch/downloads/hostfile/ -O28 && cat 18 19 20 21 22 23 24 25 26 27 28 > green_malicious_lists.txt && rm 18 19 20 21 22 23 24 25 26 27 28 && wget https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser -O29 && cat 29 > green_other_lists.txt && rm 29 && cat green_suspicious_lists.txt green_advertising_lists.txt green_tracking+telemetry_lists.txt green_malicious_lists.txt green_other_lists.txt > green && rm *.txt
+wget https://bit.ly/3SoWDoh -Ohallo01 && wget https://bit.ly/45Vjs64 -Ohallo02 && wget https://bit.ly/3u34ayU -Ohallo03 && cat hallo01 hallo02 hallo03 > green_suspicious_lists.txt && rm *hallo* && wget https://bit.ly/3Qtq71G -Ohello04 && wget https://bit.ly/3suqyk9 -Ohello05 && wget https://bit.ly/471KIBa -Ohello06 && wget https://bit.ly/466wD3X -Ohello07 && wget https://bit.ly/46U2XZc -Ohello08 && wget https://bit.ly/3QiDHEY -Ohello09 && wget https://bit.ly/3SqNxas -Ohello10 && wget https://bit.ly/3u2knEs -Ohello11 && wget https://bit.ly/3Qinq2E -Ohello12 && cat hello04 hello05 hello06 hello07 hello08 hello09 hello10 hello11 hello12 > green_advertising_lists.txt && rm *hello* && wget https://bit.ly/49qIvky -O13 && wget https://bit.ly/49mA1KW -O14 && wget https://bit.ly/49qNWQr -O15 && wget https://bit.ly/3QM5EGL -O16 && wget https://bit.ly/40u7ord -O17 && cat 13 14 15 16 17 > green_tracking+telemetry_lists.txt && rm 13 14 15 16 17 && wget https://bit.ly/3sjW4kQ -O18 && wget https://bit.ly/3FNaKw2 -O19 && wget https://bit.ly/3Mwbdql -O20 && wget https://bit.ly/3Sv19Sg -O21 && wget https://bit.ly/3MwUaEi -O22 && wget https://bit.ly/46gASKJ -O23 && wget https://bit.ly/3MtXjF0 -O24 && wget https://bit.ly/3FJmwaT -O25 && wget https://bit.ly/3tXlV2p -O26 && wget https://bit.ly/3FJmzDB -O27 && wget https://bit.ly/49nwkof -O28 && wget https://bit.ly/3MwUiUi -O29 && wget https://bit.ly/3slgv0R -O30 && cat 18 19 20 21 22 23 24 25 26 27 28 29 30 > green_malicious_lists.txt && rm 18 19 20 21 22 23 24 25 26 27 28 29 30 && wget https://bit.ly/3SmfccG -O31 && cat 31 > green_other_lists.txt && rm 31 && cat green_suspicious_lists.txt green_advertising_lists.txt green_tracking+telemetry_lists.txt green_malicious_lists.txt green_other_lists.txt > green && rm *.txt
 ###
 # Suspicious Lists
 ###
-wget https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt -Ohallo01 && wget https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts -Ohallo02 && wget https://v.firebog.net/hosts/static/w3kbl.txt -Ohallo03 && cat hallo01 hallo02 hallo03 > green_suspicious_lists.txt && rm *hallo*
+wget https://bit.ly/3SoWDoh -Ohallo01 && wget https://bit.ly/45Vjs64 -Ohallo02 && wget https://bit.ly/3u34ayU -Ohallo03 && cat hallo01 hallo02 hallo03 > green_suspicious_lists.txt && rm *hallo*
 ###
-#https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
-#https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
-#https://v.firebog.net/hosts/static/w3kbl.txt
+#https://bit.ly/3SoWDoh = https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
+#https://bit.ly/45Vjs64 = https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
+#https://bit.ly/3u34ayU = https://v.firebog.net/hosts/static/w3kbl.txt
+###
 ###
 # Advertising Lists
-# https://bit.ly/3xPsnIl = https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 ###
-wget https://adaway.org/hosts.txt -Ohello04 && wget https://v.firebog.net/hosts/AdguardDNS.txt -Ohello05 && wget https://v.firebog.net/hosts/Admiral.txt -Ohello06 && wget https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt -Ohello07 && wget https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt -Ohello08 && wget https://v.firebog.net/hosts/Easylist.txt -Ohello09 && wget https://bit.ly/3xPsnIl -Ohello10 && wget https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts -Ohello11 && wget https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts -Ohello12 && cat hello04 hello05 hello06 hello07 hello08 hello09 hello10 hello11 hello12 > green_advertising_lists.txt && rm *hello*
+wget https://bit.ly/3Qtq71G -Ohello04 && wget https://bit.ly/3suqyk9 -Ohello05 && wget https://bit.ly/471KIBa -Ohello06 && wget https://bit.ly/466wD3X -Ohello07 && wget https://bit.ly/46U2XZc -Ohello08 && wget https://bit.ly/3QiDHEY -Ohello09 && wget https://bit.ly/3SqNxas -Ohello10 && wget https://bit.ly/3u2knEs -Ohello11 && wget https://bit.ly/3Qinq2E -Ohello12 && cat hello04 hello05 hello06 hello07 hello08 hello09 hello10 hello11 hello12 > green_advertising_lists.txt && rm *hello*
 ###
-#https://adaway.org/hosts.txt
-#https://v.firebog.net/hosts/AdguardDNS.txt
-#https://v.firebog.net/hosts/Admiral.txt
-#https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
-#https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-#https://v.firebog.net/hosts/Easylist.txt
-#https://bit.ly/3xPsnIl
-#https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
-#https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
+#https://bit.ly/3Qtq71G = https://adaway.org/hosts.txt
+#https://bit.ly/3suqyk9 = https://v.firebog.net/hosts/AdguardDNS.txt
+#https://bit.ly/471KIBa = https://v.firebog.net/hosts/Admiral.txt
+#https://bit.ly/466wD3X = https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+#https://bit.ly/46U2XZc = https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+#https://bit.ly/3QiDHEY = https://v.firebog.net/hosts/Easylist.txt
+#https://bit.ly/3SqNxas = https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+#https://bit.ly/3u2knEs = https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
+#https://bit.ly/3Qinq2E = https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
+###
 ###
 # Tracking & Telemetry Lists
-
-wget https://v.firebog.net/hosts/Easyprivacy.txt -O13 && wget https://v.firebog.net/hosts/Prigent-Ads.txt -O14 && wget https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts -O15 && wget https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt -O16 && wget https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt -O17 && cat 13 14 15 16 17 > green_tracking+telemetry_lists.txt && rm 13 14 15 16 17
-
+###
+wget https://bit.ly/49qIvky -O13 && wget https://bit.ly/49mA1KW -O14 && wget https://bit.ly/49qNWQr -O15 && wget https://bit.ly/3QM5EGL -O16 && wget https://bit.ly/40u7ord -O17 && cat 13 14 15 16 17 > green_tracking+telemetry_lists.txt && rm 13 14 15 16 17
+###
+#https://bit.ly/49qIvky = https://v.firebog.net/hosts/Easyprivacy.txt
+#https://bit.ly/49mA1KW = https://v.firebog.net/hosts/Prigent-Ads.txt
+#https://bit.ly/49qNWQr = https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
+#https://bit.ly/3QM5EGL = https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+#https://bit.ly/40u7ord = https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+###
+###
 # Malicious Lists
-
-wget https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt -O18 && wget https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt -O19 && wget https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt -O20 && wget https://v.firebog.net/hosts/Prigent-Crypto.txt -O21 && wget https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts -O22 && wget https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt -O23 && wget https://phishing.army/download/phishing_army_blocklist_extended.txt -O24 && wget https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt -O25 && wget https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt -O26 && wget https://raw.githubusercontent.com/Te-k/stalkerware-indicators/master/generated/hosts -O27 && wget https://urlhaus.abuse.ch/downloads/hostfile/ -O28 && cat 18 19 20 21 22 23 24 25 26 27 28 > green_malicious_lists.txt && rm 18 19 20 21 22 23 24 25 26 27 28
-
+###
+wget https://bit.ly/3sjW4kQ -O18 && wget https://bit.ly/3FNaKw2 -O19 && wget https://bit.ly/3Mwbdql -O20 && wget https://bit.ly/3Sv19Sg -O21 && wget https://bit.ly/3MwUaEi -O22 && wget https://bit.ly/46gASKJ -O23 && wget https://bit.ly/3MtXjF0 -O24 && wget https://bit.ly/3FJmwaT -O25 && wget https://bit.ly/3tXlV2p -O26 && wget https://bit.ly/3FJmzDB -O27 && wget https://bit.ly/49nwkof -O28 && wget https://bit.ly/3MwUiUi -O29 && wget https://bit.ly/3slgv0R -O30 && cat 18 19 20 21 22 23 24 25 26 27 28 29 30 > green_malicious_lists.txt && rm 18 19 20 21 22 23 24 25 26 27 28 29 30
+###
+#https://bit.ly/3sjW4kQ = https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
+#https://bit.ly/3FNaKw2 = https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
+#https://bit.ly/3Mwbdql = https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
+#https://bit.ly/3Sv19Sg = https://v.firebog.net/hosts/Prigent-Crypto.txt
+#https://bit.ly/3MwUaEi = https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
+#https://bit.ly/46gASKJ = https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
+#https://bit.ly/3MtXjF0 = https://phishing.army/download/phishing_army_blocklist_extended.txt
+#https://bit.ly/3FJmwaT = https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
+#https://bit.ly/3tXlV2p = https://v.firebog.net/hosts/RPiList-Malware.txt
+#https://bit.ly/3FJmzDB = https://v.firebog.net/hosts/RPiList-Phishing.txt
+#https://bit.ly/49nwkof = https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
+#https://bit.ly/3MwUiUi = https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
+#https://bit.ly/3slgv0R = https://urlhaus.abuse.ch/downloads/hostfile/
+###
+###
 # Other Lists
-
-wget https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser -O29 && cat 29 > green_other_lists.txt && rm 29
+###
+wget https://bit.ly/3SmfccG -O31 && cat 31 > green_other_lists.txt && rm 31
+###
+#https://bit.ly/3SmfccG = https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
