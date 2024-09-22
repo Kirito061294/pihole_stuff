@@ -3,3 +3,4 @@ x2.c.lencr.org
 mobile.launchdarkly.com
 crl.verisign.com
 crl3.digicert.com
+x1.c.lencr.org
