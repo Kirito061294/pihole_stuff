@@ -1,4 +1,4 @@
-(\.|^)windowsupdate\.com$
+windowsupdate.com
 catalog.gamepass.com
 edge.microsoft.com
 onedrive.live.com
