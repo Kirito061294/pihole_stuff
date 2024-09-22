@@ -1,2 +1,4 @@
 robertspaceindustries.com
 media.robertspaceindustries.com
+shared.steamstatic.com
+ru.wargaming.net
