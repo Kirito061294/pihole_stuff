@@ -1,3 +1,4 @@
 fonts.googleapis.com
 www.google.com
 www.gstatic.com
+www.youtube-nocookie.com
