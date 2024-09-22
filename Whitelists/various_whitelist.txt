@@ -8,3 +8,4 @@ alive.github.com
 api.github.com
 updates.overwolf.com
 central.github.com
+clientstream.launchdarkly.com
