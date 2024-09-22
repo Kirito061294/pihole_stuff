@@ -6,3 +6,4 @@ google.com
 www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 connectivitycheck.gstatic.com
 mtalk.google.com
+dl.google.com
