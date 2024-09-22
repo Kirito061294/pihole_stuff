@@ -10,3 +10,4 @@ settings-win.data.microsoft.com
 www.bing.com
 ctldl.windowsupdate.com
 img-prod-cms-rt-microsoft-com.akamaized.net
+fs.microsoft.com
