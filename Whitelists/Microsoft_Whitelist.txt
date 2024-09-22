@@ -7,3 +7,4 @@ ecs.office.com
 login.live.com
 in.appcenter.ms
 settings-win.data.microsoft.com
+www.bing.com
