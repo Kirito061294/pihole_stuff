@@ -4,3 +4,4 @@ mobile.launchdarkly.com
 crl.verisign.com
 crl3.digicert.com
 x1.c.lencr.org
+alive.github.com
