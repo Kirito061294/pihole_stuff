@@ -1,2 +1,5 @@
 media.discordapp.net
 discord.com
+updates.discord.com
+latency.discord.media
+gateway-us-east1-c.discord.gg
