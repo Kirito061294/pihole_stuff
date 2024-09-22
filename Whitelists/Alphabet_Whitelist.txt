@@ -2,3 +2,7 @@ fonts.googleapis.com
 www.google.com
 www.gstatic.com
 www.youtube-nocookie.com
+google.com
+www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
+connectivitycheck.gstatic.com
+mtalk.google.com
