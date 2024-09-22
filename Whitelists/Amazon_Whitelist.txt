@@ -1,0 +1,1 @@
+steamcloud-frf.s3.dualstack.eu-central-1.amazonaws.com
