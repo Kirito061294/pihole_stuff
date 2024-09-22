@@ -1,0 +1,9 @@
+(\.|^)windowsupdate\.com$
+catalog.gamepass.com
+edge.microsoft.com
+onedrive.live.com
+browser.pipe.aria.microsoft.com
+ecs.office.com
+login.live.com
+in.appcenter.ms
+settings-win.data.microsoft.com
