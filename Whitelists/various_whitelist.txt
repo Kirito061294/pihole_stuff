@@ -5,3 +5,6 @@ crl.verisign.com
 crl3.digicert.com
 x1.c.lencr.org
 alive.github.com
+latency.discord.media
+api.github.com
+updates.overwolf.com
