@@ -1,1 +1,3 @@
 chrome.cloudflare-dns.com
+roughtime.cloudflare.com
+time.cloudflare.com
