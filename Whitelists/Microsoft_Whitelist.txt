@@ -20,3 +20,4 @@ aka.ms
 visualstudio-devdiv-c2s.msedge.net
 download.windowsupdate.com
 storeedgefd.dsx.mp.microsoft.com
+wdcp.microsoft.com
