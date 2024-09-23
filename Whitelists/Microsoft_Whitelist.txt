@@ -13,3 +13,6 @@ img-prod-cms-rt-microsoft-com.akamaized.net
 fs.microsoft.com
 dual-a-0001.a-msedge.net
 checkappexec.microsoft.com
+fe2cr.update.microsoft.com
+dns.msftncsi.com
+go.microsoft.com
