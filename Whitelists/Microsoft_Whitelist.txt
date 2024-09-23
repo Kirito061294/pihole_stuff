@@ -18,3 +18,4 @@ dns.msftncsi.com
 go.microsoft.com
 aka.ms
 visualstudio-devdiv-c2s.msedge.net
+download.windowsupdate.com
