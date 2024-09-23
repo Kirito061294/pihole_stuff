@@ -9,3 +9,4 @@ api.github.com
 updates.overwolf.com
 central.github.com
 clientstream.launchdarkly.com
+updates.ghub.logitechg.com
