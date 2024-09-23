@@ -2,3 +2,4 @@ robertspaceindustries.com
 media.robertspaceindustries.com
 shared.steamstatic.com
 ru.wargaming.net
+moo-development.s3.amazonaws.com
