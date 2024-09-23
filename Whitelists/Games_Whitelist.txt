@@ -10,3 +10,7 @@ cmsstatic.aion.gameforge.com
 gf3.geo.gfsrv.net
 events.gameforge.com
 gameforge.com
+events2.gameforge.com
+e9.whatsapp.net
+spark.gameforge.com
+secure-asset-delivery.gameforge.com
