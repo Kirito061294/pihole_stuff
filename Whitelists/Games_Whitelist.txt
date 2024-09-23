@@ -6,3 +6,7 @@ moo-development.s3.amazonaws.com
 pixelzirkus.gameforge.com
 patches.gameforge.com
 dl.tnt.gameforge.com
+cmsstatic.aion.gameforge.com
+gf3.geo.gfsrv.net
+events.gameforge.com
+gameforge.com
