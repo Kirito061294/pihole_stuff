@@ -14,3 +14,4 @@ events2.gameforge.com
 e9.whatsapp.net
 spark.gameforge.com
 secure-asset-delivery.gameforge.com
+clientconfig.akamai.steamstatic.com
