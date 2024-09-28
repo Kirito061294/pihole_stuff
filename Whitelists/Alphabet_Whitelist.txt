@@ -10,3 +10,4 @@ dl.google.com
 www.youtube.com
 xgapromomanager-pa.googleapis.com
 i.ytimg.com
+youtubei.googleapis.com
