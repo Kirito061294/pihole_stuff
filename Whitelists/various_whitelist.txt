@@ -10,3 +10,6 @@ updates.overwolf.com
 central.github.com
 clientstream.launchdarkly.com
 updates.ghub.logitechg.com
+ocsp.digicert.com
+0.pool.ntp.org
+1.pool.ntp.org
