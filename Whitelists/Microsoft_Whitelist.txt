@@ -21,3 +21,6 @@ visualstudio-devdiv-c2s.msedge.net
 download.windowsupdate.com
 storeedgefd.dsx.mp.microsoft.com
 wdcp.microsoft.com
+api.nuget.org
+watson.events.data.microsoft.com
+msedge.b.tlu.dl.delivery.mp.microsoft.com
