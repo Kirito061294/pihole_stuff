@@ -1,3 +1,0 @@
-steamcloud-frf.s3.dualstack.eu-central-1.amazonaws.com
-steamcloud-dub.s3.dualstack.eu-west-1.amazonaws.com
-ocsp.r2m01.amazontrust.com
