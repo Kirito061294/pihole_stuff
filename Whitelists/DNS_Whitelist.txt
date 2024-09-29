@@ -1,4 +1,0 @@
-chrome.cloudflare-dns.com
-roughtime.cloudflare.com
-time.cloudflare.com
-a.nel.cloudflare.com
