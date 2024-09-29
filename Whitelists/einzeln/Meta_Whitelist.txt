@@ -2,3 +2,5 @@ mmg.whatsapp.net
 g.whatsapp.net
 pps.whatsapp.net
 static.whatsapp.net
+graph.facebook.com
+mqtt-mini.facebook.com
