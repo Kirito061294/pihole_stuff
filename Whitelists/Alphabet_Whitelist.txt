@@ -11,3 +11,5 @@ www.youtube.com
 xgapromomanager-pa.googleapis.com
 i.ytimg.com
 youtubei.googleapis.com
+www.googleapis.com
+s.youtube.com
