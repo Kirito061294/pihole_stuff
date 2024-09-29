@@ -12,7 +12,9 @@ xgapromomanager-pa.googleapis.com
 i.ytimg.com
 youtubei.googleapis.com
 www.googleapis.com
-s.youtube.comsteamcloud-frf.s3.dualstack.eu-central-1.amazonaws.com
+s.youtube.com
+update.googleapis.com
+geller-pa.googleapis.comsteamcloud-frf.s3.dualstack.eu-central-1.amazonaws.com
 steamcloud-dub.s3.dualstack.eu-west-1.amazonaws.com
 ocsp.r2m01.amazontrust.comchrome.cloudflare-dns.com
 roughtime.cloudflare.com
@@ -36,7 +38,9 @@ secure-asset-delivery.gameforge.com
 clientconfig.akamai.steamstatic.comstorage.signal.orgmmg.whatsapp.net
 g.whatsapp.net
 pps.whatsapp.net
-static.whatsapp.netwindowsupdate.com
+static.whatsapp.net
+graph.facebook.com
+mqtt-mini.facebook.comwindowsupdate.com
 catalog.gamepass.com
 edge.microsoft.com
 onedrive.live.com
