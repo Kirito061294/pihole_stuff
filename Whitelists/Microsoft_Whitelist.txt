@@ -24,3 +24,8 @@ wdcp.microsoft.com
 api.nuget.org
 watson.events.data.microsoft.com
 msedge.b.tlu.dl.delivery.mp.microsoft.com
+arc.msn.com
+officeclient.microsoft.com
+outlook.office365.com
+config.edge.skype.com
+settings.data.microsoft.com
