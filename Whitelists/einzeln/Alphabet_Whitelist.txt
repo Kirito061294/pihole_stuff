@@ -13,3 +13,5 @@ i.ytimg.com
 youtubei.googleapis.com
 www.googleapis.com
 s.youtube.com
+update.googleapis.com
+geller-pa.googleapis.com
