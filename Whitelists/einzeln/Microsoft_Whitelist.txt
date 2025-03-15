@@ -17,6 +17,7 @@ fe2cr.update.microsoft.com
 dns.msftncsi.com
 go.microsoft.com
 aka.ms
+www.microsoft.com
 visualstudio-devdiv-c2s.msedge.net
 download.windowsupdate.com
 storeedgefd.dsx.mp.microsoft.com
@@ -24,8 +25,13 @@ wdcp.microsoft.com
 api.nuget.org
 watson.events.data.microsoft.com
 msedge.b.tlu.dl.delivery.mp.microsoft.com
+m365cdn.nel.measure.office.net
 arc.msn.com
 officeclient.microsoft.com
+exo.nel.measure.office.net
 outlook.office365.com
+g.live.com
 config.edge.skype.com
+au.download.windowsupdate.com
 settings.data.microsoft.com
+time.windows.com
