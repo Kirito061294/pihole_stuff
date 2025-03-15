@@ -15,3 +15,12 @@ www.googleapis.com
 s.youtube.com
 update.googleapis.com
 geller-pa.googleapis.com
+safebrowsing.googleapis.com
+calendarsync-pa.googleapis.com
+content-autofill.googleapis.com
+mail.google.com
+android.apis.google.com
+storage.googleapis.com
+time.google.com
+youtube.com
+ajax.googleapis.com
