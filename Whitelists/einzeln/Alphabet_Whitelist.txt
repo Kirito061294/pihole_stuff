@@ -24,3 +24,4 @@ storage.googleapis.com
 time.google.com
 youtube.com
 ajax.googleapis.com
+fonts.gstatic.com
