@@ -23,12 +23,14 @@ android.apis.google.com
 storage.googleapis.com
 time.google.com
 youtube.com
-ajax.googleapis.comsteamcloud-frf.s3.dualstack.eu-central-1.amazonaws.com
+ajax.googleapis.com
+fonts.gstatic.comsteamcloud-frf.s3.dualstack.eu-central-1.amazonaws.com
 steamcloud-dub.s3.dualstack.eu-west-1.amazonaws.com
 ocsp.r2m01.amazontrust.comchrome.cloudflare-dns.com
 roughtime.cloudflare.com
 time.cloudflare.com
-a.nel.cloudflare.comrobertsspaceindustries.com
+a.nel.cloudflare.com
+dns.googlerobertsspaceindustries.com
 media.robertsspaceindustries.com
 shared.steamstatic.com
 ru.wargaming.net
@@ -108,4 +110,4 @@ clientstream.launchdarkly.com
 updates.ghub.logitechg.com
 ocsp.digicert.com
 0.pool.ntp.org
-1.pool.ntp.org
+1.pool.ntp.orgcode.jquery.com
