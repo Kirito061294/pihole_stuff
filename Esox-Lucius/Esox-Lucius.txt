@@ -1,434 +1,3 @@
-# AgentTesla - Malware Domain Feed V2
-# Command and Control domains for malware known as AgentTesla. These domains are extracted from malware sandbox reports using a Machine Learning model trained on a corpus of good and bad domains.
-# Source: https://otx.alienvault.com/user/otxrobottwo/pulses
-#
-# UPDATED: 10-05-2022
-#
-# Every link reported should be considered harmefull and could result in an unwanted malware download. Use this file carrefully.
-#
-#
-#                                                             **** Therefor my advice is ****
-#                                                  **** If you experience sites that are being blocked ****
-#                                                **** please double check your input in search field and ****
-#                                           **** see if it's correct and verify that it is the correct page you ****
-#                                             **** are going too! If it is correct then whitelist that site ****
-#
-#                                                           USE THIS LIST WITH CAUTION!
-#
-#
-# *****The list is released without any warranty to the end users.*****
-#
-# *** This list contains domains and hosts ***
-# *******************************************************************************************************************************************************************
-# AgentTesla - Malware Domain Feed V2
-# Source: https://otx.alienvault.com/pulse/5cc6acd2f09b1969a10255f7
-
-# Domains
-huaweitunisie.tn
-apaverydennison.space
-arianaspawn.com
-modeirninsulators.com
-justsecurityinc.com
-sabaint.me
-jimasun.online
-bdmtradingltd.live
-webpanelsetup.ml
-6llion.com
-originlogs.ru
-angelsnetwork.fr
-eyeover.it
-timecforgoodnes.ml
-sass-se.com
-strollchief.com
-ergon.club
-foxcylical.com.ng
-aarque.co
-adgalactica.com
-transportmada.com
-alexknives.com
-potentpharm.guru
-xeodu.com
-3bots.xyz
-nonpratisan.com
-softflexicompany.com
-exide-co.in
-onwamay.in
-smithscope.info
-onwajuly.com
-cssimme.com
-bellinasution.ml
-baharanvilla.ir
-csebullk.com
-hsbnonline.com
-papiking.com
-dogoodtomendothers.com
-senseint.info
-infonalytics.us
-binar.ir
-novindam.ir
-baileybluesclothing.com
-beninaintonio.com
-pccarpat.com
-demknowusalot.ltd
-vikashs-adcoconstruct.com
-globebambi.com
-norllock.com
-hbrservices.in
-crilod.com
-eastbrightness.com
-sasecurity.pro
-bawsymoney.ga
-coolhead.xyz
-commercialoffshorebanking.com
-konstantinidis-sp.gr
-emtelakproperties.com
-limmergarden.com
-rigdps1.com
-esecurty.ru
-equipmentsandmachines.com
-agenttesla.tk
-groupbizconsulting.com
-nortonlilly.info
-meublesinde.in
-udememadman.com
-wieda-mc.com
-herbsel.com
-tmwina.com
-securitynsection.com
-bauremediaus.com
-mblasta.com
-manchestergardensllc.com
-lucasacc.com
-hitek-pk.com
-jxcoders.com
-regattaxiamen.info
-easternvibez.com
-grindtreu.online
-jtcmachinery.com
-fizafr.com
-wttxt.info
-effetka.com
-plumberspro.us
-lamefrp.xyz
-bnpparis.co
-shivsons.info
-hresys.info
-phareizforsales.xyz
-regencyship.info
-zacwon.com
-
-# Hosts
-0.0.0.0	48982689868.home.anadolu.edu.tr
-0.0.0.0	nayoi.themiyakaja.com
-0.0.0.0	ojpop.themiyakaja.com
-0.0.0.0	syncav.ms-sync.com
-0.0.0.0	www.transportmada.com
-0.0.0.0	www.abcsd.info
-0.0.0.0	www.newsandbooks.xyz
-0.0.0.0	webmail.ocenmasters.com
-0.0.0.0	mail.rnfreight.com
-0.0.0.0	mail.casabarros.com
-0.0.0.0	mail.oceanskylogistics.in
-0.0.0.0	mail.atifnazar.com
-0.0.0.0	mail.ocenmasters.com
-0.0.0.0	mail.orientalgroupbd.com
-0.0.0.0	www.usarmyvacations.info
-0.0.0.0	chile-boss.comie.ru
-0.0.0.0	blacknet.riskpi.xyz
-0.0.0.0	www.progress-sampling.co.za
-0.0.0.0	www.mshhmasvx.com
-0.0.0.0	www.deveinsun.com
-0.0.0.0	www.breakinglimits2020.com
-0.0.0.0	www.servicee.com.ng
-0.0.0.0	www.svmarketingindia.com
-0.0.0.0	www.absfiresafety.com.au
-0.0.0.0	www.sczomen.com
-0.0.0.0	sm.rooderoofing.com.au
-0.0.0.0	www.appleconnect.online
-0.0.0.0	www.hamryrechalka.com
-0.0.0.0	www.onwaego.xyz
-0.0.0.0	www.sery.ga
-0.0.0.0	figure.alphadeltas.in
-0.0.0.0	www.agentfalco.xyz
-0.0.0.0	www.ink-qlobal.com
-0.0.0.0	ike.alphadeltas.in
-0.0.0.0	backupc.ddns.net
-0.0.0.0	kalicobalt.ddns.net
-0.0.0.0	krmben.mooo.com
-0.0.0.0	freeman.alphadeltas.in
-0.0.0.0	f0541260.xsph.ru
-0.0.0.0	bigbag.wootraining.certificacion.cl
-0.0.0.0	whesilo.alphadeltas.in
-0.0.0.0	4dkhw6q65mtym4r7.bounceme.net
-0.0.0.0	small-kelly.alphadeltas.in
-0.0.0.0	www.fedinkom.pw
-0.0.0.0	riza.manaeger-sale.com
-0.0.0.0	www.agenttesla.com
-0.0.0.0	tankantswebhosting.mywire.org
-0.0.0.0	mail.escueladeseguridadmaritima.com
-0.0.0.0	mail.indiacarpet.in
-0.0.0.0	mail.narbon-co.com
-0.0.0.0	mail.flowersforever.ae
-0.0.0.0	mail.daito-inc.co.jp
-0.0.0.0	mail.centraldefiltros.cl
-0.0.0.0	mail.morabitur.com
-0.0.0.0	smtp.taizingshipping.com
-0.0.0.0	mail.zealaqua.com
-0.0.0.0	mail.butterflymotors.com
-0.0.0.0	mail.sumait.ac.tz
-0.0.0.0	mail.contrivekota.in
-0.0.0.0	webmail.mdist.us
-0.0.0.0	mail.framafilms.com
-# Amadey - Malware Domain Feed V2
-# Command and Control domains for malware known as Amadey. These domains are extracted from malware sandbox reports using a Machine Learning model trained on a corpus of good and bad domains. 
-# Source: https://otx.alienvault.com/user/otxrobottwo/pulses
-#
-# UPDATED 10-05-2022
-#
-# Every link reported should be considered harmefull and could result in an unwanted malware download. Use this file carrefully.
-#
-#                                                             **** Therefor my advice is ****
-#                                                  **** If you experience sites that are being blocked ****
-#                                                **** please double check your input in search field and ****
-#                                           **** see if it's correct and verify that it is the correct page you ****
-#                                             **** are going too! If it is correct then whitelist that site ****
-#
-#                                                           USE THIS LIST WITH CAUTION!
-#
-#
-# *****The list is released without any warranty to the end users.*****
-#
-# *** This list contains domains and hosts ***
-# *******************************************************************************************************************************************************************
-# Amadey - Malware Domain Feed V2
-# Source: https://otx.alienvault.com/pulse/5cda259f82165754a51c3177
-
-# Domains
-sapport.co.in
-logmein.link
-cert-us.com
-seekinout.com
-ashleywalkerfuns.com
-trafficmasterssss.uz
-garystahioptiongi.info
-lologhhdkjs.org
-e-msk.info
-mildibsilgip.com
-gohaiendo.com
-smmokoffgj.org
-wheinesfurniture.net
-xetryc11.top
-webrnail.net
-onedrive.one
-achmannatgagamico.info
-gucciai.net
-prodminutese.me
-sysupdate.icu
-handous.net
-luckyshark.cash
-safegross.com
-cnock.info
-lboat.ru
-tincolittat.ru
-sakedratto.com
-lorefensed.ru
-forrolrestons.ru
-retredmuchwas.com
-hersdintfortho.ru
-todratsake.ru
-codeotso.com
-fordifortti.ru
-sunnsongs.com
-acceso.live
-henidvelo.com
-ugunhimte.ru
-rebreaksstonehen.at
-luckymonkey.net.in
-totansinone.com
-cdn12-web-security.com
-undwomime.ru
-toldhisranspar.ru
-pardubic.club
-icets.at
-megeofhedt.com
-sparherrestal.ru
-rolfikinme.ru
-vastyrannouse.at
-ledehaptal.ru
-ranspartoldhis.ru
-perailed.ru
-axissautomation.com
-bolsaooma.com
-bobryangood.ga
-mundence.ru
-veheptarab.ru
-imentramin.com
-robdodownbab.com
-btcrocket.net
-bobryangood1.ga
-taskhostw.com
-charley-online.com
-seowebstatist.xyz
-snowman720.com
-nutrukomolol.com
-nosangeles.com
-3053-325-43-253.com
-xoxonutricia.com
-onepunchik.club
-softhub.win
-on3121.xyz
-dasterhorora.com
-osdrivers.win
-winstatic.top
-winstatic.host
-uppan.site
-transaccion.ga
-spacemonkey.top
-xtkehjjerbk.icu
-csgoprofind.net
-gunbot.top
-toolhelper.xyz
-324-23-32432.com
-35-23-4532-34.com
-browserinstallup.xyz
-trafficsystem.site
-mycloudhostsite.com
-techterms.online
-idcheck-centerlog98324932.ru
-panel0panel1.ru
-centerlog-idcheck89320942.ru
-pikabu.best
-veyron.ir
-nocensorship.space
-strongbolt.site
-ishopping.press
-servicestatus.one
-selavi.me
-cetslavie.online
-searchtool.space
-gunbot.bid
-tonorganisation.space
-ton-organisation.space
-mynexa.io
-jmucha.fun
-belalallo.xyz
-huxere.xyz
-cleaningpro.top
-lampoone.top
-angiearm.top
-joikilloiujjtyaaa.xyz
-foflikenoiujiiik.cn
-goldhole.top
-dustontail.top
-dfh64jhfgnhdfgddddddddddda.me
-dfh64jhfgnhdfgdddffaddda.name
-moneypotlol.com
-onerizla.top
-on291220.xyz
-s301220.xyz
-speeduppercolatorl.at
-g-localdevice.biz
-
-# Hosts
-0.0.0.0	belgu.zzz.com.ua
-0.0.0.0	web.jsonpost.xyz
-0.0.0.0	wid.badseek.com
-0.0.0.0	www.rubthemoneybear.xyz
-0.0.0.0	cj42138.tmweb.ru
-0.0.0.0	shegw583reg.hopto.org
-0.0.0.0	am.itmenagerie.tech
-0.0.0.0	upgradesrv.890m.com
-0.0.0.0	www.s301220.xyz
-# Andromeda - Malware Domain Feed V2
-# Command and Control domains for malware known as Andromeda. 
-# These domains are extracted from malware sandbox reports using a Machine Learning model trained on a corpus of good and bad domains. 
-# Source: https://otx.alienvault.com/user/otxrobottwo
-#
-# UPDATED: 10-05-2022
-#
-# Every link reported should be considered harmefull and could result in an unwanted malware download. Use this file carrefully.
-#
-#                                                             **** Therefor my advice is ****
-#                                                  **** If you experience sites that are being blocked ****
-#                                                **** please double check your input in search field and ****
-#                                           **** see if it's correct and verify that it is the correct page you ****
-#                                             **** are going too! If it is correct then whitelist that site ****
-#
-#                                                           USE THIS LIST WITH CAUTION!
-#
-#
-# *****The list is released without any warranty to the end users.*****
-#
-# *** This list contains domains and hosts ***
-# *******************************************************************************************************************************************************************
-# Andromeda - Malware Domain Feed V2
-# Source: https://otx.alienvault.com/pulse/5cc3cd3f4ef192274ff2b5ac
-
-# Domains
-kosrt.tk
-bat99-11611.co
-ringplanet.eu
-wrongturn55.com
-karaokeboom.ru
-dnswow2.com
-dnswow.com
-dnswow3.com
-pas2joux.info
-whoknl.com
-cfokor.ml
-pixarwiki.net
-drirestore.com
-navsafemarine.com.au
-11gg.ru
-film24hd.us
-connect-s3892.ru
-bestbrightday.ru
-connect-support-server.ru
-poppingb.com
-12831371771.pw
-kreewalk.com
-andra20151.ml
-54892291911.pw
-21781237171.pw
-trackingtms.com
-spotxte.com
-g1e627eg721.pw
-poppingh.com
-poppingg.com
-gerardbalian.com
-seo-gain.ru
-731pro.pw
-poppingf.com
-baidishenko111.in
-poppinge.info
-faumoussuperstars.ru
-powerrembo.ru
-brushes.su
-
-# Hosts
-0.0.0.0	and.wizatoberegisterd3.com
-0.0.0.0	and.thewowpownow3.com
-0.0.0.0	and.thewowpownow5.com
-0.0.0.0	and24.binaryoptionisnotmelfolz1.com
-0.0.0.0	and23.nedregisterbali1.com
-0.0.0.0	and4.junglebeariwtc1.com
-0.0.0.0	www.tangchenbeijianhealth.com
-0.0.0.0	tgr.tecnoagenzia.eu
-0.0.0.0	and19.amainwrorldnancy1.com
-0.0.0.0	rxxl.tecnoagenzia.eu
-0.0.0.0	and31.amainwrorldnancy4.com
-0.0.0.0	and31.blllaaaaaazblaaa3.com
-0.0.0.0	and11.themarket12345sushi1.com
-0.0.0.0	it.istitutobancariopagamentielettronici.com
-0.0.0.0	and11.themarket12345sushi.com
-0.0.0.0	and9.themainnotmainstreet2.com
-0.0.0.0	dcc.pscv.williampenncarecenter.com
-0.0.0.0	loader.securityiguard.com
-0.0.0.0	and9.themainnotmainstreet1.com
-0.0.0.0	spa.sub-zero.it
-0.0.0.0	slot.pilenga.net
-0.0.0.0	and16.f16zakitchengirl1.com
-0.0.0.0	and.wizatoberegisterd4.com
 # APPLE Malware, Exploits, Hacks IOCs
 # Source: https://otx.alienvault.com/user/Kailula4/pulses + https://otx.alienvault.com
 #
@@ -2642,796 +2211,6 @@ wwwappelsupport.com
 0.0.0.0	www.secure-appleid.info
 0.0.0.0	www.update-apple.com
 0.0.0.0	www.user-appleid.com
-# Arkei - Malware Domain Feed V2
-#  Command and Control domains for malware known as Arkei. These domains are extracted from malware sandbox reports using a Machine Learning model trained on a corpus of good and bad domains.
-# Source: https://otx.alienvault.com/user/otxrobottwo/pulses
-
-# UPDATED: 05-11-2020
-#
-# Every link reported should be considered harmefull and could result in an unwanted malware download. Use this file carrefully.
-#
-#
-#                                                             **** Therefor my advice is ****
-#                                                  **** If you experience sites that are being blocked ****
-#                                                **** please double check your input in search field and ****
-#                                           **** see if it's correct and verify that it is the correct page you ****
-#                                             **** are going too! If it is correct then whitelist that site ****
-#
-#                                                           USE THIS LIST WITH CAUTION!
-#
-#
-# *****The list is released without any warranty to the end users.*****
-#
-# *** This list contains domains and hosts ***
-# *******************************************************************************************************************************************************************
-# Arkei - Malware Domain Feed V2
-# Source: https://otx.alienvault.com/pulse/5ccb4fed8605eed9aefe3bd6
-
-# Domains
-1stpubs.com
-1win-pro.com
-1win-pro.online
-2ndpub.com
-2p2kzepitler.ml
-3ppuubb.com
-3prokladkaeu.com
-65ao5xzu.com
-92g938uextmgvb7rllv8wcad.biz
-2754e42845.pw
-3528237cff.pw
-aaenyhostel.org
-aaload04.top
-aaron.ug
-aaronthompson.ug
-acrelop.com
-adwaresoftstats.xyz
-adwarestat.xyz
-aiiesspress.com
-airsarald.com
-amyginevgeny1.online
-amyginevgeny.online
-andherieastern.com
-anjalihome.org
-antesnotenianada.online
-archessee.com
-arkei.my
-artatighab.com
-artemiscynthia.org
-asload02.top
-asload022.top
-asload03.top
-asload05.top
-autarla.com
-axload02.top
-axload03.top
-axload05.top
-axload06.top
-axload08.top
-axload09.top
-axload11.top
-axload12.top
-axload13.top
-axload14.top
-badlandsparks.com
-baldorini.top
-barcla.ug
-barddistocor.com
-bariomowel.com
-barjamanis.com
-barkeoikeilo.click
-baubautzen.net
-bbenttexas.com
-bdns.by
-bergamot.nu
-besfdooorkoora.com
-bestinfobest.ru
-bestphorot.cf
-bestpolandhotels.com
-biscayneinn.com
-blackhead.top
-blockchaln.cash
-bnixons.ug
-bnxhbc25hwcv8b8afawhevzw.biz
-bogdanooo.site
-bokrosiiit.com
-bonesta223s.com
-bristleconepin.com
-brucewayneint.com
-buncks.com
-cafalife.com
-canadastuff.top
-candy4crush.xyz
-carambaslonekal.top
-carlsbadmx.com
-cede03.info
-cede04.info
-cedss01.top
-cedss02.top
-cedss03.top
-centos10.com
-checktime.pk
-chihuahuansands.com
-chumashpeople.com
-cmd3490ghbdtn3.ru
-coinchangerapi.com
-corinthiano.ug
-corinthianov.ug
-coronetsfrank.ug
-courtneyhones.ac.ug
-courtneyjjones.ac.ug
-courtneysdv.ac.ug
-cripoeu.ru
-crutchessxzc.ru
-cryptoshop.ac.ug
-csgo-empire.fun
-cuyahogarave.com
-cuyahogav.com
-cyberdemon.xyz
-cyberdevapp.website
-dasturchi.club
-dbfhdbkd.pw
-dersed.com
-direstolakolai.top
-dreakfont.in
-dress-x.ru
-duranduran.co.ug
-duranduran.ug
-duranforme.ug
-earphorialofts.net
-easydrivershelp.info
-edificiobelavista.com.br
-embrodownscience.su
-enothost.ru
-eroomia.com
-ethchain.live
-ethclick.me
-ethpromo.live
-etips.fun
-evergladsea.com
-f321y.com
-ferreiranadii.ac.ug
-ffacscs.ug
-ffvgdsv.ug
-fineme.ug
-flytortuga.com
-focclef.ru
-fokojoloyt.org
-fortnite-pine.com
-foxgame.club
-fragly.top
-franksf.ug
-freeforallapps.pk
-freekzvideo.cloud
-frilance.online
-frostwhoer.online
-ftelegram.fun
-fuckingav.xyz
-fullrelevance.xyz
-funkybuddhahostel.top
-futboolspaceesk.com
-gagaggahehehqwe.net
-gebrauchlichtal.com
-gerawest.xyz
-geroloainse.com
-getcoins.ac.ug
-gettorrent.ac.ug
-ggtyyu.pw
-giuseppev.ug
-giuseppex.ug
-goga01.xyz
-greatteton.com
-greenpalace.top
-grelkafestivales.com
-gulfmigratory.com
-guputhy.site
-gyeonggidoo.com
-hahaprivet.ga
-heritstage.com
-hhhload01.top
-hhhload07.top
-hireporters.com
-hjsdbfbvtysfc.pw
-hokagehuyaki.space
-hospitaleco.com
-hostisgerhg.tk
-hotsalegnom.com
-hotticketsale.com
-illinoisnot.ru
-iloveyoubabu.ac.ug
-interludeeurope.com
-japanweterans.com
-jewelnetspacecon2.com
-jload02.info
-johnrayonc.ug
-jolietamandatenasta.com
-jomarako.com
-juhubeachn.com
-k6vq28tbjbz5rhjsgtm3gmsy.xyz
-kafurr01.top
-kafurr02.top
-kafurr03.top
-kafurr04.top
-kafurr05.top
-kakoloidkaborn.com
-katananestwate.com
-keitbeschutzen.com
-klegrandlichgrum.com
-korikanelolsa.tech
-kriso.ru
-kuskokwimca.com
-lalitmumbai.net
-leatherlites.ug
-lgfl.host
-licenseverification.pw
-likeanimals.net
-lkjhgfdsa1.ru
-llssoo01.info
-longvoyages.com
-lumatimesquare.net
-magnar01.top
-magnar02.top
-magnar03.top
-maineacadia.com
-malarcvgs.ac.ug
-manillamemories.com
-manstraight.com
-maper.info
-markalsf.ru
-markalsk.ru
-maudqueen.com
-mazda-corp.tk
-megagemes.info
-megumin.world
-megunim.top
-mikakakakak.ru
-minorr05.top
-mixflow.top
-molothunsen.com
-moneybanda.info
-mooreny.top
-moraa03.top
-moraa04.top
-moraa05.top
-moraa06.top
-moraa07.top
-moraa10.top
-mortyboss.xyz
-myhostest.ug
-natiapropoint.com
-naukluftp.com
-naumokukea.com
-nctrnl.us
-neroolive.org
-newintelligents.org
-nvbcdfsvxcs.ug
-ohioanderie.com
-onlinemseof.site
-pabloeminoa.pw
-paranalakasa.ru
-paunsaugunt.com
-pay-robokassa.net
-penthausebrones.com
-photoshopsarte.com
-piedmontteem.com
-poiuytrewq3.site
-prohomedevs.com
-projecty.ug
-promspetsstroy.ru
-prosecuredata.top
-prostoloader.ru
-purgen.space
-purifckd.ug
-purification.ug
-pushing.pk
-qubert.org
-rainbird.pk
-raparanatauro.pw
-rapidbtcinvest.com
-rapistoparistos.xyz
-rapontoperito.pw
-ratarataruono.pw
-rattlesnakespr.com
-raymondjaon.ug
-reddragonshop.ru
-redredli.xyz
-refenansoro.com
-rifat04.info
-rineialav.com
-rrrload01.top
-rrrload02.top
-rrrload03.top
-rrrload04.top
-rrrload05.top
-rrrload06.top
-rrrload07.top
-rrrload08.top
-rrrrload03.top
-rrrrload04.top
-rrrrload05.top
-rrrrload08.top
-rsawt.uk
-rucop.ru
-ruon1on.ru
-sasurr01.top
-sasurr02.top
-sasurr03.top
-sasurr04.top
-sasurr05.top
-sasurr06.top
-sdaurr01.top
-sdaurr02.top
-sdaurr03.top
-sdaurr04.top
-sdaurr05.top
-search.ac.ug
-selousgame.com
-serhuwadwtr.xyz
-setseta.com
-shlyapa.website
-shortbit.xyz
-sikilalabro.ru
-sl9xa73g7u3eo07wt42n7f4vin5fzh.biz
-smartpromo.top
-smiothmadara.ug
-smk-apple.ru
-sngservq.site
-softmanager.info
-softwaredappis.ml
-sslproxys.com
-ssssssdomenb.tk
-standartjuke.info
-starlikespace.org
-steerdemens.com
-stephir.ug
-stiff02.top
-sumliomicna.com
-systemcare2020-download.com
-tdos04.top
-tdos05.top
-termscenter.com
-thekavango.com
-thepleasurelive.com
-thomasuncas.com
-timebound.ug
-tonetm.com
-toptrendclub.com
-torikk02.top
-transflux.xyz
-trasolevelqvines.com
-travelgidblog.top
-travelquize.com
-triathlethe.ug
-tribecaflatstore.com
-tribunal.ug
-troygillet.ug
-troygilletc.ug
-tunnabelly.ug
-turars.cc
-update-apk.su
-upyourtext.com
-urbanholidaylo.net
-urep01.top
-vanderbiltloft.org
-villadubois.org
-viniciuscorinthiano.ug
-vjhascv.ru
-vjhscxv.ru
-vjhxscv.ru
-vk-01d6k6l52.ru
-voyagephoshop.org
-wasabinails.com
-waterpocketfold.com
-watsonthematson.com
-weimachel.net
-wetz.icu
-whoicehkestes.com
-wikewikusl.ru
-williamxerxesya.org
-windows-updates-26746.com
-wordpress231.space
-wrangellse.com
-x7pro.top
-xakfor.net
-xenicolnc.space
-xn--e1ardc.xn--p1ai
-xylolle.com
-yandex.ac.ug
-ybookfli.net
-yourseo.ac.ug
-yrhealth.life
-ys-gay.net
-yukondeltas.com
-zaragoza.ug
-zcop.ru
-zews.tech
-zorneweau.com
-zver.tech
-
-# Hosts
-0.0.0.0	80530.prohoster.biz
-0.0.0.0	106411.prohoster.biz
-0.0.0.0	a0359074.xsph.ru
-0.0.0.0	a0362255.xsph.ru
-0.0.0.0	admin.foa.ae
-0.0.0.0	aliexpress.spb.ru
-0.0.0.0	astaluega.000webhostapp.com
-0.0.0.0	azomat.lisx.ru
-0.0.0.0	bomj1594.chsw.ru
-0.0.0.0	charle03.testok.testforhost.com
-0.0.0.0	cr39276.tmweb.ru
-0.0.0.0	demo.freeopensoftware.info
-0.0.0.0	dosuka13.zzz.com.ua
-0.0.0.0	dota.ueuo.com
-0.0.0.0	dronius267.myjino.ru
-0.0.0.0	ekaterinkr.temp.swtest.ru
-0.0.0.0	f0321143.xsph.ru
-0.0.0.0	f0378370.xsph.ru
-0.0.0.0	f0387404.xsph.ru
-0.0.0.0	f9113415.beget.tech
-0.0.0.0	host1732736.hostland.pro
-0.0.0.0	infodajk.beget.tech
-0.0.0.0	j6g3fzp.5k5.ru
-0.0.0.0	j1001281.myjino.ru
-0.0.0.0	jfogigh3i.2ihsfa.com
-0.0.0.0	masdjksajkda.zzz.com.ua
-0.0.0.0	michaeqy.beget.tech
-0.0.0.0	minings.kl.com.ua
-0.0.0.0	mrazotovi4.temp.swtest.ru
-0.0.0.0	o90177np.beget.tech
-0.0.0.0	panel.sardc.ru
-0.0.0.0	panelka.kl.com.ua
-0.0.0.0	s200472.smrtp.ru
-0.0.0.0	s243490.smrtp.ru
-0.0.0.0	savakolombas.had.su
-0.0.0.0	sh1178960.a.had.su
-0.0.0.0	techmagazine.zzz.com.ua
-0.0.0.0	test.adegokecollege.com
-0.0.0.0	u96558gu.beget.tech
-0.0.0.0	u332181fdm.ha002.t.justns.ru
-0.0.0.0	u.f321y.com
-0.0.0.0	uhgargr.2ihsfa.com
-0.0.0.0	vh62.timeweb.ru
-0.0.0.0	wwe23pro.myjino.ru
-0.0.0.0	www.bin1101oski.ru
-0.0.0.0	www.qhcaufwo.top
-0.0.0.0	www.rgmechanics.fun
-0.0.0.0	xmr.hashcity.org
-0.0.0.0	yesmamadoma.kl.com.ua
-0.0.0.0	zebi.zzz.com.ua
-# AsyncRAT - Malware Domain Feed V2
-# Command and Control domains for malware known as AsyncRAT. These domains are extracted from malware sandbox reports using a Machine Learning model trained on a corpus of good and bad domains. 
-# Source: https://otx.alienvault.com/user/otxrobottwo/pulses
-#
-# UPDATED: 10-05-2022
-#
-# Every link reported should be considered harmefull and could result in an unwanted malware download. Use this file carrefully.
-#
-#                                                             **** Therefor my advice is ****
-#                                                  **** If you experience sites that are being blocked ****
-#                                                **** please double check your input in search field and ****
-#                                           **** see if it's correct and verify that it is the correct page you ****
-#                                             **** are going too! If it is correct then whitelist that site ****
-#
-#                                                           USE THIS LIST WITH CAUTION!
-#
-#
-# *****The list is released without any warranty to the end users.*****
-#
-# *** This list contains domains and hosts ***
-# *******************************************************************************************************************************************************************
-# AsyncRAT - Malware Domain Feed V2
-# Source: https://otx.alienvault.com/pulse/5e756e341388e7514cb518d7
-
-# Domains
-polymoly.info
-stellacy.tk
-asdcqwdwqx.gq
-reversethis.store
-dlldns.xyz
-advisorgoetia-dns.xyz
-
-# Hosts
-0.0.0.0	franco.ddns.net
-0.0.0.0	ramsteincor.duckdns.org
-0.0.0.0	akconsult.linkpc.net
-0.0.0.0	e29rava.ddns.net
-0.0.0.0	frankent2021.ddns.net
-0.0.0.0	kingmethod.duckdns.org
-0.0.0.0	lilx.ddns.net
-0.0.0.0	eta.ne.virus.ne.trogaj.mena.kstati.putinso.site
-0.0.0.0	sdsda.kozow.com
-0.0.0.0	v3ctar.ddns.net
-0.0.0.0	lorixo666.sytes.net
-0.0.0.0	aliali782.ddns.net
-0.0.0.0	shieax.duckdns.org
-0.0.0.0	chongmei33.publicvm.com
-0.0.0.0	camelblack.duckdns.org
-0.0.0.0	mysubdomain873.duckdns.org
-0.0.0.0	pettbull.ddns.net
-0.0.0.0	manuelpredrosolora09.duckdns.org
-0.0.0.0	ibibbersen-60295.portmap.host
-0.0.0.0	krallarcarding.duckdns.org
-0.0.0.0	jul-perl.myvnc.com
-0.0.0.0	robertsaldarriagasoto09.duckdns.org
-0.0.0.0	exploitt.duckdns.org
-0.0.0.0	gdgjsdrgtwer.duckdns.org
-0.0.0.0	jilldoggyy.duckdns.org
-0.0.0.0	windowconsole.duckdns.org
-0.0.0.0	diciembre998.duckdns.org
-0.0.0.0	cigdem5.duckdns.org
-0.0.0.0	fhrthe.duckdns.org
-0.0.0.0	bbccdd.duckdns.org
-0.0.0.0	xp18.ddns.net
-0.0.0.0	doxsec.duckdns.org
-0.0.0.0	jeazerlog.duckdns.org
-0.0.0.0	dgshdhdgs.duckdns.org
-0.0.0.0	rootseeder.sytes.net
-0.0.0.0	orcus.cyberhost.ml
-0.0.0.0	netwire2021.duckdns.org
-0.0.0.0	fresh01.ddns.net
-0.0.0.0	vxcnjhhk.duckdns.org
-0.0.0.0	aghfhshhg.duckdns.org
-0.0.0.0	andy1688.ddns.net
-0.0.0.0	arieldon.linkpc.net
-0.0.0.0	asd2020.duckdns.org
-0.0.0.0	burk2n.dynu.net
-0.0.0.0	clayroot2016.linkpc.net
-0.0.0.0	cloudclout.duckdns.org
-0.0.0.0	coolthingy.duckdns.org
-0.0.0.0	darioeodr45.duckdns.org
-0.0.0.0	dnsnuev009.duckdns.org
-0.0.0.0	drayzserveur.zapto.org
-0.0.0.0	f2iu21id1ld1.ddns.net
-0.0.0.0	fgbgfyby.loseyourip.com
-0.0.0.0	fiesta.kozow.com
-0.0.0.0	fluff.ddnsgeek.com
-0.0.0.0	gjdfhfdka.duckdns.org
-0.0.0.0	gthdffds.duckdns.org
-0.0.0.0	hdggdj.duckdns.org
-0.0.0.0	hm9823.ddns.net
-0.0.0.0	jetproi.duckdns.org
-0.0.0.0	liligharba5.ddns.net
-0.0.0.0	maksuda2230-52612.portmap.host
-0.0.0.0	mika202.duckdns.org
-0.0.0.0	mooonskj.ddns.net
-0.0.0.0	notradingpsl.ddns.net
-0.0.0.0	nsr0209.kro.kr
-0.0.0.0	olunew.freemyip.com
-0.0.0.0	orcustop4ik.duckdns.org
-0.0.0.0	ratsss.publicvm.com
-0.0.0.0	s1.putinso.site
-0.0.0.0	sdfghjgfds.duckdns.org
-0.0.0.0	sdfghju.duckdns.org
-0.0.0.0	spongpoppp.myq-see.com
-0.0.0.0	spy.mywire.org
-0.0.0.0	timairvpn.ddns.net
-0.0.0.0	wissam000.ddns.net
-0.0.0.0	wissam001.ddns.net
-0.0.0.0	xcrew1991.kozow.com
-# Ave.Maria - Malware Domain Feed V2
-#  Command and Control domains for malware known as Ave.Maria. These domains are extracted from malware sandbox reports using a Machine Learning model trained on a corpus of good and bad domains. 
-# Source: https://otx.alienvault.com/user/otxrobottwo/pulses
-#
-#
-# UPDATED 02-05-2021
-#
-# Every link reported should be considered harmefull and could result in an unwanted malware download. Use this file carrefully.
-#
-#                                                             **** Therefor my advice is ****
-#                                                  **** If you experience sites that are being blocked ****
-#                                                **** please double check your input in search field and ****
-#                                           **** see if it's correct and verify that it is the correct page you ****
-#                                             **** are going too! If it is correct then whitelist that site ****
-#
-#                                                           USE THIS LIST WITH CAUTION!
-#
-#
-# *****The list is released without any warranty to the end users.*****
-#
-# *** This list contains domains and hosts ***
-# *******************************************************************************************************************************************************************
-# Ave.Maria - Malware Domain Feed V2
-# Source: https://otx.alienvault.com/pulse/5ccbbbf09b2e32607de8e096
-
-# Domains
-auth-microsoftonline-com-common-oauth2-authorize.com
-cheat4gamer.com
-cohu.live
-flying-wolf11.ga
-mail23480server.com
-wfcentralservice.com
-yfx08.com
-
-# Hosts
-0.0.0.0	2c04mm.hopto.org
-0.0.0.0	7fantasma.duckdns.org
-0.0.0.0	8e3d-wzr.duckdns.org
-0.0.0.0	425rt.rapiddns.ru
-0.0.0.0	34112r.rapiddns.ru
-0.0.0.0	43030warzone.warzonedns.com
-0.0.0.0	6345745xhgxcvbosu.redirectme.net
-0.0.0.0	54369253290033.sytes.net
-0.0.0.0	a.pfkakao.tk
-0.0.0.0	adminpc25.linkpc.net
-0.0.0.0	adomazmc1.duckdns.org
-0.0.0.0	aidsweden.serveblog.net
-0.0.0.0	alexshdu.ddns.net
-0.0.0.0	alhajiyen.ddns.net
-0.0.0.0	alishariftrading.ddns.net
-0.0.0.0	aphrcl.duckdns.org
-0.0.0.0	apostlewz.warzonedns.com
-0.0.0.0	asdfwrkhl.warzonedns.com
-0.0.0.0	baby212.ddns.net
-0.0.0.0	bar2020.ddns.net
-0.0.0.0	bbbbccc.linkpc.net
-0.0.0.0	bc3.warzonedns.com
-0.0.0.0	bedahogs.100chickens.me
-0.0.0.0	bedahogs.phatbois.me
-0.0.0.0	bedahogs.rmagent.biz
-0.0.0.0	benzkartel.duckdns.org
-0.0.0.0	best2020.ddns.net
-0.0.0.0	bestgrace.mywire.org
-0.0.0.0	bestme.mywire.org
-0.0.0.0	bestsuccess.ddns.net
-0.0.0.0	bigboodybithes.hopto.org
-0.0.0.0	biggesthat.duckdns.org
-0.0.0.0	black.warzonedns.com
-0.0.0.0	blessed232.duckdns.org
-0.0.0.0	bruce2meonlinenj2.ddnsfree.com
-0.0.0.0	bu250653.hopto.org
-0.0.0.0	cabalfenix.ddns.net
-0.0.0.0	caebd.ddns.net
-0.0.0.0	camon11.warzonedns.com
-0.0.0.0	cbngroup.duckdns.org
-0.0.0.0	chibykewarzonedns.ddns.net
-0.0.0.0	christs.duckdns.org
-0.0.0.0	chukwuoma.duckdns.org
-0.0.0.0	chydio.ddns.net
-0.0.0.0	computeratt.ddns.net
-0.0.0.0	coner.duckdns.org
-0.0.0.0	cookiesaregood.ddns.net
-0.0.0.0	corporation.warzonedns.com
-0.0.0.0	creeping123.ddns.net
-0.0.0.0	crow1234.ddns.net
-0.0.0.0	dd90.phatbois.biz
-0.0.0.0	dimitriv.duckdns.org
-0.0.0.0	dms.warzonedns.com
-0.0.0.0	dns.rusetinz.xyz
-0.0.0.0	dukps.ddns.net
-0.0.0.0	edwardjamie.dynu.net
-0.0.0.0	efiigbo9.duckdns.org
-0.0.0.0	engrs.warzonedns.com
-0.0.0.0	eriwauwa.duckdns.org
-0.0.0.0	evet.mywire.org
-0.0.0.0	freenigga.ddns.net
-0.0.0.0	freststatzz.ddns.net
-0.0.0.0	gboye411.hopto.org
-0.0.0.0	genasispony.hopto.org
-0.0.0.0	googlemoney.mywire.org
-0.0.0.0	grace123.rapiddns.ru
-0.0.0.0	graceland.ddns.net
-0.0.0.0	greatr.warzonedns.com
-0.0.0.0	grounderwarone.freeddns.org
-0.0.0.0	grounderwarone.rapiddns.ru
-0.0.0.0	hackmee.ddns.net
-0.0.0.0	highlogsleeno.warzonedns.com
-0.0.0.0	holyme111.hopto.org
-0.0.0.0	hotbest.warzonedns.com
-0.0.0.0	hyrkay.linkpc.net
-0.0.0.0	inboxall.ddns.net
-0.0.0.0	info1.dynamic-dns.net
-0.0.0.0	iphanyi.mywire.org
-0.0.0.0	iphanyi.webredirect.org
-0.0.0.0	iyhto.ddns.net
-0.0.0.0	jackspro.warzonedns.com
-0.0.0.0	jaclleeyu.ddns.net
-0.0.0.0	joeing.warzonedns.com
-0.0.0.0	jsbcdns.warzonedns.com
-0.0.0.0	juham.100chickens.me
-0.0.0.0	kcserver001.ddns.net
-0.0.0.0	khalifa.dynamic-dns.net
-0.0.0.0	king1.warzonedns.com
-0.0.0.0	kkkindo.ddns.net
-0.0.0.0	kurtangle082.publicvm.com
-0.0.0.0	laprivora.ignorelist.com
-0.0.0.0	light319.warzonedns.com
-0.0.0.0	longjon.warzonedns.com
-0.0.0.0	lsldaryk.duckdns.org
-0.0.0.0	maine007.hopto.org
-0.0.0.0	makavi.hopto.org
-0.0.0.0	maqbool.hopto.org
-0.0.0.0	marchelexa.hopto.org
-0.0.0.0	masterdata.hopto.org
-0.0.0.0	masterhugo231.servecounterstrike.com
-0.0.0.0	masterprof.warzonedns.com
-0.0.0.0	mbofficialdns.ddns.net
-0.0.0.0	mcavy.duckdns.org
-0.0.0.0	mediamall098.freedynamicdns.org
-0.0.0.0	menaxe212.duckdns.org
-0.0.0.0	menaxe212.warzonedns.com
-0.0.0.0	menaxe.duckdns.org
-0.0.0.0	mfonwar.duckdns.org
-0.0.0.0	migracion.linkpc.net
-0.0.0.0	millionways.duckdns.org
-0.0.0.0	minekroft.duckdns.org
-0.0.0.0	misc1.secureemailz.site
-0.0.0.0	mitty1.freemyip.com
-0.0.0.0	mitty.freemyip.com
-0.0.0.0	mitty.ultraddns.com
-0.0.0.0	ml.warzonedns.com
-0.0.0.0	morggy11.ooguy.com
-0.0.0.0	mrjeff.warzonedns.com
-0.0.0.0	msdos.treatwellshome.xyz
-0.0.0.0	mykassa.zapto.org
-0.0.0.0	naplui-3.dyndns.ws
-0.0.0.0	naval.duckdns.org
-0.0.0.0	ndubaba45.warzonedns.com
-0.0.0.0	newzone.from-ne.com
-0.0.0.0	nife.myftp.biz
-0.0.0.0	njvo7newlinegov1.ddnsfree.com
-0.0.0.0	nonstop1881.duckdns.org
-0.0.0.0	ogodoswar.ddns.net
-0.0.0.0	oluwabless.ddns.net
-0.0.0.0	omoba.ddns.net
-0.0.0.0	osas212.ddns.net
-0.0.0.0	paoullo.warzonedns.com
-0.0.0.0	phantom101.duckdns.org
-0.0.0.0	phaz6434325328.redirectme.net
-0.0.0.0	phazeonrunescape.ddns.net
-0.0.0.0	polpogba21.hopto.org
-0.0.0.0	port15e.zapto.org
-0.0.0.0	qlox.duckdns.org
-0.0.0.0	r1.miccrosoft.info
-0.0.0.0	rentals.insidedns.com
-0.0.0.0	respainc.duckdns.org
-0.0.0.0	rodasiter.duckdns.org
-0.0.0.0	samirsana2019.myftp.biz
-0.0.0.0	sams.myftp.org
-0.0.0.0	sanchuza.warzonedns.com
-0.0.0.0	sat101chap2.duckdns.org
-0.0.0.0	sdefrtgfe.duckdns.org
-0.0.0.0	softwarehost3.ddns.net
-0.0.0.0	softwareservice54.ddns.net
-0.0.0.0	southysahsah.warzonedns.com
-0.0.0.0	svhost2.linkpc.net
-0.0.0.0	syncronize.3utilities.com
-0.0.0.0	tain00.warzonedns.com
-0.0.0.0	tain0077.warzonedns.com
-0.0.0.0	tain77.duckdns.org
-0.0.0.0	tcheck.ddns.net
-0.0.0.0	tedadascas.linkpc.net
-0.0.0.0	testingforethical.ddns.net
-0.0.0.0	testtt.warzonedns.com
-0.0.0.0	theeraser94.ddns.net
-0.0.0.0	thisfundsmustcome.warzonedns.com
-0.0.0.0	tirrell.ddns.net
-0.0.0.0	tokyooffice1.duckdns.org
-0.0.0.0	tonymario.ddns.net
-0.0.0.0	tonymaris7342.ddns.net
-0.0.0.0	tourismes2.ddns.net
-0.0.0.0	trendyfela.ddns.net
-0.0.0.0	u868328.nvpn.so
-0.0.0.0	uchcn1.hopto.org
-0.0.0.0	update.aquaholic.dev
-0.0.0.0	valashk.ddns.net
-0.0.0.0	vladisdns.rapiddns.ru
-0.0.0.0	vpsnnog.ddns.net
-0.0.0.0	warzon957.duckdns.org
-0.0.0.0	warzone05b.duckdns.org
-0.0.0.0	warzone109983runnerhacker.duckdns.org
-0.0.0.0	warzonecastro.ddns.net
-0.0.0.0	wealth.warzonedns.com
-0.0.0.0	wealthyblessed.warzonedns.com
-0.0.0.0	wealthyme.ddns.net
-0.0.0.0	wealthyme.warzonedns.com
-0.0.0.0	winx.xcapdatap.capetown
-0.0.0.0	work2020.ddns.net
-0.0.0.0	www.swinfrastructures.co.za
-0.0.0.0	wzefi.duckdns.org
-0.0.0.0	xchilogs.duckdns.org
-0.0.0.0	yamobile.ddns.net
-0.0.0.0	yetye.ddns.net
-0.0.0.0	yong.publicvm.com
 # AZORult - Malware Domain Feed V2
 # Command and Control domains for malware known as AZORult. These domains are extracted from malware sandbox reports using a Machine Learning model trained on a corpus of good and bad domains. 
 # Source: https://otx.alienvault.com/user/otxrobottwo/pulses
@@ -5517,6 +4296,1227 @@ gtrconf.info
 0.0.0.0	www.thetribunegazette-uk.online
 0.0.0.0	wwwv.filmstreaming1.pro
 0.0.0.0	zapple.hashtechhub.in
+# AgentTesla - Malware Domain Feed V2
+# Command and Control domains for malware known as AgentTesla. These domains are extracted from malware sandbox reports using a Machine Learning model trained on a corpus of good and bad domains.
+# Source: https://otx.alienvault.com/user/otxrobottwo/pulses
+#
+# UPDATED: 10-05-2022
+#
+# Every link reported should be considered harmefull and could result in an unwanted malware download. Use this file carrefully.
+#
+#
+#                                                             **** Therefor my advice is ****
+#                                                  **** If you experience sites that are being blocked ****
+#                                                **** please double check your input in search field and ****
+#                                           **** see if it's correct and verify that it is the correct page you ****
+#                                             **** are going too! If it is correct then whitelist that site ****
+#
+#                                                           USE THIS LIST WITH CAUTION!
+#
+#
+# *****The list is released without any warranty to the end users.*****
+#
+# *** This list contains domains and hosts ***
+# *******************************************************************************************************************************************************************
+# AgentTesla - Malware Domain Feed V2
+# Source: https://otx.alienvault.com/pulse/5cc6acd2f09b1969a10255f7
+
+# Domains
+huaweitunisie.tn
+apaverydennison.space
+arianaspawn.com
+modeirninsulators.com
+justsecurityinc.com
+sabaint.me
+jimasun.online
+bdmtradingltd.live
+webpanelsetup.ml
+6llion.com
+originlogs.ru
+angelsnetwork.fr
+eyeover.it
+timecforgoodnes.ml
+sass-se.com
+strollchief.com
+ergon.club
+foxcylical.com.ng
+aarque.co
+adgalactica.com
+transportmada.com
+alexknives.com
+potentpharm.guru
+xeodu.com
+3bots.xyz
+nonpratisan.com
+softflexicompany.com
+exide-co.in
+onwamay.in
+smithscope.info
+onwajuly.com
+cssimme.com
+bellinasution.ml
+baharanvilla.ir
+csebullk.com
+hsbnonline.com
+papiking.com
+dogoodtomendothers.com
+senseint.info
+infonalytics.us
+binar.ir
+novindam.ir
+baileybluesclothing.com
+beninaintonio.com
+pccarpat.com
+demknowusalot.ltd
+vikashs-adcoconstruct.com
+globebambi.com
+norllock.com
+hbrservices.in
+crilod.com
+eastbrightness.com
+sasecurity.pro
+bawsymoney.ga
+coolhead.xyz
+commercialoffshorebanking.com
+konstantinidis-sp.gr
+emtelakproperties.com
+limmergarden.com
+rigdps1.com
+esecurty.ru
+equipmentsandmachines.com
+agenttesla.tk
+groupbizconsulting.com
+nortonlilly.info
+meublesinde.in
+udememadman.com
+wieda-mc.com
+herbsel.com
+tmwina.com
+securitynsection.com
+bauremediaus.com
+mblasta.com
+manchestergardensllc.com
+lucasacc.com
+hitek-pk.com
+jxcoders.com
+regattaxiamen.info
+easternvibez.com
+grindtreu.online
+jtcmachinery.com
+fizafr.com
+wttxt.info
+effetka.com
+plumberspro.us
+lamefrp.xyz
+bnpparis.co
+shivsons.info
+hresys.info
+phareizforsales.xyz
+regencyship.info
+zacwon.com
+
+# Hosts
+0.0.0.0	48982689868.home.anadolu.edu.tr
+0.0.0.0	nayoi.themiyakaja.com
+0.0.0.0	ojpop.themiyakaja.com
+0.0.0.0	syncav.ms-sync.com
+0.0.0.0	www.transportmada.com
+0.0.0.0	www.abcsd.info
+0.0.0.0	www.newsandbooks.xyz
+0.0.0.0	webmail.ocenmasters.com
+0.0.0.0	mail.rnfreight.com
+0.0.0.0	mail.casabarros.com
+0.0.0.0	mail.oceanskylogistics.in
+0.0.0.0	mail.atifnazar.com
+0.0.0.0	mail.ocenmasters.com
+0.0.0.0	mail.orientalgroupbd.com
+0.0.0.0	www.usarmyvacations.info
+0.0.0.0	chile-boss.comie.ru
+0.0.0.0	blacknet.riskpi.xyz
+0.0.0.0	www.progress-sampling.co.za
+0.0.0.0	www.mshhmasvx.com
+0.0.0.0	www.deveinsun.com
+0.0.0.0	www.breakinglimits2020.com
+0.0.0.0	www.servicee.com.ng
+0.0.0.0	www.svmarketingindia.com
+0.0.0.0	www.absfiresafety.com.au
+0.0.0.0	www.sczomen.com
+0.0.0.0	sm.rooderoofing.com.au
+0.0.0.0	www.appleconnect.online
+0.0.0.0	www.hamryrechalka.com
+0.0.0.0	www.onwaego.xyz
+0.0.0.0	www.sery.ga
+0.0.0.0	figure.alphadeltas.in
+0.0.0.0	www.agentfalco.xyz
+0.0.0.0	www.ink-qlobal.com
+0.0.0.0	ike.alphadeltas.in
+0.0.0.0	backupc.ddns.net
+0.0.0.0	kalicobalt.ddns.net
+0.0.0.0	krmben.mooo.com
+0.0.0.0	freeman.alphadeltas.in
+0.0.0.0	f0541260.xsph.ru
+0.0.0.0	bigbag.wootraining.certificacion.cl
+0.0.0.0	whesilo.alphadeltas.in
+0.0.0.0	4dkhw6q65mtym4r7.bounceme.net
+0.0.0.0	small-kelly.alphadeltas.in
+0.0.0.0	www.fedinkom.pw
+0.0.0.0	riza.manaeger-sale.com
+0.0.0.0	www.agenttesla.com
+0.0.0.0	tankantswebhosting.mywire.org
+0.0.0.0	mail.escueladeseguridadmaritima.com
+0.0.0.0	mail.indiacarpet.in
+0.0.0.0	mail.narbon-co.com
+0.0.0.0	mail.flowersforever.ae
+0.0.0.0	mail.daito-inc.co.jp
+0.0.0.0	mail.centraldefiltros.cl
+0.0.0.0	mail.morabitur.com
+0.0.0.0	smtp.taizingshipping.com
+0.0.0.0	mail.zealaqua.com
+0.0.0.0	mail.butterflymotors.com
+0.0.0.0	mail.sumait.ac.tz
+0.0.0.0	mail.contrivekota.in
+0.0.0.0	webmail.mdist.us
+0.0.0.0	mail.framafilms.com
+# Amadey - Malware Domain Feed V2
+# Command and Control domains for malware known as Amadey. These domains are extracted from malware sandbox reports using a Machine Learning model trained on a corpus of good and bad domains. 
+# Source: https://otx.alienvault.com/user/otxrobottwo/pulses
+#
+# UPDATED 10-05-2022
+#
+# Every link reported should be considered harmefull and could result in an unwanted malware download. Use this file carrefully.
+#
+#                                                             **** Therefor my advice is ****
+#                                                  **** If you experience sites that are being blocked ****
+#                                                **** please double check your input in search field and ****
+#                                           **** see if it's correct and verify that it is the correct page you ****
+#                                             **** are going too! If it is correct then whitelist that site ****
+#
+#                                                           USE THIS LIST WITH CAUTION!
+#
+#
+# *****The list is released without any warranty to the end users.*****
+#
+# *** This list contains domains and hosts ***
+# *******************************************************************************************************************************************************************
+# Amadey - Malware Domain Feed V2
+# Source: https://otx.alienvault.com/pulse/5cda259f82165754a51c3177
+
+# Domains
+sapport.co.in
+logmein.link
+cert-us.com
+seekinout.com
+ashleywalkerfuns.com
+trafficmasterssss.uz
+garystahioptiongi.info
+lologhhdkjs.org
+e-msk.info
+mildibsilgip.com
+gohaiendo.com
+smmokoffgj.org
+wheinesfurniture.net
+xetryc11.top
+webrnail.net
+onedrive.one
+achmannatgagamico.info
+gucciai.net
+prodminutese.me
+sysupdate.icu
+handous.net
+luckyshark.cash
+safegross.com
+cnock.info
+lboat.ru
+tincolittat.ru
+sakedratto.com
+lorefensed.ru
+forrolrestons.ru
+retredmuchwas.com
+hersdintfortho.ru
+todratsake.ru
+codeotso.com
+fordifortti.ru
+sunnsongs.com
+acceso.live
+henidvelo.com
+ugunhimte.ru
+rebreaksstonehen.at
+luckymonkey.net.in
+totansinone.com
+cdn12-web-security.com
+undwomime.ru
+toldhisranspar.ru
+pardubic.club
+icets.at
+megeofhedt.com
+sparherrestal.ru
+rolfikinme.ru
+vastyrannouse.at
+ledehaptal.ru
+ranspartoldhis.ru
+perailed.ru
+axissautomation.com
+bolsaooma.com
+bobryangood.ga
+mundence.ru
+veheptarab.ru
+imentramin.com
+robdodownbab.com
+btcrocket.net
+bobryangood1.ga
+taskhostw.com
+charley-online.com
+seowebstatist.xyz
+snowman720.com
+nutrukomolol.com
+nosangeles.com
+3053-325-43-253.com
+xoxonutricia.com
+onepunchik.club
+softhub.win
+on3121.xyz
+dasterhorora.com
+osdrivers.win
+winstatic.top
+winstatic.host
+uppan.site
+transaccion.ga
+spacemonkey.top
+xtkehjjerbk.icu
+csgoprofind.net
+gunbot.top
+toolhelper.xyz
+324-23-32432.com
+35-23-4532-34.com
+browserinstallup.xyz
+trafficsystem.site
+mycloudhostsite.com
+techterms.online
+idcheck-centerlog98324932.ru
+panel0panel1.ru
+centerlog-idcheck89320942.ru
+pikabu.best
+veyron.ir
+nocensorship.space
+strongbolt.site
+ishopping.press
+servicestatus.one
+selavi.me
+cetslavie.online
+searchtool.space
+gunbot.bid
+tonorganisation.space
+ton-organisation.space
+mynexa.io
+jmucha.fun
+belalallo.xyz
+huxere.xyz
+cleaningpro.top
+lampoone.top
+angiearm.top
+joikilloiujjtyaaa.xyz
+foflikenoiujiiik.cn
+goldhole.top
+dustontail.top
+dfh64jhfgnhdfgddddddddddda.me
+dfh64jhfgnhdfgdddffaddda.name
+moneypotlol.com
+onerizla.top
+on291220.xyz
+s301220.xyz
+speeduppercolatorl.at
+g-localdevice.biz
+
+# Hosts
+0.0.0.0	belgu.zzz.com.ua
+0.0.0.0	web.jsonpost.xyz
+0.0.0.0	wid.badseek.com
+0.0.0.0	www.rubthemoneybear.xyz
+0.0.0.0	cj42138.tmweb.ru
+0.0.0.0	shegw583reg.hopto.org
+0.0.0.0	am.itmenagerie.tech
+0.0.0.0	upgradesrv.890m.com
+0.0.0.0	www.s301220.xyz
+# Andromeda - Malware Domain Feed V2
+# Command and Control domains for malware known as Andromeda. 
+# These domains are extracted from malware sandbox reports using a Machine Learning model trained on a corpus of good and bad domains. 
+# Source: https://otx.alienvault.com/user/otxrobottwo
+#
+# UPDATED: 10-05-2022
+#
+# Every link reported should be considered harmefull and could result in an unwanted malware download. Use this file carrefully.
+#
+#                                                             **** Therefor my advice is ****
+#                                                  **** If you experience sites that are being blocked ****
+#                                                **** please double check your input in search field and ****
+#                                           **** see if it's correct and verify that it is the correct page you ****
+#                                             **** are going too! If it is correct then whitelist that site ****
+#
+#                                                           USE THIS LIST WITH CAUTION!
+#
+#
+# *****The list is released without any warranty to the end users.*****
+#
+# *** This list contains domains and hosts ***
+# *******************************************************************************************************************************************************************
+# Andromeda - Malware Domain Feed V2
+# Source: https://otx.alienvault.com/pulse/5cc3cd3f4ef192274ff2b5ac
+
+# Domains
+kosrt.tk
+bat99-11611.co
+ringplanet.eu
+wrongturn55.com
+karaokeboom.ru
+dnswow2.com
+dnswow.com
+dnswow3.com
+pas2joux.info
+whoknl.com
+cfokor.ml
+pixarwiki.net
+drirestore.com
+navsafemarine.com.au
+11gg.ru
+film24hd.us
+connect-s3892.ru
+bestbrightday.ru
+connect-support-server.ru
+poppingb.com
+12831371771.pw
+kreewalk.com
+andra20151.ml
+54892291911.pw
+21781237171.pw
+trackingtms.com
+spotxte.com
+g1e627eg721.pw
+poppingh.com
+poppingg.com
+gerardbalian.com
+seo-gain.ru
+731pro.pw
+poppingf.com
+baidishenko111.in
+poppinge.info
+faumoussuperstars.ru
+powerrembo.ru
+brushes.su
+
+# Hosts
+0.0.0.0	and.wizatoberegisterd3.com
+0.0.0.0	and.thewowpownow3.com
+0.0.0.0	and.thewowpownow5.com
+0.0.0.0	and24.binaryoptionisnotmelfolz1.com
+0.0.0.0	and23.nedregisterbali1.com
+0.0.0.0	and4.junglebeariwtc1.com
+0.0.0.0	www.tangchenbeijianhealth.com
+0.0.0.0	tgr.tecnoagenzia.eu
+0.0.0.0	and19.amainwrorldnancy1.com
+0.0.0.0	rxxl.tecnoagenzia.eu
+0.0.0.0	and31.amainwrorldnancy4.com
+0.0.0.0	and31.blllaaaaaazblaaa3.com
+0.0.0.0	and11.themarket12345sushi1.com
+0.0.0.0	it.istitutobancariopagamentielettronici.com
+0.0.0.0	and11.themarket12345sushi.com
+0.0.0.0	and9.themainnotmainstreet2.com
+0.0.0.0	dcc.pscv.williampenncarecenter.com
+0.0.0.0	loader.securityiguard.com
+0.0.0.0	and9.themainnotmainstreet1.com
+0.0.0.0	spa.sub-zero.it
+0.0.0.0	slot.pilenga.net
+0.0.0.0	and16.f16zakitchengirl1.com
+0.0.0.0	and.wizatoberegisterd4.com
+# Arkei - Malware Domain Feed V2
+#  Command and Control domains for malware known as Arkei. These domains are extracted from malware sandbox reports using a Machine Learning model trained on a corpus of good and bad domains.
+# Source: https://otx.alienvault.com/user/otxrobottwo/pulses
+
+# UPDATED: 05-11-2020
+#
+# Every link reported should be considered harmefull and could result in an unwanted malware download. Use this file carrefully.
+#
+#
+#                                                             **** Therefor my advice is ****
+#                                                  **** If you experience sites that are being blocked ****
+#                                                **** please double check your input in search field and ****
+#                                           **** see if it's correct and verify that it is the correct page you ****
+#                                             **** are going too! If it is correct then whitelist that site ****
+#
+#                                                           USE THIS LIST WITH CAUTION!
+#
+#
+# *****The list is released without any warranty to the end users.*****
+#
+# *** This list contains domains and hosts ***
+# *******************************************************************************************************************************************************************
+# Arkei - Malware Domain Feed V2
+# Source: https://otx.alienvault.com/pulse/5ccb4fed8605eed9aefe3bd6
+
+# Domains
+1stpubs.com
+1win-pro.com
+1win-pro.online
+2ndpub.com
+2p2kzepitler.ml
+3ppuubb.com
+3prokladkaeu.com
+65ao5xzu.com
+92g938uextmgvb7rllv8wcad.biz
+2754e42845.pw
+3528237cff.pw
+aaenyhostel.org
+aaload04.top
+aaron.ug
+aaronthompson.ug
+acrelop.com
+adwaresoftstats.xyz
+adwarestat.xyz
+aiiesspress.com
+airsarald.com
+amyginevgeny1.online
+amyginevgeny.online
+andherieastern.com
+anjalihome.org
+antesnotenianada.online
+archessee.com
+arkei.my
+artatighab.com
+artemiscynthia.org
+asload02.top
+asload022.top
+asload03.top
+asload05.top
+autarla.com
+axload02.top
+axload03.top
+axload05.top
+axload06.top
+axload08.top
+axload09.top
+axload11.top
+axload12.top
+axload13.top
+axload14.top
+badlandsparks.com
+baldorini.top
+barcla.ug
+barddistocor.com
+bariomowel.com
+barjamanis.com
+barkeoikeilo.click
+baubautzen.net
+bbenttexas.com
+bdns.by
+bergamot.nu
+besfdooorkoora.com
+bestinfobest.ru
+bestphorot.cf
+bestpolandhotels.com
+biscayneinn.com
+blackhead.top
+blockchaln.cash
+bnixons.ug
+bnxhbc25hwcv8b8afawhevzw.biz
+bogdanooo.site
+bokrosiiit.com
+bonesta223s.com
+bristleconepin.com
+brucewayneint.com
+buncks.com
+cafalife.com
+canadastuff.top
+candy4crush.xyz
+carambaslonekal.top
+carlsbadmx.com
+cede03.info
+cede04.info
+cedss01.top
+cedss02.top
+cedss03.top
+centos10.com
+checktime.pk
+chihuahuansands.com
+chumashpeople.com
+cmd3490ghbdtn3.ru
+coinchangerapi.com
+corinthiano.ug
+corinthianov.ug
+coronetsfrank.ug
+courtneyhones.ac.ug
+courtneyjjones.ac.ug
+courtneysdv.ac.ug
+cripoeu.ru
+crutchessxzc.ru
+cryptoshop.ac.ug
+csgo-empire.fun
+cuyahogarave.com
+cuyahogav.com
+cyberdemon.xyz
+cyberdevapp.website
+dasturchi.club
+dbfhdbkd.pw
+dersed.com
+direstolakolai.top
+dreakfont.in
+dress-x.ru
+duranduran.co.ug
+duranduran.ug
+duranforme.ug
+earphorialofts.net
+easydrivershelp.info
+edificiobelavista.com.br
+embrodownscience.su
+enothost.ru
+eroomia.com
+ethchain.live
+ethclick.me
+ethpromo.live
+etips.fun
+evergladsea.com
+f321y.com
+ferreiranadii.ac.ug
+ffacscs.ug
+ffvgdsv.ug
+fineme.ug
+flytortuga.com
+focclef.ru
+fokojoloyt.org
+fortnite-pine.com
+foxgame.club
+fragly.top
+franksf.ug
+freeforallapps.pk
+freekzvideo.cloud
+frilance.online
+frostwhoer.online
+ftelegram.fun
+fuckingav.xyz
+fullrelevance.xyz
+funkybuddhahostel.top
+futboolspaceesk.com
+gagaggahehehqwe.net
+gebrauchlichtal.com
+gerawest.xyz
+geroloainse.com
+getcoins.ac.ug
+gettorrent.ac.ug
+ggtyyu.pw
+giuseppev.ug
+giuseppex.ug
+goga01.xyz
+greatteton.com
+greenpalace.top
+grelkafestivales.com
+gulfmigratory.com
+guputhy.site
+gyeonggidoo.com
+hahaprivet.ga
+heritstage.com
+hhhload01.top
+hhhload07.top
+hireporters.com
+hjsdbfbvtysfc.pw
+hokagehuyaki.space
+hospitaleco.com
+hostisgerhg.tk
+hotsalegnom.com
+hotticketsale.com
+illinoisnot.ru
+iloveyoubabu.ac.ug
+interludeeurope.com
+japanweterans.com
+jewelnetspacecon2.com
+jload02.info
+johnrayonc.ug
+jolietamandatenasta.com
+jomarako.com
+juhubeachn.com
+k6vq28tbjbz5rhjsgtm3gmsy.xyz
+kafurr01.top
+kafurr02.top
+kafurr03.top
+kafurr04.top
+kafurr05.top
+kakoloidkaborn.com
+katananestwate.com
+keitbeschutzen.com
+klegrandlichgrum.com
+korikanelolsa.tech
+kriso.ru
+kuskokwimca.com
+lalitmumbai.net
+leatherlites.ug
+lgfl.host
+licenseverification.pw
+likeanimals.net
+lkjhgfdsa1.ru
+llssoo01.info
+longvoyages.com
+lumatimesquare.net
+magnar01.top
+magnar02.top
+magnar03.top
+maineacadia.com
+malarcvgs.ac.ug
+manillamemories.com
+manstraight.com
+maper.info
+markalsf.ru
+markalsk.ru
+maudqueen.com
+mazda-corp.tk
+megagemes.info
+megumin.world
+megunim.top
+mikakakakak.ru
+minorr05.top
+mixflow.top
+molothunsen.com
+moneybanda.info
+mooreny.top
+moraa03.top
+moraa04.top
+moraa05.top
+moraa06.top
+moraa07.top
+moraa10.top
+mortyboss.xyz
+myhostest.ug
+natiapropoint.com
+naukluftp.com
+naumokukea.com
+nctrnl.us
+neroolive.org
+newintelligents.org
+nvbcdfsvxcs.ug
+ohioanderie.com
+onlinemseof.site
+pabloeminoa.pw
+paranalakasa.ru
+paunsaugunt.com
+pay-robokassa.net
+penthausebrones.com
+photoshopsarte.com
+piedmontteem.com
+poiuytrewq3.site
+prohomedevs.com
+projecty.ug
+promspetsstroy.ru
+prosecuredata.top
+prostoloader.ru
+purgen.space
+purifckd.ug
+purification.ug
+pushing.pk
+qubert.org
+rainbird.pk
+raparanatauro.pw
+rapidbtcinvest.com
+rapistoparistos.xyz
+rapontoperito.pw
+ratarataruono.pw
+rattlesnakespr.com
+raymondjaon.ug
+reddragonshop.ru
+redredli.xyz
+refenansoro.com
+rifat04.info
+rineialav.com
+rrrload01.top
+rrrload02.top
+rrrload03.top
+rrrload04.top
+rrrload05.top
+rrrload06.top
+rrrload07.top
+rrrload08.top
+rrrrload03.top
+rrrrload04.top
+rrrrload05.top
+rrrrload08.top
+rsawt.uk
+rucop.ru
+ruon1on.ru
+sasurr01.top
+sasurr02.top
+sasurr03.top
+sasurr04.top
+sasurr05.top
+sasurr06.top
+sdaurr01.top
+sdaurr02.top
+sdaurr03.top
+sdaurr04.top
+sdaurr05.top
+search.ac.ug
+selousgame.com
+serhuwadwtr.xyz
+setseta.com
+shlyapa.website
+shortbit.xyz
+sikilalabro.ru
+sl9xa73g7u3eo07wt42n7f4vin5fzh.biz
+smartpromo.top
+smiothmadara.ug
+smk-apple.ru
+sngservq.site
+softmanager.info
+softwaredappis.ml
+sslproxys.com
+ssssssdomenb.tk
+standartjuke.info
+starlikespace.org
+steerdemens.com
+stephir.ug
+stiff02.top
+sumliomicna.com
+systemcare2020-download.com
+tdos04.top
+tdos05.top
+termscenter.com
+thekavango.com
+thepleasurelive.com
+thomasuncas.com
+timebound.ug
+tonetm.com
+toptrendclub.com
+torikk02.top
+transflux.xyz
+trasolevelqvines.com
+travelgidblog.top
+travelquize.com
+triathlethe.ug
+tribecaflatstore.com
+tribunal.ug
+troygillet.ug
+troygilletc.ug
+tunnabelly.ug
+turars.cc
+update-apk.su
+upyourtext.com
+urbanholidaylo.net
+urep01.top
+vanderbiltloft.org
+villadubois.org
+viniciuscorinthiano.ug
+vjhascv.ru
+vjhscxv.ru
+vjhxscv.ru
+vk-01d6k6l52.ru
+voyagephoshop.org
+wasabinails.com
+waterpocketfold.com
+watsonthematson.com
+weimachel.net
+wetz.icu
+whoicehkestes.com
+wikewikusl.ru
+williamxerxesya.org
+windows-updates-26746.com
+wordpress231.space
+wrangellse.com
+x7pro.top
+xakfor.net
+xenicolnc.space
+xn--e1ardc.xn--p1ai
+xylolle.com
+yandex.ac.ug
+ybookfli.net
+yourseo.ac.ug
+yrhealth.life
+ys-gay.net
+yukondeltas.com
+zaragoza.ug
+zcop.ru
+zews.tech
+zorneweau.com
+zver.tech
+
+# Hosts
+0.0.0.0	80530.prohoster.biz
+0.0.0.0	106411.prohoster.biz
+0.0.0.0	a0359074.xsph.ru
+0.0.0.0	a0362255.xsph.ru
+0.0.0.0	admin.foa.ae
+0.0.0.0	aliexpress.spb.ru
+0.0.0.0	astaluega.000webhostapp.com
+0.0.0.0	azomat.lisx.ru
+0.0.0.0	bomj1594.chsw.ru
+0.0.0.0	charle03.testok.testforhost.com
+0.0.0.0	cr39276.tmweb.ru
+0.0.0.0	demo.freeopensoftware.info
+0.0.0.0	dosuka13.zzz.com.ua
+0.0.0.0	dota.ueuo.com
+0.0.0.0	dronius267.myjino.ru
+0.0.0.0	ekaterinkr.temp.swtest.ru
+0.0.0.0	f0321143.xsph.ru
+0.0.0.0	f0378370.xsph.ru
+0.0.0.0	f0387404.xsph.ru
+0.0.0.0	f9113415.beget.tech
+0.0.0.0	host1732736.hostland.pro
+0.0.0.0	infodajk.beget.tech
+0.0.0.0	j6g3fzp.5k5.ru
+0.0.0.0	j1001281.myjino.ru
+0.0.0.0	jfogigh3i.2ihsfa.com
+0.0.0.0	masdjksajkda.zzz.com.ua
+0.0.0.0	michaeqy.beget.tech
+0.0.0.0	minings.kl.com.ua
+0.0.0.0	mrazotovi4.temp.swtest.ru
+0.0.0.0	o90177np.beget.tech
+0.0.0.0	panel.sardc.ru
+0.0.0.0	panelka.kl.com.ua
+0.0.0.0	s200472.smrtp.ru
+0.0.0.0	s243490.smrtp.ru
+0.0.0.0	savakolombas.had.su
+0.0.0.0	sh1178960.a.had.su
+0.0.0.0	techmagazine.zzz.com.ua
+0.0.0.0	test.adegokecollege.com
+0.0.0.0	u96558gu.beget.tech
+0.0.0.0	u332181fdm.ha002.t.justns.ru
+0.0.0.0	u.f321y.com
+0.0.0.0	uhgargr.2ihsfa.com
+0.0.0.0	vh62.timeweb.ru
+0.0.0.0	wwe23pro.myjino.ru
+0.0.0.0	www.bin1101oski.ru
+0.0.0.0	www.qhcaufwo.top
+0.0.0.0	www.rgmechanics.fun
+0.0.0.0	xmr.hashcity.org
+0.0.0.0	yesmamadoma.kl.com.ua
+0.0.0.0	zebi.zzz.com.ua
+# AsyncRAT - Malware Domain Feed V2
+# Command and Control domains for malware known as AsyncRAT. These domains are extracted from malware sandbox reports using a Machine Learning model trained on a corpus of good and bad domains. 
+# Source: https://otx.alienvault.com/user/otxrobottwo/pulses
+#
+# UPDATED: 10-05-2022
+#
+# Every link reported should be considered harmefull and could result in an unwanted malware download. Use this file carrefully.
+#
+#                                                             **** Therefor my advice is ****
+#                                                  **** If you experience sites that are being blocked ****
+#                                                **** please double check your input in search field and ****
+#                                           **** see if it's correct and verify that it is the correct page you ****
+#                                             **** are going too! If it is correct then whitelist that site ****
+#
+#                                                           USE THIS LIST WITH CAUTION!
+#
+#
+# *****The list is released without any warranty to the end users.*****
+#
+# *** This list contains domains and hosts ***
+# *******************************************************************************************************************************************************************
+# AsyncRAT - Malware Domain Feed V2
+# Source: https://otx.alienvault.com/pulse/5e756e341388e7514cb518d7
+
+# Domains
+polymoly.info
+stellacy.tk
+asdcqwdwqx.gq
+reversethis.store
+dlldns.xyz
+advisorgoetia-dns.xyz
+
+# Hosts
+0.0.0.0	franco.ddns.net
+0.0.0.0	ramsteincor.duckdns.org
+0.0.0.0	akconsult.linkpc.net
+0.0.0.0	e29rava.ddns.net
+0.0.0.0	frankent2021.ddns.net
+0.0.0.0	kingmethod.duckdns.org
+0.0.0.0	lilx.ddns.net
+0.0.0.0	eta.ne.virus.ne.trogaj.mena.kstati.putinso.site
+0.0.0.0	sdsda.kozow.com
+0.0.0.0	v3ctar.ddns.net
+0.0.0.0	lorixo666.sytes.net
+0.0.0.0	aliali782.ddns.net
+0.0.0.0	shieax.duckdns.org
+0.0.0.0	chongmei33.publicvm.com
+0.0.0.0	camelblack.duckdns.org
+0.0.0.0	mysubdomain873.duckdns.org
+0.0.0.0	pettbull.ddns.net
+0.0.0.0	manuelpredrosolora09.duckdns.org
+0.0.0.0	ibibbersen-60295.portmap.host
+0.0.0.0	krallarcarding.duckdns.org
+0.0.0.0	jul-perl.myvnc.com
+0.0.0.0	robertsaldarriagasoto09.duckdns.org
+0.0.0.0	exploitt.duckdns.org
+0.0.0.0	gdgjsdrgtwer.duckdns.org
+0.0.0.0	jilldoggyy.duckdns.org
+0.0.0.0	windowconsole.duckdns.org
+0.0.0.0	diciembre998.duckdns.org
+0.0.0.0	cigdem5.duckdns.org
+0.0.0.0	fhrthe.duckdns.org
+0.0.0.0	bbccdd.duckdns.org
+0.0.0.0	xp18.ddns.net
+0.0.0.0	doxsec.duckdns.org
+0.0.0.0	jeazerlog.duckdns.org
+0.0.0.0	dgshdhdgs.duckdns.org
+0.0.0.0	rootseeder.sytes.net
+0.0.0.0	orcus.cyberhost.ml
+0.0.0.0	netwire2021.duckdns.org
+0.0.0.0	fresh01.ddns.net
+0.0.0.0	vxcnjhhk.duckdns.org
+0.0.0.0	aghfhshhg.duckdns.org
+0.0.0.0	andy1688.ddns.net
+0.0.0.0	arieldon.linkpc.net
+0.0.0.0	asd2020.duckdns.org
+0.0.0.0	burk2n.dynu.net
+0.0.0.0	clayroot2016.linkpc.net
+0.0.0.0	cloudclout.duckdns.org
+0.0.0.0	coolthingy.duckdns.org
+0.0.0.0	darioeodr45.duckdns.org
+0.0.0.0	dnsnuev009.duckdns.org
+0.0.0.0	drayzserveur.zapto.org
+0.0.0.0	f2iu21id1ld1.ddns.net
+0.0.0.0	fgbgfyby.loseyourip.com
+0.0.0.0	fiesta.kozow.com
+0.0.0.0	fluff.ddnsgeek.com
+0.0.0.0	gjdfhfdka.duckdns.org
+0.0.0.0	gthdffds.duckdns.org
+0.0.0.0	hdggdj.duckdns.org
+0.0.0.0	hm9823.ddns.net
+0.0.0.0	jetproi.duckdns.org
+0.0.0.0	liligharba5.ddns.net
+0.0.0.0	maksuda2230-52612.portmap.host
+0.0.0.0	mika202.duckdns.org
+0.0.0.0	mooonskj.ddns.net
+0.0.0.0	notradingpsl.ddns.net
+0.0.0.0	nsr0209.kro.kr
+0.0.0.0	olunew.freemyip.com
+0.0.0.0	orcustop4ik.duckdns.org
+0.0.0.0	ratsss.publicvm.com
+0.0.0.0	s1.putinso.site
+0.0.0.0	sdfghjgfds.duckdns.org
+0.0.0.0	sdfghju.duckdns.org
+0.0.0.0	spongpoppp.myq-see.com
+0.0.0.0	spy.mywire.org
+0.0.0.0	timairvpn.ddns.net
+0.0.0.0	wissam000.ddns.net
+0.0.0.0	wissam001.ddns.net
+0.0.0.0	xcrew1991.kozow.com
+# Ave.Maria - Malware Domain Feed V2
+#  Command and Control domains for malware known as Ave.Maria. These domains are extracted from malware sandbox reports using a Machine Learning model trained on a corpus of good and bad domains. 
+# Source: https://otx.alienvault.com/user/otxrobottwo/pulses
+#
+#
+# UPDATED 02-05-2021
+#
+# Every link reported should be considered harmefull and could result in an unwanted malware download. Use this file carrefully.
+#
+#                                                             **** Therefor my advice is ****
+#                                                  **** If you experience sites that are being blocked ****
+#                                                **** please double check your input in search field and ****
+#                                           **** see if it's correct and verify that it is the correct page you ****
+#                                             **** are going too! If it is correct then whitelist that site ****
+#
+#                                                           USE THIS LIST WITH CAUTION!
+#
+#
+# *****The list is released without any warranty to the end users.*****
+#
+# *** This list contains domains and hosts ***
+# *******************************************************************************************************************************************************************
+# Ave.Maria - Malware Domain Feed V2
+# Source: https://otx.alienvault.com/pulse/5ccbbbf09b2e32607de8e096
+
+# Domains
+auth-microsoftonline-com-common-oauth2-authorize.com
+cheat4gamer.com
+cohu.live
+flying-wolf11.ga
+mail23480server.com
+wfcentralservice.com
+yfx08.com
+
+# Hosts
+0.0.0.0	2c04mm.hopto.org
+0.0.0.0	7fantasma.duckdns.org
+0.0.0.0	8e3d-wzr.duckdns.org
+0.0.0.0	425rt.rapiddns.ru
+0.0.0.0	34112r.rapiddns.ru
+0.0.0.0	43030warzone.warzonedns.com
+0.0.0.0	6345745xhgxcvbosu.redirectme.net
+0.0.0.0	54369253290033.sytes.net
+0.0.0.0	a.pfkakao.tk
+0.0.0.0	adminpc25.linkpc.net
+0.0.0.0	adomazmc1.duckdns.org
+0.0.0.0	aidsweden.serveblog.net
+0.0.0.0	alexshdu.ddns.net
+0.0.0.0	alhajiyen.ddns.net
+0.0.0.0	alishariftrading.ddns.net
+0.0.0.0	aphrcl.duckdns.org
+0.0.0.0	apostlewz.warzonedns.com
+0.0.0.0	asdfwrkhl.warzonedns.com
+0.0.0.0	baby212.ddns.net
+0.0.0.0	bar2020.ddns.net
+0.0.0.0	bbbbccc.linkpc.net
+0.0.0.0	bc3.warzonedns.com
+0.0.0.0	bedahogs.100chickens.me
+0.0.0.0	bedahogs.phatbois.me
+0.0.0.0	bedahogs.rmagent.biz
+0.0.0.0	benzkartel.duckdns.org
+0.0.0.0	best2020.ddns.net
+0.0.0.0	bestgrace.mywire.org
+0.0.0.0	bestme.mywire.org
+0.0.0.0	bestsuccess.ddns.net
+0.0.0.0	bigboodybithes.hopto.org
+0.0.0.0	biggesthat.duckdns.org
+0.0.0.0	black.warzonedns.com
+0.0.0.0	blessed232.duckdns.org
+0.0.0.0	bruce2meonlinenj2.ddnsfree.com
+0.0.0.0	bu250653.hopto.org
+0.0.0.0	cabalfenix.ddns.net
+0.0.0.0	caebd.ddns.net
+0.0.0.0	camon11.warzonedns.com
+0.0.0.0	cbngroup.duckdns.org
+0.0.0.0	chibykewarzonedns.ddns.net
+0.0.0.0	christs.duckdns.org
+0.0.0.0	chukwuoma.duckdns.org
+0.0.0.0	chydio.ddns.net
+0.0.0.0	computeratt.ddns.net
+0.0.0.0	coner.duckdns.org
+0.0.0.0	cookiesaregood.ddns.net
+0.0.0.0	corporation.warzonedns.com
+0.0.0.0	creeping123.ddns.net
+0.0.0.0	crow1234.ddns.net
+0.0.0.0	dd90.phatbois.biz
+0.0.0.0	dimitriv.duckdns.org
+0.0.0.0	dms.warzonedns.com
+0.0.0.0	dns.rusetinz.xyz
+0.0.0.0	dukps.ddns.net
+0.0.0.0	edwardjamie.dynu.net
+0.0.0.0	efiigbo9.duckdns.org
+0.0.0.0	engrs.warzonedns.com
+0.0.0.0	eriwauwa.duckdns.org
+0.0.0.0	evet.mywire.org
+0.0.0.0	freenigga.ddns.net
+0.0.0.0	freststatzz.ddns.net
+0.0.0.0	gboye411.hopto.org
+0.0.0.0	genasispony.hopto.org
+0.0.0.0	googlemoney.mywire.org
+0.0.0.0	grace123.rapiddns.ru
+0.0.0.0	graceland.ddns.net
+0.0.0.0	greatr.warzonedns.com
+0.0.0.0	grounderwarone.freeddns.org
+0.0.0.0	grounderwarone.rapiddns.ru
+0.0.0.0	hackmee.ddns.net
+0.0.0.0	highlogsleeno.warzonedns.com
+0.0.0.0	holyme111.hopto.org
+0.0.0.0	hotbest.warzonedns.com
+0.0.0.0	hyrkay.linkpc.net
+0.0.0.0	inboxall.ddns.net
+0.0.0.0	info1.dynamic-dns.net
+0.0.0.0	iphanyi.mywire.org
+0.0.0.0	iphanyi.webredirect.org
+0.0.0.0	iyhto.ddns.net
+0.0.0.0	jackspro.warzonedns.com
+0.0.0.0	jaclleeyu.ddns.net
+0.0.0.0	joeing.warzonedns.com
+0.0.0.0	jsbcdns.warzonedns.com
+0.0.0.0	juham.100chickens.me
+0.0.0.0	kcserver001.ddns.net
+0.0.0.0	khalifa.dynamic-dns.net
+0.0.0.0	king1.warzonedns.com
+0.0.0.0	kkkindo.ddns.net
+0.0.0.0	kurtangle082.publicvm.com
+0.0.0.0	laprivora.ignorelist.com
+0.0.0.0	light319.warzonedns.com
+0.0.0.0	longjon.warzonedns.com
+0.0.0.0	lsldaryk.duckdns.org
+0.0.0.0	maine007.hopto.org
+0.0.0.0	makavi.hopto.org
+0.0.0.0	maqbool.hopto.org
+0.0.0.0	marchelexa.hopto.org
+0.0.0.0	masterdata.hopto.org
+0.0.0.0	masterhugo231.servecounterstrike.com
+0.0.0.0	masterprof.warzonedns.com
+0.0.0.0	mbofficialdns.ddns.net
+0.0.0.0	mcavy.duckdns.org
+0.0.0.0	mediamall098.freedynamicdns.org
+0.0.0.0	menaxe212.duckdns.org
+0.0.0.0	menaxe212.warzonedns.com
+0.0.0.0	menaxe.duckdns.org
+0.0.0.0	mfonwar.duckdns.org
+0.0.0.0	migracion.linkpc.net
+0.0.0.0	millionways.duckdns.org
+0.0.0.0	minekroft.duckdns.org
+0.0.0.0	misc1.secureemailz.site
+0.0.0.0	mitty1.freemyip.com
+0.0.0.0	mitty.freemyip.com
+0.0.0.0	mitty.ultraddns.com
+0.0.0.0	ml.warzonedns.com
+0.0.0.0	morggy11.ooguy.com
+0.0.0.0	mrjeff.warzonedns.com
+0.0.0.0	msdos.treatwellshome.xyz
+0.0.0.0	mykassa.zapto.org
+0.0.0.0	naplui-3.dyndns.ws
+0.0.0.0	naval.duckdns.org
+0.0.0.0	ndubaba45.warzonedns.com
+0.0.0.0	newzone.from-ne.com
+0.0.0.0	nife.myftp.biz
+0.0.0.0	njvo7newlinegov1.ddnsfree.com
+0.0.0.0	nonstop1881.duckdns.org
+0.0.0.0	ogodoswar.ddns.net
+0.0.0.0	oluwabless.ddns.net
+0.0.0.0	omoba.ddns.net
+0.0.0.0	osas212.ddns.net
+0.0.0.0	paoullo.warzonedns.com
+0.0.0.0	phantom101.duckdns.org
+0.0.0.0	phaz6434325328.redirectme.net
+0.0.0.0	phazeonrunescape.ddns.net
+0.0.0.0	polpogba21.hopto.org
+0.0.0.0	port15e.zapto.org
+0.0.0.0	qlox.duckdns.org
+0.0.0.0	r1.miccrosoft.info
+0.0.0.0	rentals.insidedns.com
+0.0.0.0	respainc.duckdns.org
+0.0.0.0	rodasiter.duckdns.org
+0.0.0.0	samirsana2019.myftp.biz
+0.0.0.0	sams.myftp.org
+0.0.0.0	sanchuza.warzonedns.com
+0.0.0.0	sat101chap2.duckdns.org
+0.0.0.0	sdefrtgfe.duckdns.org
+0.0.0.0	softwarehost3.ddns.net
+0.0.0.0	softwareservice54.ddns.net
+0.0.0.0	southysahsah.warzonedns.com
+0.0.0.0	svhost2.linkpc.net
+0.0.0.0	syncronize.3utilities.com
+0.0.0.0	tain00.warzonedns.com
+0.0.0.0	tain0077.warzonedns.com
+0.0.0.0	tain77.duckdns.org
+0.0.0.0	tcheck.ddns.net
+0.0.0.0	tedadascas.linkpc.net
+0.0.0.0	testingforethical.ddns.net
+0.0.0.0	testtt.warzonedns.com
+0.0.0.0	theeraser94.ddns.net
+0.0.0.0	thisfundsmustcome.warzonedns.com
+0.0.0.0	tirrell.ddns.net
+0.0.0.0	tokyooffice1.duckdns.org
+0.0.0.0	tonymario.ddns.net
+0.0.0.0	tonymaris7342.ddns.net
+0.0.0.0	tourismes2.ddns.net
+0.0.0.0	trendyfela.ddns.net
+0.0.0.0	u868328.nvpn.so
+0.0.0.0	uchcn1.hopto.org
+0.0.0.0	update.aquaholic.dev
+0.0.0.0	valashk.ddns.net
+0.0.0.0	vladisdns.rapiddns.ru
+0.0.0.0	vpsnnog.ddns.net
+0.0.0.0	warzon957.duckdns.org
+0.0.0.0	warzone05b.duckdns.org
+0.0.0.0	warzone109983runnerhacker.duckdns.org
+0.0.0.0	warzonecastro.ddns.net
+0.0.0.0	wealth.warzonedns.com
+0.0.0.0	wealthyblessed.warzonedns.com
+0.0.0.0	wealthyme.ddns.net
+0.0.0.0	wealthyme.warzonedns.com
+0.0.0.0	winx.xcapdatap.capetown
+0.0.0.0	work2020.ddns.net
+0.0.0.0	www.swinfrastructures.co.za
+0.0.0.0	wzefi.duckdns.org
+0.0.0.0	xchilogs.duckdns.org
+0.0.0.0	yamobile.ddns.net
+0.0.0.0	yetye.ddns.net
+0.0.0.0	yong.publicvm.com
 # Bahamut IOCs - Domains & Hosts
 # Hack-for-hire cyberespionage group
 # Source: https://otx.alienvault.com
@@ -12168,856 +12168,6 @@ zuiyougou.com
 0.0.0.0	www.wagnermela.com
 0.0.0.0	www.zuiyougou.com
 0.0.0.0	ziusphotographie.free.fr
-# DarkComet - Malware Domain Feed V2
-# Command and Control domains for malware known as DarkComet. 
-# These domains are extracted from malware sandbox reports using a Machine Learning model trained on a corpus of good and bad domains. 
-# Source: https://otx.alienvault.com/user/otxrobottwo/pulses
-#
-# INFO: https://en.wikipedia.org/wiki/DarkComet
-#
-# UPDATED: 02-05-2021
-#
-# ***** Every link reported should be considered harmefull and could result in an unwanted malware download. *****
-#
-# *** The list is released without any warranty to the end users. ***
-#
-#                                                             **** Therefor my advice is ****
-#                                                  **** If you experience sites that are being blocked ****
-#                                                **** please double check your input in search field and ****
-#                                           **** see if it's correct and verify that it is the correct page you ****
-#                                             **** are going too! If it is correct then whitelist that site ****
-#
-#                                                           USE THIS LIST WITH CAUTION!
-#
-# *** This list contains domains & Hosts ***
-# ********************************************************************************************************************************************************************
-# DarkComet - Malware Domain Feed V2
-# Source: https://otx.alienvault.com/pulse/5cc10fcf1496f0a4e76497a0
-
-# Domains
-ajci.tk
-antihohol.ru
-bombarj.tk
-coroloboxorozor.com
-datasines.ru
-drop4ak.ml
-ezwin.pw
-gamespoorosdaqweqwewqesda.ru
-glowthiskeep.com
-good-smile.space
-gpay-safe.ru
-guru-soft.pw
-hype-sneakers.online
-ikujyhtgrfedwsqazxcvbnmkj.ml
-instalstore.xyz
-joxner.space
-loveme123.tk
-macrh.ru
-mdtm.fun
-minersoc.com
-mmo4tools.xyz
-noverifyal.ml
-onlyleaks.design
-ourbum.ru
-pagga.net
-panzerhund.ru
-pizda-ot-mamki.site
-qtminer.net
-raskrutka-soshial.xyz
-russianndfl.host
-setlire.space
-setupsetech.top
-silinikk.xyz
-
-# Hosts
-0.0.0.0	0damar0.no-ip.org	
-0.0.0.0	1d1e2x4.duckdns.org	
-0.0.0.0	3ghkgfouwgpnhkruh.ddns.net	
-0.0.0.0	44gang44.duckdns.org	
-0.0.0.0	123q12e.ddns.net	
-0.0.0.0	1234qwer.hopto.org	
-0.0.0.0	1990.no-ip.biz	
-0.0.0.0	2020njrat.hopto.org	
-0.0.0.0	2213.duckdns.org	
-0.0.0.0	170293.ddns.net	
-0.0.0.0	214356.ddns.net	
-0.0.0.0	552020.ddns.net	
-0.0.0.0	15062020mail.myddns.me	
-0.0.0.0	23112020.ddns.net	
-0.0.0.0	972896458.3322.org	
-0.0.0.0	a0456908.xsph.ru	
-0.0.0.0	a0457406.xsph.ru	
-0.0.0.0	a0497708.xsph.ru	
-0.0.0.0	a0498598.xsph.ru	
-0.0.0.0	a0501919.xsph.ru	
-0.0.0.0	a0501990.xsph.ru	
-0.0.0.0	a0508095.xsph.ru	
-0.0.0.0	a0509804.xsph.ru	
-0.0.0.0	a0529924.xsph.ru	
-0.0.0.0	a0531957.xsph.ru	
-0.0.0.0	a0533955.xsph.ru	
-0.0.0.0	a0537869.xsph.ru	
-0.0.0.0	a2204a0w.beget.tech	
-0.0.0.0	a9898198.sytes.net	
-0.0.0.0	a.nigga.fr	
-0.0.0.0	aaaaaaaq.myftp.biz	
-0.0.0.0	aanonymous123.ddns.net	
-0.0.0.0	abdo00.publicvm.com	
-0.0.0.0	abdoaks-41628.portmap.io	
-0.0.0.0	abdou2022.ddns.net	
-0.0.0.0	abod.ddns.net	
-0.0.0.0	abudns.duckdns.org	
-0.0.0.0	adm44.duckdns.org	
-0.0.0.0	admiin250850.ddns.net	
-0.0.0.0	adwa.ddns.net	
-0.0.0.0	againme666.ddns.net	
-0.0.0.0	agostofinales02020302.duckdns.org	
-0.0.0.0	agsagasg-51850.portmap.host	
-0.0.0.0	ahmed070.ddns.net	
-0.0.0.0	ahmedd120.ddns.net	
-0.0.0.0	ahmeddolseka3.ddns.net	
-0.0.0.0	ahmetkaya55.duckdns.org	
-0.0.0.0	aimware-43009.portmap.io	
-0.0.0.0	aironx.no-ip.biz	
-0.0.0.0	ajanaj-25991.portmap.host	
-0.0.0.0	akesha07.ddns.net	
-0.0.0.0	akita14.ddns.net	
-0.0.0.0	alal2.ddns.net	
-0.0.0.0	aldaet.dvrcam.info	
-0.0.0.0	alekseynj.ddns.net	
-0.0.0.0	aleum11.hopto.org	
-0.0.0.0	alexandre78.no-ip.org	
-0.0.0.0	ali1235.ddns.net	
-0.0.0.0	aliali12.ddns.net	
-0.0.0.0	aliddd.duckdns.org	
-0.0.0.0	aliyah.ddns.net	
-0.0.0.0	alperako.duckdns.org	
-0.0.0.0	amazigh15-43861.portmap.host	
-0.0.0.0	amazonproducts.ddns.net	
-0.0.0.0	amigo2322.duckdns.org	
-0.0.0.0	amirkabekshenov.majorservice.space	
-0.0.0.0	amma.myftp.biz	
-0.0.0.0	andrug2005.ddns.net	
-0.0.0.0	andyvps.ddns.net	
-0.0.0.0	anonim123.ddns.net	
-0.0.0.0	anonmynus.duckdns.org	
-0.0.0.0	anony.linkpc.net	
-0.0.0.0	anthraxgold.no-ip.info	
-0.0.0.0	anti.kro.kr	
-0.0.0.0	anunankis1.duckdns.org	
-0.0.0.0	appinhackers.no-ip.biz	
-0.0.0.0	aqq.linkpc.net	
-0.0.0.0	arab1313.ddns.net	
-0.0.0.0	artem4ikoff.ddns.net	
-0.0.0.0	asdfasdf96.ddns.net	
-0.0.0.0	asnrg84tr15e.ddns.net	
-0.0.0.0	attia.ddns.net	
-0.0.0.0	axaxaxaxaxax.zapto.org	
-0.0.0.0	aymen42.no-ip.biz	
-0.0.0.0	aymn161.no-ip.org	
-0.0.0.0	aziziyehack.duckdns.org	
-0.0.0.0	azula-39486.portmap.io	
-0.0.0.0	b2bnetlinkone.kozow.com	
-0.0.0.0	baba3232.ddns.net	
-0.0.0.0	bableg.duckdns.org	
-0.0.0.0	babushka.ddns.net	
-0.0.0.0	backdoor123.ddns.net	
-0.0.0.0	backupnorris.ddns.net	
-0.0.0.0	badstory.ddns.net	
-0.0.0.0	bahudz7.myddns.me	
-0.0.0.0	bakaihasan.hopto.org	
-0.0.0.0	banana.ddns.net	
-0.0.0.0	baniasi.no-ip.org	
-0.0.0.0	bankinter.ddns.net	
-0.0.0.0	basmtrke00.ddns.net	
-0.0.0.0	beavis547.ddns.net	
-0.0.0.0	bebeflood22.ddns.net	
-0.0.0.0	benim.ddns.net	
-0.0.0.0	bestdayever.ddns.net	
-0.0.0.0	besthost2.ddns.net	
-0.0.0.0	bezdar1337-55715.portmap.host	
-0.0.0.0	bhakops.duckdns.org	
-0.0.0.0	biatch.hopto.org	
-0.0.0.0	bibl129.ddns.net	
-0.0.0.0	billgates8989856.ddns.net	
-0.0.0.0	bio4kobs.geekgalaxy.com	
-0.0.0.0	blackg666.duckdns.org	
-0.0.0.0	blansky.ddns.net	
-0.0.0.0	blgslmao.ddns.net	
-0.0.0.0	bloodz8.ddns.net	
-0.0.0.0	bmwe30.ddns.net	
-0.0.0.0	bola2021.ddns.net	
-0.0.0.0	boleto.duckdns.org	
-0.0.0.0	bolhack.duckdns.org	
-0.0.0.0	bolinha2012.no-ip.org	
-0.0.0.0	bossbaby.ddns.net	
-0.0.0.0	botaryantest.no-ip.org	
-0.0.0.0	botcsgo.duckdns.org	
-0.0.0.0	bothackth.myftp.biz	
-0.0.0.0	bragahack.duckdns.org	
-0.0.0.0	brawlstar.ddns.net	
-0.0.0.0	brostobrosto.no-ip.biz	
-0.0.0.0	bryarlab.no-ip.biz	
-0.0.0.0	buffercc.duckdns.org	
-0.0.0.0	buhilelerolmuyo.duckdns.org	
-0.0.0.0	burakberke.duckdns.org	
-0.0.0.0	burakktc.ddnsfree.com	
-0.0.0.0	busekil.duckdns.org	
-0.0.0.0	by-gotukolla.duckdns.org	
-0.0.0.0	ca03018.tmweb.ru	
-0.0.0.0	cailongithenhi.ddns.net	
-0.0.0.0	camifer922.linkpc.net	
-0.0.0.0	captin.ddns.net	
-0.0.0.0	cashbuzinesss02.no-ip.org	
-0.0.0.0	cb28626.tmweb.ru	
-0.0.0.0	ce40017.tmweb.ru	
-0.0.0.0	centourismeadddynamicoptional001.loseyourip.com	
-0.0.0.0	ceyimes778-27954.portmap.host	
-0.0.0.0	chamsi.ddns.net	
-0.0.0.0	chmpignondubled.duckdns.org	
-0.0.0.0	chrisle79.ddns.net	
-0.0.0.0	chromeyel.ddns.net	
-0.0.0.0	ci25244.tmweb.ru	
-0.0.0.0	cj44408.tmweb.ru	
-0.0.0.0	claro.homeip.net	
-0.0.0.0	clayroot2016.linkpc.net	
-0.0.0.0	clientts.ddns.net	
-0.0.0.0	cn23428.tmweb.ru	
-0.0.0.0	cocohack.no-ip.org	
-0.0.0.0	codexm0106.ddns.net	
-0.0.0.0	colond.gotdns.com	
-0.0.0.0	cometdb.ddns.net	
-0.0.0.0	complexdc.duckdns.org	
-0.0.0.0	computeratt.ddns.net	
-0.0.0.0	connectbn.kro.kr	
-0.0.0.0	conodo.duckdns.org	
-0.0.0.0	console-wifi.ddns.net	
-0.0.0.0	contactoswindows.duckdns.org	
-0.0.0.0	contactoswindowsone.duckdns.org	
-0.0.0.0	controllerfinallineballinglove33.webredirect.org	
-0.0.0.0	coronan.duckdns.org	
-0.0.0.0	coronavirusupdate.ddns.net	
-0.0.0.0	corsai.duckdns.org	
-0.0.0.0	cosrem.ddns.net	
-0.0.0.0	cp60827.tmweb.ru	
-0.0.0.0	cqrzh122.ddns.net	
-0.0.0.0	cryhacker360.ddns.net	
-0.0.0.0	crypto.pay-code.ru	
-0.0.0.0	cs42498.tmweb.ru	
-0.0.0.0	cs43009.tmweb.ru	
-0.0.0.0	ctfmon.ze.am	
-0.0.0.0	ctos-mainv1.ddns.net	
-0.0.0.0	current.no-ip.org	
-0.0.0.0	cyberboss.netxisp.host	
-0.0.0.0	cyberpolicesalemi-48331.portmap.host	
-0.0.0.0	d7lh.ddns.net	
-0.0.0.0	dadijinn05.ddns.net	
-0.0.0.0	dadijinn.ddns.net	
-0.0.0.0	daeksasi.zapto.org	
-0.0.0.0	dahicothebest.ddns.net	
-0.0.0.0	dark17x89x78x12.ddns.net	
-0.0.0.0	dark109309.duckdns.org	
-0.0.0.0	dark11223344a5b56d7.ddns.net	
-0.0.0.0	dark12345555.duckdns.org	
-0.0.0.0	darkcamet5758.ddns.net	
-0.0.0.0	darkcodersirjoker.ddns.net	
-0.0.0.0	darkcometuser.ddns.net	
-0.0.0.0	darkcometz1.hopto.org	
-0.0.0.0	darkfor123.ddns.net	
-0.0.0.0	darkin.ddns.net	
-0.0.0.0	darkkcomett.duckdns.org	
-0.0.0.0	darkkerem2003.duckdns.org	
-0.0.0.0	darkkomet105.ddns.net	
-0.0.0.0	darkside-solo09.dnsalias.ru	
-0.0.0.0	darteo2.duckdns.org	
-0.0.0.0	dchost.ddns.net	
-0.0.0.0	dcometraptors.duckdns.org	
-0.0.0.0	dcrat2018.ddns.net	
-0.0.0.0	dcrat.ffox.site	
-0.0.0.0	dddfffeeerrr.duckdns.org	
-0.0.0.0	dddsdsdsd.ddns.net	
-0.0.0.0	ddns11.ddns.net	
-0.0.0.0	ddns12345.ddns.net	
-0.0.0.0	ddnshost-microsofts.serveftp.com	
-0.0.0.0	ddnsssaa.ddns.net	
-0.0.0.0	ddong00.kro.kr	
-0.0.0.0	defencecyberorg.myddns.me	
-0.0.0.0	degsort.ddns.net	
-0.0.0.0	denemedomains1.duckdns.org	
-0.0.0.0	denenelercee.duckdns.org	
-0.0.0.0	denizx1.duckdns.org	
-0.0.0.0	denntal.no-ip.biz	
-0.0.0.0	denrix4545rat.ddns.net	
-0.0.0.0	desha10.no-ip.org	
-0.0.0.0	dfsewrd.duckdns.org	
-0.0.0.0	dftyghb12.myddns.me	
-0.0.0.0	dgdhsisj.ddns.net	
-0.0.0.0	dimaas.ddns.net	
-0.0.0.0	dimaraja2005.ddns.net	
-0.0.0.0	dinonu.kro.kr	
-0.0.0.0	diomedez11.duckdns.org	
-0.0.0.0	discordcu.duckdns.org	
-0.0.0.0	dkdkniku200.kro.kr	
-0.0.0.0	dominoduck2070.duckdns.org	
-0.0.0.0	donovan82.ddns.net	
-0.0.0.0	doshka123.ddns.net	
-0.0.0.0	downhacking555.ddns.net	
-0.0.0.0	dpswpdldyd.kro.kr	
-0.0.0.0	dr187187.ddns.net	
-0.0.0.0	dragonx.ddns.net	
-0.0.0.0	drmesho.ddns.net	
-0.0.0.0	dsu.duckdns.org	
-0.0.0.0	dubstep32.ddns.net	
-0.0.0.0	dubstep33.ddns.net	
-0.0.0.0	eceda.duckdns.org	
-0.0.0.0	ecuado2021.duckdns.org	
-0.0.0.0	ecuadorcity.duckdns.org	
-0.0.0.0	edufdp.ddns.net	
-0.0.0.0	efsanegang.duckdns.org	
-0.0.0.0	ehackt.duckdns.org	
-0.0.0.0	eins4ein.duckdns.org	
-0.0.0.0	eisconn2.duckdns.org	
-0.0.0.0	elbouma.hopto.org	
-0.0.0.0	elmo1122.ddns.net	
-0.0.0.0	eloah.no-ip.org	
-0.0.0.0	elumadns.eluma101.com	
-0.0.0.0	emma2091.ddns.net	
-0.0.0.0	emmike.no-ip.org	
-0.0.0.0	emo131986.ddns.net	
-0.0.0.0	emtuan.duckdns.org	
-0.0.0.0	engine79.ddns.net	
-0.0.0.0	erayapk.duckdns.org	
-0.0.0.0	excalibur-crack.ddns.net	
-0.0.0.0	excaliburjb.duckdns.org	
-0.0.0.0	expulse.ddns.net	
-0.0.0.0	f0427497.xsph.ru	
-0.0.0.0	f0457879.xsph.ru	
-0.0.0.0	f0457880.xsph.ru	
-0.0.0.0	f0497709.xsph.ru	
-0.0.0.0	f0501018.xsph.ru	
-0.0.0.0	f0525102.xsph.ru	
-0.0.0.0	fahd123123.ddns.net	
-0.0.0.0	falanfilan1.duckdns.org	
-0.0.0.0	fammilepompe.duckdns.org	
-0.0.0.0	fanasko.duckdns.org	
-0.0.0.0	fbconect.sytes.net	
-0.0.0.0	ferdinandgelge.ddns.net	
-0.0.0.0	fff.kingspy.ml	
-0.0.0.0	ffonddark.ddns.net	
-0.0.0.0	fidapeste.ddnsfree.com	
-0.0.0.0	fidapeste.duckdns.org	
-0.0.0.0	firchik.hopto.org	
-0.0.0.0	fisher333.hldns.ru	
-0.0.0.0	fivar.ddns.net	
-0.0.0.0	flamengo12.ddns.net	
-0.0.0.0	fnhost1.ddns.net	
-0.0.0.0	focariongorda.duckdns.org	
-0.0.0.0	fodaoeunao157.duckdns.org	
-0.0.0.0	foke.hopto.org	
-0.0.0.0	foobosmy.duckdns.org	
-0.0.0.0	forcomet.ddns.net	
-0.0.0.0	fordark1337.ddns.net	
-0.0.0.0	fortnitevbuckmaker.ddns.net	
-0.0.0.0	foxy4ka.ddns.net	
-0.0.0.0	fpwjsem123.kro.kr	
-0.0.0.0	fra3444-48041.portmap.host	
-0.0.0.0	fra344411-59266.portmap.host	
-0.0.0.0	frangogameplay.duckdns.org	
-0.0.0.0	freudken.ddns.net	
-0.0.0.0	fuckoff1.no-ip.org	
-0.0.0.0	fundgrube.no-ip.org	
-0.0.0.0	g0dshot.duckdns.org	
-0.0.0.0	gameservice.ddns.net	
-0.0.0.0	gaylord.hopto.org	
-0.0.0.0	gem0t0gen9.ddns.net	
-0.0.0.0	gembird.hopto.org	
-0.0.0.0	getitslow.ddns.net	
-0.0.0.0	ghostinhere.duckdns.org	
-0.0.0.0	ghostsly.duckdns.org	
-0.0.0.0	gnx.zapto.org	
-0.0.0.0	goerboelinder.myftp.biz	
-0.0.0.0	goneward.ddns.net	
-0.0.0.0	goodluck2019.duckdns.org	
-0.0.0.0	google8.ddns.net	
-0.0.0.0	google.myddns.me	
-0.0.0.0	googleapis2.duckdns.org	
-0.0.0.0	googlehost.ddns.net	
-0.0.0.0	googllechrome.sytes.net	
-0.0.0.0	gpio.ddns.net	
-0.0.0.0	grandmanager.hopto.org	
-0.0.0.0	grosjeangerard.hopto.org	
-0.0.0.0	grumm2313.ddns.net	
-0.0.0.0	gtci.kro.kr	
-0.0.0.0	guiness.servebeer.com	
-0.0.0.0	gux.no-ip.biz	
-0.0.0.0	h1h2.ddns.net	
-0.0.0.0	hack3333.duckdns.org	
-0.0.0.0	hack5863.ddns.net	
-0.0.0.0	hackd7.ddns.net	
-0.0.0.0	hacked0613.ddns.net	
-0.0.0.0	hackedmohand.ddns.net	
-0.0.0.0	hackedsteamacc.ddns.net	
-0.0.0.0	hacker1231.myftp.biz	
-0.0.0.0	hackergh.3322.org	
-0.0.0.0	hackerkurda.duckdns.org	
-0.0.0.0	hackerman64.hopto.org	
-0.0.0.0	hackerxnight-50653.portmap.host	
-0.0.0.0	hacking1634.ddns.net	
-0.0.0.0	hackingss.duckdns.org	
-0.0.0.0	hacksukablyat.ddns.net	
-0.0.0.0	hadzija.duckdns.org	
-0.0.0.0	hajrsehi.ddns.net	
-0.0.0.0	hak3d.duckdns.org	
-0.0.0.0	hakerk.zapto.org	
-0.0.0.0	hamed2004-43449.portmap.host	
-0.0.0.0	hamzaj424.ddns.net	
-0.0.0.0	hasamu.duckdns.org	
-0.0.0.0	hatm.no-ip.org	
-0.0.0.0	hddico.hopto.org	
-0.0.0.0	heaven.no-ip.biz	
-0.0.0.0	helixsohum-59977.portmap.io	
-0.0.0.0	hello.servegame.com	
-0.0.0.0	hellome654-26362.portmap.host	
-0.0.0.0	helloyomom.duckdns.org	
-0.0.0.0	help.serveftp.com	
-0.0.0.0	hh2000.no-ip.org	
-0.0.0.0	hidra991.hldns.ru	
-0.0.0.0	hightoping.duckdns.org	
-0.0.0.0	hitman20.ddns.net	
-0.0.0.0	hkkali.ddns.net	
-0.0.0.0	hmm9823.codns.com	
-0.0.0.0	hostingservicesnet.ddns.net	
-0.0.0.0	hostman.zapto.org	
-0.0.0.0	hotelverse.ddns.net	
-0.0.0.0	hotkey.ddns.net	
-0.0.0.0	hphacker.no-ip.biz	
-0.0.0.0	hsms1923.ddns.net	
-0.0.0.0	idevenknow.duckdns.org	
-0.0.0.0	igoryok2281.ddns.net	
-0.0.0.0	ikvvid.duckdns.org	
-0.0.0.0	ilyapetrov48.hopto.org	
-0.0.0.0	ilyes99.hopto.org	
-0.0.0.0	imagine.here-for-more.info	
-0.0.0.0	imanab.ddns.net	
-0.0.0.0	imfollowdns.ddns.net	
-0.0.0.0	iminent11.no-ip.org	
-0.0.0.0	immortalxc.no-ip.biz	
-0.0.0.0	in-addr-arpa.publicvm.com	
-0.0.0.0	indiantechscammer.hopto.org	
-0.0.0.0	inforhack.ddns.net	
-0.0.0.0	internehost.ddns.net	
-0.0.0.0	iplocation.linkpc.net	
-0.0.0.0	ipnedam333.netxisp.host	
-0.0.0.0	iraq313.publicvm.com	
-0.0.0.0	islob00641.hopto.org	
-0.0.0.0	ismailratt.duckdns.org	
-0.0.0.0	issasaleh.ddns.net	
-0.0.0.0	jadory11.ddns.net	
-0.0.0.0	jalal100.serveftp.com	
-0.0.0.0	jameskumarprem2.ddns.net	
-0.0.0.0	jasonxfocus.xrk.top	
-0.0.0.0	javaclients.hopto.org	
-0.0.0.0	jeanpaves.ddns.net	
-0.0.0.0	jinmo0721.kro.kr	
-0.0.0.0	jlauka2018.temp.swtest.ru	
-0.0.0.0	jokar-syria.publicvm.com	
-0.0.0.0	joker3.publicvm.com	
-0.0.0.0	jonimarelli.servegame.com	
-0.0.0.0	jordanxv0.ddns.net	
-0.0.0.0	juarezzteam.duckdns.org	
-0.0.0.0	just4you.ddns.net	
-0.0.0.0	jyleol-41320.portmap.host	
-0.0.0.0	k4b000.no-ip.org	
-0.0.0.0	kachiga.ddns.net	
-0.0.0.0	kadir12345.duckdns.org	
-0.0.0.0	kakasi.kro.kr	
-0.0.0.0	kalidoor.ddns.net	
-0.0.0.0	kalindark.ddns.net	
-0.0.0.0	kalipsoahow.ddns.net	
-0.0.0.0	kanat31.duckdns.org	
-0.0.0.0	kauelindo.duckdns.org	
-0.0.0.0	kdsgoodpro.hopto.org	
-0.0.0.0	kebda4ever.ddns.net	
-0.0.0.0	kemorat21.duckdns.org	
-0.0.0.0	kemos.zapto.org	
-0.0.0.0	kikkiscc.kro.kr	
-0.0.0.0	kinging.ddns.net	
-0.0.0.0	kingsuk2001.hopto.org	
-0.0.0.0	kinholima.duckdns.org	
-0.0.0.0	kirito-f16.ddns.net	
-0.0.0.0	kissll.ddns.net	
-0.0.0.0	kizaru228.ddns.net	
-0.0.0.0	kkkzzz.f3322.net	
-0.0.0.0	klash.ddns.net	
-0.0.0.0	klavyegrup.duckdns.org	
-0.0.0.0	klopklopklop.ddns.net	
-0.0.0.0	kolzkolz.ddns.net	
-0.0.0.0	komeet.ddns.net	
-0.0.0.0	komet322.ddns.net	
-0.0.0.0	koyee.no-ip.org	
-0.0.0.0	kraleray45.duckdns.org	
-0.0.0.0	kralist.duckdns.org	
-0.0.0.0	ksarex.ddns.net	
-0.0.0.0	ksmklol.ddns.net	
-0.0.0.0	ksomkbrdeka.ddns.net	
-0.0.0.0	kuki1.hopto.org	
-0.0.0.0	kurbanciklar.duckdns.org	
-0.0.0.0	kvejo991.ddns.net	
-0.0.0.0	l9wada2020.ddns.net	
-0.0.0.0	lasergurkann-47367.portmap.io	
-0.0.0.0	lati.ddns.net	
-0.0.0.0	laziokachi1234.duckdns.org	
-0.0.0.0	leviisthebest.ddns.net	
-0.0.0.0	lewo.ddns.net	
-0.0.0.0	lexatv001.ddns.net	
-0.0.0.0	lhaj.ddns.net	
-0.0.0.0	lienteric-pushup.000webhostapp.com	
-0.0.0.0	likedoingthis.ddns.net	
-0.0.0.0	limetv.ddns.net	
-0.0.0.0	link23sd.ddns.net	
-0.0.0.0	ll34567qwe.ddns.net	
-0.0.0.0	logg1899.ddns.net	
-0.0.0.0	lolkekgold.hopto.org	
-0.0.0.0	lorixo666.sytes.net	
-0.0.0.0	loshari2021.ddns.net	
-0.0.0.0	loveuo75544.ddns.net	
-0.0.0.0	mafifx.ddns.net	
-0.0.0.0	mafiosa.ddns.net	
-0.0.0.0	mafred.duckdns.org	
-0.0.0.0	magux.no-ip.org	
-0.0.0.0	maksuda2230-52612.portmap.host	
-0.0.0.0	mamo434376-49964.portmap.host	
-0.0.0.0	man2010.no-ip.org	
-0.0.0.0	mandanga.blogdns.com	
-0.0.0.0	mangomanga.ddns.net	
-0.0.0.0	manualhack.ddns.net	
-0.0.0.0	marbeyli.duckdns.org	
-0.0.0.0	marcoatn1.duckdns.org	
-0.0.0.0	markusamca.duckdns.org	
-0.0.0.0	maro4kin.hopto.org	
-0.0.0.0	martinboss.ddns.net	
-0.0.0.0	mastersir.ddns.net	
-0.0.0.0	mathkros79.ddns.net	
-0.0.0.0	maxpolka.ddns.net	
-0.0.0.0	me1555.ddns.net	
-0.0.0.0	mekemeko.ddns.net	
-0.0.0.0	meliodas777.zapto.org	
-0.0.0.0	memo2020.ddns.net	
-0.0.0.0	mertmert.duckdns.org	
-0.0.0.0	metin2coder.duckdns.org	
-0.0.0.0	micorosoft-corp.ddns.net	
-0.0.0.0	microsoftservice1.ddns.net	
-0.0.0.0	microsoftwindow.ddns.net	
-0.0.0.0	mighty9862.ddns.net	
-0.0.0.0	mikus293.ddns.net	
-0.0.0.0	milla.publicvm.com	
-0.0.0.0	millionsfunds2018.duckdns.org	
-0.0.0.0	minecraftmods.myftp.biz	
-0.0.0.0	mlz.ddns.net	
-0.0.0.0	mnvrmnvrlolcalkek.ddns.net	
-0.0.0.0	mohamed123.ddns.net	
-0.0.0.0	mohdz33.ddns.net	
-0.0.0.0	mondnstest.ddns.net	
-0.0.0.0	moneybag123.myftp.biz	
-0.0.0.0	monobrayan.duckdns.org	
-0.0.0.0	monocell08.duckdns.org	
-0.0.0.0	moraldoteam.ddns.net	
-0.0.0.0	moroco2020.bounceme.net	
-0.0.0.0	mosduju.hopto.org	
-0.0.0.0	mranubis.ddns.net	
-0.0.0.0	mrdook222.ddns.net	
-0.0.0.0	mrhackeer.ddns.net	
-0.0.0.0	mronehacker.ddns.net	
-0.0.0.0	mrtortillachip.myftp.org	
-0.0.0.0	mrz6r0.myddns.me	
-0.0.0.0	myapk.ddns.net	
-0.0.0.0	myapps.sytes.net	
-0.0.0.0	myhackerip.no-ip.org	
-0.0.0.0	myhackth.myftp.org	
-0.0.0.0	myhani44.ddns.net	
-0.0.0.0	myhost1211.ddns.net	
-0.0.0.0	myhostn.ddns.net	
-0.0.0.0	myinjetas.ddns.net	
-0.0.0.0	mynemes123.hopto.org	
-0.0.0.0	nadatota.no-ip.biz	
-0.0.0.0	nanocore4459.ddns.net	
-0.0.0.0	nanodarkco.ddns.net	
-0.0.0.0	nauseous9752-37429.portmap.host	
-0.0.0.0	nbycm3siji1za.hopto.org	
-0.0.0.0	netframework.serveminecraft.net	
-0.0.0.0	neverdiev2.viewdns.net	
-0.0.0.0	new-icq2019.myiphost.com	
-0.0.0.0	newdarkcomet.daniel2you.com	
-0.0.0.0	niaeme2214.kro.kr	
-0.0.0.0	nickdesigns.ddns.net	
-0.0.0.0	nidd.zapto.org	
-0.0.0.0	nikitka.ddns.net	
-0.0.0.0	nikolay.ddns.net	
-0.0.0.0	ninfa.no-ip.org	
-0.0.0.0	ninjazbz.duckdns.org	
-0.0.0.0	nixer.ddns.net	
-0.0.0.0	nixoyt.linkpc.net	
-0.0.0.0	nj2ratt.ddns.net	
-0.0.0.0	njhiddenperson.kro.kr	
-0.0.0.0	njraf.ddns.net	
-0.0.0.0	njrat8.ddns.net	
-0.0.0.0	njrat88.ddns.net	
-0.0.0.0	njrat93.hopto.org	
-0.0.0.0	njrat99123.ddns.net	
-0.0.0.0	njrathost.ddns.net	
-0.0.0.0	njuser.ddns.net	
-0.0.0.0	nmrsyria1.ddns.net	
-0.0.0.0	nmrsyria.ddns.net	
-0.0.0.0	noamkennane.ddns.net	
-0.0.0.0	nocbaba3.duckdns.org	
-0.0.0.0	nofreehost.no-ip.org	
-0.0.0.0	noiphack93.hopto.org	
-0.0.0.0	noiphosting.hopto.org	
-0.0.0.0	nonspam.hopto.org	
-0.0.0.0	nouna1985.no-ip.org	
-0.0.0.0	ntwted.duckdns.org	
-0.0.0.0	null3dshir0.hopto.org	
-0.0.0.0	o95353sh.beget.tech	
-0.0.0.0	oakley25.ddns.net	
-0.0.0.0	odayhasan.ddns.net	
-0.0.0.0	oebonur600.duckdns.org	
-0.0.0.0	okaforikem.access.ly	
-0.0.0.0	okbro2.zapto.org	
-0.0.0.0	olmayanoc.duckdns.org	
-0.0.0.0	osant0.ddns.net	
-0.0.0.0	osnetwork.duckdns.org	
-0.0.0.0	ovosh9999.ddns.net	
-0.0.0.0	ovvo.ddns.net	
-0.0.0.0	oxigen.ddns.net	
-0.0.0.0	ozandeneme.duckdns.org	
-0.0.0.0	ozowarac1.no-ip.org	
-0.0.0.0	ozowarac.duckdns.org	
-0.0.0.0	padeiro779.ddns.net	
-0.0.0.0	palstine-love1985.ddns.net	
-0.0.0.0	paoki.zapto.org	
-0.0.0.0	pashamido99.ddns.net	
-0.0.0.0	pastasense.ddns.net	
-0.0.0.0	paulinhoteste.ddns.net	
-0.0.0.0	pavuukg.ddns.net	
-0.0.0.0	pedrichis15.duckdns.org	
-0.0.0.0	piku41014101.kro.kr	
-0.0.0.0	pitbullzowna1.ddns.net	
-0.0.0.0	pluewredw.chickenkiller.com	
-0.0.0.0	pobarani.ddns.net	
-0.0.0.0	policey0.duckdns.org	
-0.0.0.0	portanumero3030.ddns.net	
-0.0.0.0	portforward1111.duckdns.org	
-0.0.0.0	poshelnaxyi228.hopto.org	
-0.0.0.0	process14.ddns.net	
-0.0.0.0	proewka.ddns.net	
-0.0.0.0	proxadbinairyfree.ddns.net	
-0.0.0.0	pseudotool.no-ip.biz	
-0.0.0.0	pubgbypass055.ddns.net	
-0.0.0.0	pubglite.ddns.net	
-0.0.0.0	pufa.ddns.net	
-0.0.0.0	q123.no-ip.biz	
-0.0.0.0	qeezzy.ddns.net	
-0.0.0.0	qenet.hopto.org	
-0.0.0.0	qkrwjdrms1100.kro.kr	
-0.0.0.0	qqwwee.ddns.net	
-0.0.0.0	quan123zx3-47659.portmap.host	
-0.0.0.0	qudrlf486.codns.com	
-0.0.0.0	queenjood2020.ddns.net	
-0.0.0.0	qwertyqwerty.duckdns.org	
-0.0.0.0	r.saforta.com	
-0.0.0.0	racinn.duckdns.org	
-0.0.0.0	ragediller.ddns.net	
-0.0.0.0	ragnardns.duckdns.org	
-0.0.0.0	rakalki.hopto.org	
-0.0.0.0	ramibensab3ini.ddns.net	
-0.0.0.0	randomhost.3utilities.com	
-0.0.0.0	ratbru.ddns.net	
-0.0.0.0	ratnk.duckdns.org	
-0.0.0.0	rattattat.ddns.net	
-0.0.0.0	rebon.homeftp.net	
-0.0.0.0	redlocal.duckdns.org	
-0.0.0.0	refreshkho.ddns.net	
-0.0.0.0	regedxasd.duckdns.org	
-0.0.0.0	reizorulez.no-ip.org	
-0.0.0.0	rennigan-40926.portmap.host	
-0.0.0.0	revengenj.ddns.net	
-0.0.0.0	riskmaster.ddns.net	
-0.0.0.0	rlanikamil.ddns.net	
-0.0.0.0	rms.cocbuilder.su	
-0.0.0.0	roma31.hopto.org	
-0.0.0.0	ronymahmoudn.ddns.net	
-0.0.0.0	roony.zapto.org	
-0.0.0.0	rrosares.duckdns.org	
-0.0.0.0	rtts.ddns.net	
-0.0.0.0	sabaandyek45556.ddns.net	
-0.0.0.0	sadist.ddns.net	
-0.0.0.0	sadosaykodz1.ddns.net	
-0.0.0.0	sadosaykodz.ddns.net	
-0.0.0.0	sagaz.ddns.net	
-0.0.0.0	sahrhkvh.ddns.net	
-0.0.0.0	sakatos8.beget.tech	
-0.0.0.0	salekhard.ddns.net	
-0.0.0.0	sallama.duckdns.org	
-0.0.0.0	sametasikli.duckdns.org	
-0.0.0.0	saminoip.ddns.net	
-0.0.0.0	sammynos1.duckdns.org	
-0.0.0.0	samodaf-35686.portmap.host	
-0.0.0.0	santiagonasar2.duckdns.org	
-0.0.0.0	sasiska.ddns.net	
-0.0.0.0	sdfasdasd.duckdns.org	
-0.0.0.0	secondmta.clans.hu	
-0.0.0.0	secureisrael.ddns.net	
-0.0.0.0	seela2118.ddns.net	
-0.0.0.0	semen4ik.ddns.net	
-0.0.0.0	seminalsally.ddns.net	
-0.0.0.0	serg555rus.beget.tech	
-0.0.0.0	server-360.ddns.net	
-0.0.0.0	serverserver007007.ddns.net	
-0.0.0.0	sgsdfasdf.hopto.org	
-0.0.0.0	shades.no-ip.org	
-0.0.0.0	shahg.sytes.net	
-0.0.0.0	shaker1970.ddns.net	
-0.0.0.0	shaynegallagher-43458.portmap.host	
-0.0.0.0	shero10.hopto.org	
-0.0.0.0	shine.redirectme.net	
-0.0.0.0	shngkss-63673.portmap.io	
-0.0.0.0	sirgeneral1011.ddns.net	
-0.0.0.0	sirpytin.ddns.net	
-0.0.0.0	sirt.linkpc.net	
-0.0.0.0	slicer.ddns.net	
-0.0.0.0	slowhead.duckdns.org	
-0.0.0.0	slprofessional.no-ip.biz	
-0.0.0.0	smokie666.chickenkiller.com	
-0.0.0.0	smokin10.duckdns.org	
-0.0.0.0	sniperexe.ddns.net	
-0.0.0.0	snowbrabo171.duckdns.org	
-0.0.0.0	sohaib123.ddns.net	
-0.0.0.0	sosiso4.hopto.org	
-0.0.0.0	soskanerealka.ddns.net	
-0.0.0.0	sosnsonasona1974.ddns.net	
-0.0.0.0	sosomelaine.ddns.net	
-0.0.0.0	sphack0000.no-ip.biz	
-0.0.0.0	spy19.zapto.org	
-0.0.0.0	sssaaaa.no-ip.biz	
-0.0.0.0	stalkerfed.ddns.net	
-0.0.0.0	stannano.golffan.us	
-0.0.0.0	steamko.dynamic-dns.net	
-0.0.0.0	stimixgames.ddns.net	
-0.0.0.0	stve.ddns.net	
-0.0.0.0	succes.ddns.net	
-0.0.0.0	suleymanpasa.freeddns.org	
-0.0.0.0	superuser3574.ddns.net	
-0.0.0.0	supporknowledgebase.ddns.net	
-0.0.0.0	svalkabomja3.hopto.org	
-0.0.0.0	svchost59.ddns.net	
-0.0.0.0	svhostservices.duckdns.org	
-0.0.0.0	swat.no-ip.biz	
-0.0.0.0	sylviaxyx.from-ga.com	
-0.0.0.0	systeem32.ddns.net	
-0.0.0.0	systemmicrosoft.linkpc.net	
-0.0.0.0	tahoo.publicvm.com	
-0.0.0.0	targetyou.no-ip.org	
-0.0.0.0	tatarikgamer21.hopto.org	
-0.0.0.0	tcp0000-44571.portmap.host	
-0.0.0.0	tercepico202120212021.duckdns.org	
-0.0.0.0	terhax.duckdns.org	
-0.0.0.0	terrorist.kro.kr	
-0.0.0.0	terryelfnds147.duckdns.org	
-0.0.0.0	testandonovameta.duckdns.org	
-0.0.0.0	testdene.duckdns.org	
-0.0.0.0	thecevoo.duckdns.org	
-0.0.0.0	thechair1236.ddns.net	
-0.0.0.0	thedarkdkpiteur.no-ip.org	
-0.0.0.0	thetiger.linkpc.net	
-0.0.0.0	thisismylifemimeyo-22560.portmap.host	
-0.0.0.0	todes.ddns.net	
-0.0.0.0	tokio127.duckdns.org	
-0.0.0.0	tomaspace.ddns.net	
-0.0.0.0	tonystark2025.duckdns.org	
-0.0.0.0	tourtellebang.ddns.net	
-0.0.0.0	tprotocol.majorservice.space	
-0.0.0.0	trjtopfullccs.ddns.net	
-0.0.0.0	troianteste.ddns.net	
-0.0.0.0	trolleur17.ddns.net	
-0.0.0.0	tryagain.ddns.net	
-0.0.0.0	tsrv01.duckdns.org	
-0.0.0.0	tuna310.duckdns.org	
-0.0.0.0	tyga.hopto.org	
-0.0.0.0	tyristintyrist.sytes.net	
-0.0.0.0	u5426.mlh0.ru	
-0.0.0.0	u816144ic1.ha004.t.justns.ru	
-0.0.0.0	updata.myiphost.com	
-0.0.0.0	update09.ddns.net	
-0.0.0.0	usa11.duckdns.org	
-0.0.0.0	uvacvdr.duckdns.org	
-0.0.0.0	v8-1c.giize.com	
-0.0.0.0	vamoqvamo.duckdns.org	
-0.0.0.0	vendetta2020.ddns.net	
-0.0.0.0	venemy.duckdns.org	
-0.0.0.0	vessof.had.su	
-0.0.0.0	vghfffgg.ddns.net	
-0.0.0.0	vh426686.eurodir.ru	
-0.0.0.0	viki777.zapto.org	
-0.0.0.0	villainking89.duckdns.org	
-0.0.0.0	vimeclick.ddns.net	
-0.0.0.0	vjnews.duckdns.org	
-0.0.0.0	vladcomethacker.ddns.net	
-0.0.0.0	vova04q4.beget.tech	
-0.0.0.0	vpsnnog.ddns.net	
-0.0.0.0	vzlompk758909.ddns.net	
-0.0.0.0	waal085.no-ip.biz	
-0.0.0.0	wael10.ddns.net	
-0.0.0.0	wasdwasd.ddns.net	
-0.0.0.0	waziri.ddns.net	
-0.0.0.0	websit.sytes.net	
-0.0.0.0	webstarhamdi.no-ip.biz	
-0.0.0.0	wevertonhk.zapto.org	
-0.0.0.0	win-of.ddns.net	
-0.0.0.0	windowsdef2032.hopto.org	
-0.0.0.0	windowshelpers.ddns.net	
-0.0.0.0	windowssdefender.duckdns.org	
-0.0.0.0	windowsupdatersoftware.duckdns.org	
-0.0.0.0	windowsupdateservice.mypi.co	
-0.0.0.0	wleedwon.no-ip.org	
-0.0.0.0	wolfsate4.hopto.org	
-0.0.0.0	worldwreck.ddns.net	
-0.0.0.0	wqefkwqoefkqweokfqweopk.h1n.ru	
-0.0.0.0	www.justrandomlolew.ru	
-0.0.0.0	www.khalas-hamas.info	
-0.0.0.0	x2x2dz.ddns.net	
-0.0.0.0	xapangu.hopto.org	
-0.0.0.0	xd.suleymanbal.com.tr	
-0.0.0.0	xedax1hvh.myhost.su	
-0.0.0.0	xelmend-54226.portmap.io	
-0.0.0.0	xenaxaumax.ddns.net	
-0.0.0.0	xlightcx.myftp.biz	
-0.0.0.0	xlogg1988.ddns.net	
-0.0.0.0	xsudi121.ddns.net	
-0.0.0.0	xtremezlegend.ddns.net	
-0.0.0.0	xyk.no-ip.org	
-0.0.0.0	yarikserbin22.schost.live	
-0.0.0.0	yasuo123.ddns.net	
-0.0.0.0	yigit263162.duckdns.org	
-0.0.0.0	yonger.ddns.net	
-0.0.0.0	ytdrfvjkhfjthf.duckdns.org	
-0.0.0.0	yuhdoc.ddns.net	
-0.0.0.0	yusufgokayy.duckdns.org	
-0.0.0.0	zahran.publicvm.com	
-0.0.0.0	zakemakl.ddns.net	
-0.0.0.0	zalupa1488.ddns.net	
-0.0.0.0	zamel.ddns.net	
-0.0.0.0	zaptorapto.no-ip.biz	
-0.0.0.0	zaza99.duckdns.org	
-0.0.0.0	zecookies412.ddns.net	
-0.0.0.0	zerip.ddns.net	
-0.0.0.0	zero2211.asuscomm.com	
-0.0.0.0	zhora-20508.portmap.io	
-0.0.0.0	zilol.no-ip.org	
-0.0.0.0	zmzmgpgp.codns.com	
-0.0.0.0	zoozb27.ddns.net	
-0.0.0.0	zulahack.ddns.net	
-0.0.0.0	zxackx-54545.portmap.host	
-0.0.0.0	zzak07.duckdns.org	
 # DGA - Unknown Use (Malware, Phishing, SPAM)
 # Highly suspicious newly registered domains.
 # A malicious program that infects a machine will often need a way to communicate back with a server controlled by the attacker — a so-called command & control (C&C or C2) server. 
@@ -112681,6 +111831,856 @@ wwwsecure.online
 # Hosts
 0.0.0.0 www.corona-compensatie.site
 0.0.0.0 www.financien-site.be
+# DarkComet - Malware Domain Feed V2
+# Command and Control domains for malware known as DarkComet. 
+# These domains are extracted from malware sandbox reports using a Machine Learning model trained on a corpus of good and bad domains. 
+# Source: https://otx.alienvault.com/user/otxrobottwo/pulses
+#
+# INFO: https://en.wikipedia.org/wiki/DarkComet
+#
+# UPDATED: 02-05-2021
+#
+# ***** Every link reported should be considered harmefull and could result in an unwanted malware download. *****
+#
+# *** The list is released without any warranty to the end users. ***
+#
+#                                                             **** Therefor my advice is ****
+#                                                  **** If you experience sites that are being blocked ****
+#                                                **** please double check your input in search field and ****
+#                                           **** see if it's correct and verify that it is the correct page you ****
+#                                             **** are going too! If it is correct then whitelist that site ****
+#
+#                                                           USE THIS LIST WITH CAUTION!
+#
+# *** This list contains domains & Hosts ***
+# ********************************************************************************************************************************************************************
+# DarkComet - Malware Domain Feed V2
+# Source: https://otx.alienvault.com/pulse/5cc10fcf1496f0a4e76497a0
+
+# Domains
+ajci.tk
+antihohol.ru
+bombarj.tk
+coroloboxorozor.com
+datasines.ru
+drop4ak.ml
+ezwin.pw
+gamespoorosdaqweqwewqesda.ru
+glowthiskeep.com
+good-smile.space
+gpay-safe.ru
+guru-soft.pw
+hype-sneakers.online
+ikujyhtgrfedwsqazxcvbnmkj.ml
+instalstore.xyz
+joxner.space
+loveme123.tk
+macrh.ru
+mdtm.fun
+minersoc.com
+mmo4tools.xyz
+noverifyal.ml
+onlyleaks.design
+ourbum.ru
+pagga.net
+panzerhund.ru
+pizda-ot-mamki.site
+qtminer.net
+raskrutka-soshial.xyz
+russianndfl.host
+setlire.space
+setupsetech.top
+silinikk.xyz
+
+# Hosts
+0.0.0.0	0damar0.no-ip.org	
+0.0.0.0	1d1e2x4.duckdns.org	
+0.0.0.0	3ghkgfouwgpnhkruh.ddns.net	
+0.0.0.0	44gang44.duckdns.org	
+0.0.0.0	123q12e.ddns.net	
+0.0.0.0	1234qwer.hopto.org	
+0.0.0.0	1990.no-ip.biz	
+0.0.0.0	2020njrat.hopto.org	
+0.0.0.0	2213.duckdns.org	
+0.0.0.0	170293.ddns.net	
+0.0.0.0	214356.ddns.net	
+0.0.0.0	552020.ddns.net	
+0.0.0.0	15062020mail.myddns.me	
+0.0.0.0	23112020.ddns.net	
+0.0.0.0	972896458.3322.org	
+0.0.0.0	a0456908.xsph.ru	
+0.0.0.0	a0457406.xsph.ru	
+0.0.0.0	a0497708.xsph.ru	
+0.0.0.0	a0498598.xsph.ru	
+0.0.0.0	a0501919.xsph.ru	
+0.0.0.0	a0501990.xsph.ru	
+0.0.0.0	a0508095.xsph.ru	
+0.0.0.0	a0509804.xsph.ru	
+0.0.0.0	a0529924.xsph.ru	
+0.0.0.0	a0531957.xsph.ru	
+0.0.0.0	a0533955.xsph.ru	
+0.0.0.0	a0537869.xsph.ru	
+0.0.0.0	a2204a0w.beget.tech	
+0.0.0.0	a9898198.sytes.net	
+0.0.0.0	a.nigga.fr	
+0.0.0.0	aaaaaaaq.myftp.biz	
+0.0.0.0	aanonymous123.ddns.net	
+0.0.0.0	abdo00.publicvm.com	
+0.0.0.0	abdoaks-41628.portmap.io	
+0.0.0.0	abdou2022.ddns.net	
+0.0.0.0	abod.ddns.net	
+0.0.0.0	abudns.duckdns.org	
+0.0.0.0	adm44.duckdns.org	
+0.0.0.0	admiin250850.ddns.net	
+0.0.0.0	adwa.ddns.net	
+0.0.0.0	againme666.ddns.net	
+0.0.0.0	agostofinales02020302.duckdns.org	
+0.0.0.0	agsagasg-51850.portmap.host	
+0.0.0.0	ahmed070.ddns.net	
+0.0.0.0	ahmedd120.ddns.net	
+0.0.0.0	ahmeddolseka3.ddns.net	
+0.0.0.0	ahmetkaya55.duckdns.org	
+0.0.0.0	aimware-43009.portmap.io	
+0.0.0.0	aironx.no-ip.biz	
+0.0.0.0	ajanaj-25991.portmap.host	
+0.0.0.0	akesha07.ddns.net	
+0.0.0.0	akita14.ddns.net	
+0.0.0.0	alal2.ddns.net	
+0.0.0.0	aldaet.dvrcam.info	
+0.0.0.0	alekseynj.ddns.net	
+0.0.0.0	aleum11.hopto.org	
+0.0.0.0	alexandre78.no-ip.org	
+0.0.0.0	ali1235.ddns.net	
+0.0.0.0	aliali12.ddns.net	
+0.0.0.0	aliddd.duckdns.org	
+0.0.0.0	aliyah.ddns.net	
+0.0.0.0	alperako.duckdns.org	
+0.0.0.0	amazigh15-43861.portmap.host	
+0.0.0.0	amazonproducts.ddns.net	
+0.0.0.0	amigo2322.duckdns.org	
+0.0.0.0	amirkabekshenov.majorservice.space	
+0.0.0.0	amma.myftp.biz	
+0.0.0.0	andrug2005.ddns.net	
+0.0.0.0	andyvps.ddns.net	
+0.0.0.0	anonim123.ddns.net	
+0.0.0.0	anonmynus.duckdns.org	
+0.0.0.0	anony.linkpc.net	
+0.0.0.0	anthraxgold.no-ip.info	
+0.0.0.0	anti.kro.kr	
+0.0.0.0	anunankis1.duckdns.org	
+0.0.0.0	appinhackers.no-ip.biz	
+0.0.0.0	aqq.linkpc.net	
+0.0.0.0	arab1313.ddns.net	
+0.0.0.0	artem4ikoff.ddns.net	
+0.0.0.0	asdfasdf96.ddns.net	
+0.0.0.0	asnrg84tr15e.ddns.net	
+0.0.0.0	attia.ddns.net	
+0.0.0.0	axaxaxaxaxax.zapto.org	
+0.0.0.0	aymen42.no-ip.biz	
+0.0.0.0	aymn161.no-ip.org	
+0.0.0.0	aziziyehack.duckdns.org	
+0.0.0.0	azula-39486.portmap.io	
+0.0.0.0	b2bnetlinkone.kozow.com	
+0.0.0.0	baba3232.ddns.net	
+0.0.0.0	bableg.duckdns.org	
+0.0.0.0	babushka.ddns.net	
+0.0.0.0	backdoor123.ddns.net	
+0.0.0.0	backupnorris.ddns.net	
+0.0.0.0	badstory.ddns.net	
+0.0.0.0	bahudz7.myddns.me	
+0.0.0.0	bakaihasan.hopto.org	
+0.0.0.0	banana.ddns.net	
+0.0.0.0	baniasi.no-ip.org	
+0.0.0.0	bankinter.ddns.net	
+0.0.0.0	basmtrke00.ddns.net	
+0.0.0.0	beavis547.ddns.net	
+0.0.0.0	bebeflood22.ddns.net	
+0.0.0.0	benim.ddns.net	
+0.0.0.0	bestdayever.ddns.net	
+0.0.0.0	besthost2.ddns.net	
+0.0.0.0	bezdar1337-55715.portmap.host	
+0.0.0.0	bhakops.duckdns.org	
+0.0.0.0	biatch.hopto.org	
+0.0.0.0	bibl129.ddns.net	
+0.0.0.0	billgates8989856.ddns.net	
+0.0.0.0	bio4kobs.geekgalaxy.com	
+0.0.0.0	blackg666.duckdns.org	
+0.0.0.0	blansky.ddns.net	
+0.0.0.0	blgslmao.ddns.net	
+0.0.0.0	bloodz8.ddns.net	
+0.0.0.0	bmwe30.ddns.net	
+0.0.0.0	bola2021.ddns.net	
+0.0.0.0	boleto.duckdns.org	
+0.0.0.0	bolhack.duckdns.org	
+0.0.0.0	bolinha2012.no-ip.org	
+0.0.0.0	bossbaby.ddns.net	
+0.0.0.0	botaryantest.no-ip.org	
+0.0.0.0	botcsgo.duckdns.org	
+0.0.0.0	bothackth.myftp.biz	
+0.0.0.0	bragahack.duckdns.org	
+0.0.0.0	brawlstar.ddns.net	
+0.0.0.0	brostobrosto.no-ip.biz	
+0.0.0.0	bryarlab.no-ip.biz	
+0.0.0.0	buffercc.duckdns.org	
+0.0.0.0	buhilelerolmuyo.duckdns.org	
+0.0.0.0	burakberke.duckdns.org	
+0.0.0.0	burakktc.ddnsfree.com	
+0.0.0.0	busekil.duckdns.org	
+0.0.0.0	by-gotukolla.duckdns.org	
+0.0.0.0	ca03018.tmweb.ru	
+0.0.0.0	cailongithenhi.ddns.net	
+0.0.0.0	camifer922.linkpc.net	
+0.0.0.0	captin.ddns.net	
+0.0.0.0	cashbuzinesss02.no-ip.org	
+0.0.0.0	cb28626.tmweb.ru	
+0.0.0.0	ce40017.tmweb.ru	
+0.0.0.0	centourismeadddynamicoptional001.loseyourip.com	
+0.0.0.0	ceyimes778-27954.portmap.host	
+0.0.0.0	chamsi.ddns.net	
+0.0.0.0	chmpignondubled.duckdns.org	
+0.0.0.0	chrisle79.ddns.net	
+0.0.0.0	chromeyel.ddns.net	
+0.0.0.0	ci25244.tmweb.ru	
+0.0.0.0	cj44408.tmweb.ru	
+0.0.0.0	claro.homeip.net	
+0.0.0.0	clayroot2016.linkpc.net	
+0.0.0.0	clientts.ddns.net	
+0.0.0.0	cn23428.tmweb.ru	
+0.0.0.0	cocohack.no-ip.org	
+0.0.0.0	codexm0106.ddns.net	
+0.0.0.0	colond.gotdns.com	
+0.0.0.0	cometdb.ddns.net	
+0.0.0.0	complexdc.duckdns.org	
+0.0.0.0	computeratt.ddns.net	
+0.0.0.0	connectbn.kro.kr	
+0.0.0.0	conodo.duckdns.org	
+0.0.0.0	console-wifi.ddns.net	
+0.0.0.0	contactoswindows.duckdns.org	
+0.0.0.0	contactoswindowsone.duckdns.org	
+0.0.0.0	controllerfinallineballinglove33.webredirect.org	
+0.0.0.0	coronan.duckdns.org	
+0.0.0.0	coronavirusupdate.ddns.net	
+0.0.0.0	corsai.duckdns.org	
+0.0.0.0	cosrem.ddns.net	
+0.0.0.0	cp60827.tmweb.ru	
+0.0.0.0	cqrzh122.ddns.net	
+0.0.0.0	cryhacker360.ddns.net	
+0.0.0.0	crypto.pay-code.ru	
+0.0.0.0	cs42498.tmweb.ru	
+0.0.0.0	cs43009.tmweb.ru	
+0.0.0.0	ctfmon.ze.am	
+0.0.0.0	ctos-mainv1.ddns.net	
+0.0.0.0	current.no-ip.org	
+0.0.0.0	cyberboss.netxisp.host	
+0.0.0.0	cyberpolicesalemi-48331.portmap.host	
+0.0.0.0	d7lh.ddns.net	
+0.0.0.0	dadijinn05.ddns.net	
+0.0.0.0	dadijinn.ddns.net	
+0.0.0.0	daeksasi.zapto.org	
+0.0.0.0	dahicothebest.ddns.net	
+0.0.0.0	dark17x89x78x12.ddns.net	
+0.0.0.0	dark109309.duckdns.org	
+0.0.0.0	dark11223344a5b56d7.ddns.net	
+0.0.0.0	dark12345555.duckdns.org	
+0.0.0.0	darkcamet5758.ddns.net	
+0.0.0.0	darkcodersirjoker.ddns.net	
+0.0.0.0	darkcometuser.ddns.net	
+0.0.0.0	darkcometz1.hopto.org	
+0.0.0.0	darkfor123.ddns.net	
+0.0.0.0	darkin.ddns.net	
+0.0.0.0	darkkcomett.duckdns.org	
+0.0.0.0	darkkerem2003.duckdns.org	
+0.0.0.0	darkkomet105.ddns.net	
+0.0.0.0	darkside-solo09.dnsalias.ru	
+0.0.0.0	darteo2.duckdns.org	
+0.0.0.0	dchost.ddns.net	
+0.0.0.0	dcometraptors.duckdns.org	
+0.0.0.0	dcrat2018.ddns.net	
+0.0.0.0	dcrat.ffox.site	
+0.0.0.0	dddfffeeerrr.duckdns.org	
+0.0.0.0	dddsdsdsd.ddns.net	
+0.0.0.0	ddns11.ddns.net	
+0.0.0.0	ddns12345.ddns.net	
+0.0.0.0	ddnshost-microsofts.serveftp.com	
+0.0.0.0	ddnsssaa.ddns.net	
+0.0.0.0	ddong00.kro.kr	
+0.0.0.0	defencecyberorg.myddns.me	
+0.0.0.0	degsort.ddns.net	
+0.0.0.0	denemedomains1.duckdns.org	
+0.0.0.0	denenelercee.duckdns.org	
+0.0.0.0	denizx1.duckdns.org	
+0.0.0.0	denntal.no-ip.biz	
+0.0.0.0	denrix4545rat.ddns.net	
+0.0.0.0	desha10.no-ip.org	
+0.0.0.0	dfsewrd.duckdns.org	
+0.0.0.0	dftyghb12.myddns.me	
+0.0.0.0	dgdhsisj.ddns.net	
+0.0.0.0	dimaas.ddns.net	
+0.0.0.0	dimaraja2005.ddns.net	
+0.0.0.0	dinonu.kro.kr	
+0.0.0.0	diomedez11.duckdns.org	
+0.0.0.0	discordcu.duckdns.org	
+0.0.0.0	dkdkniku200.kro.kr	
+0.0.0.0	dominoduck2070.duckdns.org	
+0.0.0.0	donovan82.ddns.net	
+0.0.0.0	doshka123.ddns.net	
+0.0.0.0	downhacking555.ddns.net	
+0.0.0.0	dpswpdldyd.kro.kr	
+0.0.0.0	dr187187.ddns.net	
+0.0.0.0	dragonx.ddns.net	
+0.0.0.0	drmesho.ddns.net	
+0.0.0.0	dsu.duckdns.org	
+0.0.0.0	dubstep32.ddns.net	
+0.0.0.0	dubstep33.ddns.net	
+0.0.0.0	eceda.duckdns.org	
+0.0.0.0	ecuado2021.duckdns.org	
+0.0.0.0	ecuadorcity.duckdns.org	
+0.0.0.0	edufdp.ddns.net	
+0.0.0.0	efsanegang.duckdns.org	
+0.0.0.0	ehackt.duckdns.org	
+0.0.0.0	eins4ein.duckdns.org	
+0.0.0.0	eisconn2.duckdns.org	
+0.0.0.0	elbouma.hopto.org	
+0.0.0.0	elmo1122.ddns.net	
+0.0.0.0	eloah.no-ip.org	
+0.0.0.0	elumadns.eluma101.com	
+0.0.0.0	emma2091.ddns.net	
+0.0.0.0	emmike.no-ip.org	
+0.0.0.0	emo131986.ddns.net	
+0.0.0.0	emtuan.duckdns.org	
+0.0.0.0	engine79.ddns.net	
+0.0.0.0	erayapk.duckdns.org	
+0.0.0.0	excalibur-crack.ddns.net	
+0.0.0.0	excaliburjb.duckdns.org	
+0.0.0.0	expulse.ddns.net	
+0.0.0.0	f0427497.xsph.ru	
+0.0.0.0	f0457879.xsph.ru	
+0.0.0.0	f0457880.xsph.ru	
+0.0.0.0	f0497709.xsph.ru	
+0.0.0.0	f0501018.xsph.ru	
+0.0.0.0	f0525102.xsph.ru	
+0.0.0.0	fahd123123.ddns.net	
+0.0.0.0	falanfilan1.duckdns.org	
+0.0.0.0	fammilepompe.duckdns.org	
+0.0.0.0	fanasko.duckdns.org	
+0.0.0.0	fbconect.sytes.net	
+0.0.0.0	ferdinandgelge.ddns.net	
+0.0.0.0	fff.kingspy.ml	
+0.0.0.0	ffonddark.ddns.net	
+0.0.0.0	fidapeste.ddnsfree.com	
+0.0.0.0	fidapeste.duckdns.org	
+0.0.0.0	firchik.hopto.org	
+0.0.0.0	fisher333.hldns.ru	
+0.0.0.0	fivar.ddns.net	
+0.0.0.0	flamengo12.ddns.net	
+0.0.0.0	fnhost1.ddns.net	
+0.0.0.0	focariongorda.duckdns.org	
+0.0.0.0	fodaoeunao157.duckdns.org	
+0.0.0.0	foke.hopto.org	
+0.0.0.0	foobosmy.duckdns.org	
+0.0.0.0	forcomet.ddns.net	
+0.0.0.0	fordark1337.ddns.net	
+0.0.0.0	fortnitevbuckmaker.ddns.net	
+0.0.0.0	foxy4ka.ddns.net	
+0.0.0.0	fpwjsem123.kro.kr	
+0.0.0.0	fra3444-48041.portmap.host	
+0.0.0.0	fra344411-59266.portmap.host	
+0.0.0.0	frangogameplay.duckdns.org	
+0.0.0.0	freudken.ddns.net	
+0.0.0.0	fuckoff1.no-ip.org	
+0.0.0.0	fundgrube.no-ip.org	
+0.0.0.0	g0dshot.duckdns.org	
+0.0.0.0	gameservice.ddns.net	
+0.0.0.0	gaylord.hopto.org	
+0.0.0.0	gem0t0gen9.ddns.net	
+0.0.0.0	gembird.hopto.org	
+0.0.0.0	getitslow.ddns.net	
+0.0.0.0	ghostinhere.duckdns.org	
+0.0.0.0	ghostsly.duckdns.org	
+0.0.0.0	gnx.zapto.org	
+0.0.0.0	goerboelinder.myftp.biz	
+0.0.0.0	goneward.ddns.net	
+0.0.0.0	goodluck2019.duckdns.org	
+0.0.0.0	google8.ddns.net	
+0.0.0.0	google.myddns.me	
+0.0.0.0	googleapis2.duckdns.org	
+0.0.0.0	googlehost.ddns.net	
+0.0.0.0	googllechrome.sytes.net	
+0.0.0.0	gpio.ddns.net	
+0.0.0.0	grandmanager.hopto.org	
+0.0.0.0	grosjeangerard.hopto.org	
+0.0.0.0	grumm2313.ddns.net	
+0.0.0.0	gtci.kro.kr	
+0.0.0.0	guiness.servebeer.com	
+0.0.0.0	gux.no-ip.biz	
+0.0.0.0	h1h2.ddns.net	
+0.0.0.0	hack3333.duckdns.org	
+0.0.0.0	hack5863.ddns.net	
+0.0.0.0	hackd7.ddns.net	
+0.0.0.0	hacked0613.ddns.net	
+0.0.0.0	hackedmohand.ddns.net	
+0.0.0.0	hackedsteamacc.ddns.net	
+0.0.0.0	hacker1231.myftp.biz	
+0.0.0.0	hackergh.3322.org	
+0.0.0.0	hackerkurda.duckdns.org	
+0.0.0.0	hackerman64.hopto.org	
+0.0.0.0	hackerxnight-50653.portmap.host	
+0.0.0.0	hacking1634.ddns.net	
+0.0.0.0	hackingss.duckdns.org	
+0.0.0.0	hacksukablyat.ddns.net	
+0.0.0.0	hadzija.duckdns.org	
+0.0.0.0	hajrsehi.ddns.net	
+0.0.0.0	hak3d.duckdns.org	
+0.0.0.0	hakerk.zapto.org	
+0.0.0.0	hamed2004-43449.portmap.host	
+0.0.0.0	hamzaj424.ddns.net	
+0.0.0.0	hasamu.duckdns.org	
+0.0.0.0	hatm.no-ip.org	
+0.0.0.0	hddico.hopto.org	
+0.0.0.0	heaven.no-ip.biz	
+0.0.0.0	helixsohum-59977.portmap.io	
+0.0.0.0	hello.servegame.com	
+0.0.0.0	hellome654-26362.portmap.host	
+0.0.0.0	helloyomom.duckdns.org	
+0.0.0.0	help.serveftp.com	
+0.0.0.0	hh2000.no-ip.org	
+0.0.0.0	hidra991.hldns.ru	
+0.0.0.0	hightoping.duckdns.org	
+0.0.0.0	hitman20.ddns.net	
+0.0.0.0	hkkali.ddns.net	
+0.0.0.0	hmm9823.codns.com	
+0.0.0.0	hostingservicesnet.ddns.net	
+0.0.0.0	hostman.zapto.org	
+0.0.0.0	hotelverse.ddns.net	
+0.0.0.0	hotkey.ddns.net	
+0.0.0.0	hphacker.no-ip.biz	
+0.0.0.0	hsms1923.ddns.net	
+0.0.0.0	idevenknow.duckdns.org	
+0.0.0.0	igoryok2281.ddns.net	
+0.0.0.0	ikvvid.duckdns.org	
+0.0.0.0	ilyapetrov48.hopto.org	
+0.0.0.0	ilyes99.hopto.org	
+0.0.0.0	imagine.here-for-more.info	
+0.0.0.0	imanab.ddns.net	
+0.0.0.0	imfollowdns.ddns.net	
+0.0.0.0	iminent11.no-ip.org	
+0.0.0.0	immortalxc.no-ip.biz	
+0.0.0.0	in-addr-arpa.publicvm.com	
+0.0.0.0	indiantechscammer.hopto.org	
+0.0.0.0	inforhack.ddns.net	
+0.0.0.0	internehost.ddns.net	
+0.0.0.0	iplocation.linkpc.net	
+0.0.0.0	ipnedam333.netxisp.host	
+0.0.0.0	iraq313.publicvm.com	
+0.0.0.0	islob00641.hopto.org	
+0.0.0.0	ismailratt.duckdns.org	
+0.0.0.0	issasaleh.ddns.net	
+0.0.0.0	jadory11.ddns.net	
+0.0.0.0	jalal100.serveftp.com	
+0.0.0.0	jameskumarprem2.ddns.net	
+0.0.0.0	jasonxfocus.xrk.top	
+0.0.0.0	javaclients.hopto.org	
+0.0.0.0	jeanpaves.ddns.net	
+0.0.0.0	jinmo0721.kro.kr	
+0.0.0.0	jlauka2018.temp.swtest.ru	
+0.0.0.0	jokar-syria.publicvm.com	
+0.0.0.0	joker3.publicvm.com	
+0.0.0.0	jonimarelli.servegame.com	
+0.0.0.0	jordanxv0.ddns.net	
+0.0.0.0	juarezzteam.duckdns.org	
+0.0.0.0	just4you.ddns.net	
+0.0.0.0	jyleol-41320.portmap.host	
+0.0.0.0	k4b000.no-ip.org	
+0.0.0.0	kachiga.ddns.net	
+0.0.0.0	kadir12345.duckdns.org	
+0.0.0.0	kakasi.kro.kr	
+0.0.0.0	kalidoor.ddns.net	
+0.0.0.0	kalindark.ddns.net	
+0.0.0.0	kalipsoahow.ddns.net	
+0.0.0.0	kanat31.duckdns.org	
+0.0.0.0	kauelindo.duckdns.org	
+0.0.0.0	kdsgoodpro.hopto.org	
+0.0.0.0	kebda4ever.ddns.net	
+0.0.0.0	kemorat21.duckdns.org	
+0.0.0.0	kemos.zapto.org	
+0.0.0.0	kikkiscc.kro.kr	
+0.0.0.0	kinging.ddns.net	
+0.0.0.0	kingsuk2001.hopto.org	
+0.0.0.0	kinholima.duckdns.org	
+0.0.0.0	kirito-f16.ddns.net	
+0.0.0.0	kissll.ddns.net	
+0.0.0.0	kizaru228.ddns.net	
+0.0.0.0	kkkzzz.f3322.net	
+0.0.0.0	klash.ddns.net	
+0.0.0.0	klavyegrup.duckdns.org	
+0.0.0.0	klopklopklop.ddns.net	
+0.0.0.0	kolzkolz.ddns.net	
+0.0.0.0	komeet.ddns.net	
+0.0.0.0	komet322.ddns.net	
+0.0.0.0	koyee.no-ip.org	
+0.0.0.0	kraleray45.duckdns.org	
+0.0.0.0	kralist.duckdns.org	
+0.0.0.0	ksarex.ddns.net	
+0.0.0.0	ksmklol.ddns.net	
+0.0.0.0	ksomkbrdeka.ddns.net	
+0.0.0.0	kuki1.hopto.org	
+0.0.0.0	kurbanciklar.duckdns.org	
+0.0.0.0	kvejo991.ddns.net	
+0.0.0.0	l9wada2020.ddns.net	
+0.0.0.0	lasergurkann-47367.portmap.io	
+0.0.0.0	lati.ddns.net	
+0.0.0.0	laziokachi1234.duckdns.org	
+0.0.0.0	leviisthebest.ddns.net	
+0.0.0.0	lewo.ddns.net	
+0.0.0.0	lexatv001.ddns.net	
+0.0.0.0	lhaj.ddns.net	
+0.0.0.0	lienteric-pushup.000webhostapp.com	
+0.0.0.0	likedoingthis.ddns.net	
+0.0.0.0	limetv.ddns.net	
+0.0.0.0	link23sd.ddns.net	
+0.0.0.0	ll34567qwe.ddns.net	
+0.0.0.0	logg1899.ddns.net	
+0.0.0.0	lolkekgold.hopto.org	
+0.0.0.0	lorixo666.sytes.net	
+0.0.0.0	loshari2021.ddns.net	
+0.0.0.0	loveuo75544.ddns.net	
+0.0.0.0	mafifx.ddns.net	
+0.0.0.0	mafiosa.ddns.net	
+0.0.0.0	mafred.duckdns.org	
+0.0.0.0	magux.no-ip.org	
+0.0.0.0	maksuda2230-52612.portmap.host	
+0.0.0.0	mamo434376-49964.portmap.host	
+0.0.0.0	man2010.no-ip.org	
+0.0.0.0	mandanga.blogdns.com	
+0.0.0.0	mangomanga.ddns.net	
+0.0.0.0	manualhack.ddns.net	
+0.0.0.0	marbeyli.duckdns.org	
+0.0.0.0	marcoatn1.duckdns.org	
+0.0.0.0	markusamca.duckdns.org	
+0.0.0.0	maro4kin.hopto.org	
+0.0.0.0	martinboss.ddns.net	
+0.0.0.0	mastersir.ddns.net	
+0.0.0.0	mathkros79.ddns.net	
+0.0.0.0	maxpolka.ddns.net	
+0.0.0.0	me1555.ddns.net	
+0.0.0.0	mekemeko.ddns.net	
+0.0.0.0	meliodas777.zapto.org	
+0.0.0.0	memo2020.ddns.net	
+0.0.0.0	mertmert.duckdns.org	
+0.0.0.0	metin2coder.duckdns.org	
+0.0.0.0	micorosoft-corp.ddns.net	
+0.0.0.0	microsoftservice1.ddns.net	
+0.0.0.0	microsoftwindow.ddns.net	
+0.0.0.0	mighty9862.ddns.net	
+0.0.0.0	mikus293.ddns.net	
+0.0.0.0	milla.publicvm.com	
+0.0.0.0	millionsfunds2018.duckdns.org	
+0.0.0.0	minecraftmods.myftp.biz	
+0.0.0.0	mlz.ddns.net	
+0.0.0.0	mnvrmnvrlolcalkek.ddns.net	
+0.0.0.0	mohamed123.ddns.net	
+0.0.0.0	mohdz33.ddns.net	
+0.0.0.0	mondnstest.ddns.net	
+0.0.0.0	moneybag123.myftp.biz	
+0.0.0.0	monobrayan.duckdns.org	
+0.0.0.0	monocell08.duckdns.org	
+0.0.0.0	moraldoteam.ddns.net	
+0.0.0.0	moroco2020.bounceme.net	
+0.0.0.0	mosduju.hopto.org	
+0.0.0.0	mranubis.ddns.net	
+0.0.0.0	mrdook222.ddns.net	
+0.0.0.0	mrhackeer.ddns.net	
+0.0.0.0	mronehacker.ddns.net	
+0.0.0.0	mrtortillachip.myftp.org	
+0.0.0.0	mrz6r0.myddns.me	
+0.0.0.0	myapk.ddns.net	
+0.0.0.0	myapps.sytes.net	
+0.0.0.0	myhackerip.no-ip.org	
+0.0.0.0	myhackth.myftp.org	
+0.0.0.0	myhani44.ddns.net	
+0.0.0.0	myhost1211.ddns.net	
+0.0.0.0	myhostn.ddns.net	
+0.0.0.0	myinjetas.ddns.net	
+0.0.0.0	mynemes123.hopto.org	
+0.0.0.0	nadatota.no-ip.biz	
+0.0.0.0	nanocore4459.ddns.net	
+0.0.0.0	nanodarkco.ddns.net	
+0.0.0.0	nauseous9752-37429.portmap.host	
+0.0.0.0	nbycm3siji1za.hopto.org	
+0.0.0.0	netframework.serveminecraft.net	
+0.0.0.0	neverdiev2.viewdns.net	
+0.0.0.0	new-icq2019.myiphost.com	
+0.0.0.0	newdarkcomet.daniel2you.com	
+0.0.0.0	niaeme2214.kro.kr	
+0.0.0.0	nickdesigns.ddns.net	
+0.0.0.0	nidd.zapto.org	
+0.0.0.0	nikitka.ddns.net	
+0.0.0.0	nikolay.ddns.net	
+0.0.0.0	ninfa.no-ip.org	
+0.0.0.0	ninjazbz.duckdns.org	
+0.0.0.0	nixer.ddns.net	
+0.0.0.0	nixoyt.linkpc.net	
+0.0.0.0	nj2ratt.ddns.net	
+0.0.0.0	njhiddenperson.kro.kr	
+0.0.0.0	njraf.ddns.net	
+0.0.0.0	njrat8.ddns.net	
+0.0.0.0	njrat88.ddns.net	
+0.0.0.0	njrat93.hopto.org	
+0.0.0.0	njrat99123.ddns.net	
+0.0.0.0	njrathost.ddns.net	
+0.0.0.0	njuser.ddns.net	
+0.0.0.0	nmrsyria1.ddns.net	
+0.0.0.0	nmrsyria.ddns.net	
+0.0.0.0	noamkennane.ddns.net	
+0.0.0.0	nocbaba3.duckdns.org	
+0.0.0.0	nofreehost.no-ip.org	
+0.0.0.0	noiphack93.hopto.org	
+0.0.0.0	noiphosting.hopto.org	
+0.0.0.0	nonspam.hopto.org	
+0.0.0.0	nouna1985.no-ip.org	
+0.0.0.0	ntwted.duckdns.org	
+0.0.0.0	null3dshir0.hopto.org	
+0.0.0.0	o95353sh.beget.tech	
+0.0.0.0	oakley25.ddns.net	
+0.0.0.0	odayhasan.ddns.net	
+0.0.0.0	oebonur600.duckdns.org	
+0.0.0.0	okaforikem.access.ly	
+0.0.0.0	okbro2.zapto.org	
+0.0.0.0	olmayanoc.duckdns.org	
+0.0.0.0	osant0.ddns.net	
+0.0.0.0	osnetwork.duckdns.org	
+0.0.0.0	ovosh9999.ddns.net	
+0.0.0.0	ovvo.ddns.net	
+0.0.0.0	oxigen.ddns.net	
+0.0.0.0	ozandeneme.duckdns.org	
+0.0.0.0	ozowarac1.no-ip.org	
+0.0.0.0	ozowarac.duckdns.org	
+0.0.0.0	padeiro779.ddns.net	
+0.0.0.0	palstine-love1985.ddns.net	
+0.0.0.0	paoki.zapto.org	
+0.0.0.0	pashamido99.ddns.net	
+0.0.0.0	pastasense.ddns.net	
+0.0.0.0	paulinhoteste.ddns.net	
+0.0.0.0	pavuukg.ddns.net	
+0.0.0.0	pedrichis15.duckdns.org	
+0.0.0.0	piku41014101.kro.kr	
+0.0.0.0	pitbullzowna1.ddns.net	
+0.0.0.0	pluewredw.chickenkiller.com	
+0.0.0.0	pobarani.ddns.net	
+0.0.0.0	policey0.duckdns.org	
+0.0.0.0	portanumero3030.ddns.net	
+0.0.0.0	portforward1111.duckdns.org	
+0.0.0.0	poshelnaxyi228.hopto.org	
+0.0.0.0	process14.ddns.net	
+0.0.0.0	proewka.ddns.net	
+0.0.0.0	proxadbinairyfree.ddns.net	
+0.0.0.0	pseudotool.no-ip.biz	
+0.0.0.0	pubgbypass055.ddns.net	
+0.0.0.0	pubglite.ddns.net	
+0.0.0.0	pufa.ddns.net	
+0.0.0.0	q123.no-ip.biz	
+0.0.0.0	qeezzy.ddns.net	
+0.0.0.0	qenet.hopto.org	
+0.0.0.0	qkrwjdrms1100.kro.kr	
+0.0.0.0	qqwwee.ddns.net	
+0.0.0.0	quan123zx3-47659.portmap.host	
+0.0.0.0	qudrlf486.codns.com	
+0.0.0.0	queenjood2020.ddns.net	
+0.0.0.0	qwertyqwerty.duckdns.org	
+0.0.0.0	r.saforta.com	
+0.0.0.0	racinn.duckdns.org	
+0.0.0.0	ragediller.ddns.net	
+0.0.0.0	ragnardns.duckdns.org	
+0.0.0.0	rakalki.hopto.org	
+0.0.0.0	ramibensab3ini.ddns.net	
+0.0.0.0	randomhost.3utilities.com	
+0.0.0.0	ratbru.ddns.net	
+0.0.0.0	ratnk.duckdns.org	
+0.0.0.0	rattattat.ddns.net	
+0.0.0.0	rebon.homeftp.net	
+0.0.0.0	redlocal.duckdns.org	
+0.0.0.0	refreshkho.ddns.net	
+0.0.0.0	regedxasd.duckdns.org	
+0.0.0.0	reizorulez.no-ip.org	
+0.0.0.0	rennigan-40926.portmap.host	
+0.0.0.0	revengenj.ddns.net	
+0.0.0.0	riskmaster.ddns.net	
+0.0.0.0	rlanikamil.ddns.net	
+0.0.0.0	rms.cocbuilder.su	
+0.0.0.0	roma31.hopto.org	
+0.0.0.0	ronymahmoudn.ddns.net	
+0.0.0.0	roony.zapto.org	
+0.0.0.0	rrosares.duckdns.org	
+0.0.0.0	rtts.ddns.net	
+0.0.0.0	sabaandyek45556.ddns.net	
+0.0.0.0	sadist.ddns.net	
+0.0.0.0	sadosaykodz1.ddns.net	
+0.0.0.0	sadosaykodz.ddns.net	
+0.0.0.0	sagaz.ddns.net	
+0.0.0.0	sahrhkvh.ddns.net	
+0.0.0.0	sakatos8.beget.tech	
+0.0.0.0	salekhard.ddns.net	
+0.0.0.0	sallama.duckdns.org	
+0.0.0.0	sametasikli.duckdns.org	
+0.0.0.0	saminoip.ddns.net	
+0.0.0.0	sammynos1.duckdns.org	
+0.0.0.0	samodaf-35686.portmap.host	
+0.0.0.0	santiagonasar2.duckdns.org	
+0.0.0.0	sasiska.ddns.net	
+0.0.0.0	sdfasdasd.duckdns.org	
+0.0.0.0	secondmta.clans.hu	
+0.0.0.0	secureisrael.ddns.net	
+0.0.0.0	seela2118.ddns.net	
+0.0.0.0	semen4ik.ddns.net	
+0.0.0.0	seminalsally.ddns.net	
+0.0.0.0	serg555rus.beget.tech	
+0.0.0.0	server-360.ddns.net	
+0.0.0.0	serverserver007007.ddns.net	
+0.0.0.0	sgsdfasdf.hopto.org	
+0.0.0.0	shades.no-ip.org	
+0.0.0.0	shahg.sytes.net	
+0.0.0.0	shaker1970.ddns.net	
+0.0.0.0	shaynegallagher-43458.portmap.host	
+0.0.0.0	shero10.hopto.org	
+0.0.0.0	shine.redirectme.net	
+0.0.0.0	shngkss-63673.portmap.io	
+0.0.0.0	sirgeneral1011.ddns.net	
+0.0.0.0	sirpytin.ddns.net	
+0.0.0.0	sirt.linkpc.net	
+0.0.0.0	slicer.ddns.net	
+0.0.0.0	slowhead.duckdns.org	
+0.0.0.0	slprofessional.no-ip.biz	
+0.0.0.0	smokie666.chickenkiller.com	
+0.0.0.0	smokin10.duckdns.org	
+0.0.0.0	sniperexe.ddns.net	
+0.0.0.0	snowbrabo171.duckdns.org	
+0.0.0.0	sohaib123.ddns.net	
+0.0.0.0	sosiso4.hopto.org	
+0.0.0.0	soskanerealka.ddns.net	
+0.0.0.0	sosnsonasona1974.ddns.net	
+0.0.0.0	sosomelaine.ddns.net	
+0.0.0.0	sphack0000.no-ip.biz	
+0.0.0.0	spy19.zapto.org	
+0.0.0.0	sssaaaa.no-ip.biz	
+0.0.0.0	stalkerfed.ddns.net	
+0.0.0.0	stannano.golffan.us	
+0.0.0.0	steamko.dynamic-dns.net	
+0.0.0.0	stimixgames.ddns.net	
+0.0.0.0	stve.ddns.net	
+0.0.0.0	succes.ddns.net	
+0.0.0.0	suleymanpasa.freeddns.org	
+0.0.0.0	superuser3574.ddns.net	
+0.0.0.0	supporknowledgebase.ddns.net	
+0.0.0.0	svalkabomja3.hopto.org	
+0.0.0.0	svchost59.ddns.net	
+0.0.0.0	svhostservices.duckdns.org	
+0.0.0.0	swat.no-ip.biz	
+0.0.0.0	sylviaxyx.from-ga.com	
+0.0.0.0	systeem32.ddns.net	
+0.0.0.0	systemmicrosoft.linkpc.net	
+0.0.0.0	tahoo.publicvm.com	
+0.0.0.0	targetyou.no-ip.org	
+0.0.0.0	tatarikgamer21.hopto.org	
+0.0.0.0	tcp0000-44571.portmap.host	
+0.0.0.0	tercepico202120212021.duckdns.org	
+0.0.0.0	terhax.duckdns.org	
+0.0.0.0	terrorist.kro.kr	
+0.0.0.0	terryelfnds147.duckdns.org	
+0.0.0.0	testandonovameta.duckdns.org	
+0.0.0.0	testdene.duckdns.org	
+0.0.0.0	thecevoo.duckdns.org	
+0.0.0.0	thechair1236.ddns.net	
+0.0.0.0	thedarkdkpiteur.no-ip.org	
+0.0.0.0	thetiger.linkpc.net	
+0.0.0.0	thisismylifemimeyo-22560.portmap.host	
+0.0.0.0	todes.ddns.net	
+0.0.0.0	tokio127.duckdns.org	
+0.0.0.0	tomaspace.ddns.net	
+0.0.0.0	tonystark2025.duckdns.org	
+0.0.0.0	tourtellebang.ddns.net	
+0.0.0.0	tprotocol.majorservice.space	
+0.0.0.0	trjtopfullccs.ddns.net	
+0.0.0.0	troianteste.ddns.net	
+0.0.0.0	trolleur17.ddns.net	
+0.0.0.0	tryagain.ddns.net	
+0.0.0.0	tsrv01.duckdns.org	
+0.0.0.0	tuna310.duckdns.org	
+0.0.0.0	tyga.hopto.org	
+0.0.0.0	tyristintyrist.sytes.net	
+0.0.0.0	u5426.mlh0.ru	
+0.0.0.0	u816144ic1.ha004.t.justns.ru	
+0.0.0.0	updata.myiphost.com	
+0.0.0.0	update09.ddns.net	
+0.0.0.0	usa11.duckdns.org	
+0.0.0.0	uvacvdr.duckdns.org	
+0.0.0.0	v8-1c.giize.com	
+0.0.0.0	vamoqvamo.duckdns.org	
+0.0.0.0	vendetta2020.ddns.net	
+0.0.0.0	venemy.duckdns.org	
+0.0.0.0	vessof.had.su	
+0.0.0.0	vghfffgg.ddns.net	
+0.0.0.0	vh426686.eurodir.ru	
+0.0.0.0	viki777.zapto.org	
+0.0.0.0	villainking89.duckdns.org	
+0.0.0.0	vimeclick.ddns.net	
+0.0.0.0	vjnews.duckdns.org	
+0.0.0.0	vladcomethacker.ddns.net	
+0.0.0.0	vova04q4.beget.tech	
+0.0.0.0	vpsnnog.ddns.net	
+0.0.0.0	vzlompk758909.ddns.net	
+0.0.0.0	waal085.no-ip.biz	
+0.0.0.0	wael10.ddns.net	
+0.0.0.0	wasdwasd.ddns.net	
+0.0.0.0	waziri.ddns.net	
+0.0.0.0	websit.sytes.net	
+0.0.0.0	webstarhamdi.no-ip.biz	
+0.0.0.0	wevertonhk.zapto.org	
+0.0.0.0	win-of.ddns.net	
+0.0.0.0	windowsdef2032.hopto.org	
+0.0.0.0	windowshelpers.ddns.net	
+0.0.0.0	windowssdefender.duckdns.org	
+0.0.0.0	windowsupdatersoftware.duckdns.org	
+0.0.0.0	windowsupdateservice.mypi.co	
+0.0.0.0	wleedwon.no-ip.org	
+0.0.0.0	wolfsate4.hopto.org	
+0.0.0.0	worldwreck.ddns.net	
+0.0.0.0	wqefkwqoefkqweokfqweopk.h1n.ru	
+0.0.0.0	www.justrandomlolew.ru	
+0.0.0.0	www.khalas-hamas.info	
+0.0.0.0	x2x2dz.ddns.net	
+0.0.0.0	xapangu.hopto.org	
+0.0.0.0	xd.suleymanbal.com.tr	
+0.0.0.0	xedax1hvh.myhost.su	
+0.0.0.0	xelmend-54226.portmap.io	
+0.0.0.0	xenaxaumax.ddns.net	
+0.0.0.0	xlightcx.myftp.biz	
+0.0.0.0	xlogg1988.ddns.net	
+0.0.0.0	xsudi121.ddns.net	
+0.0.0.0	xtremezlegend.ddns.net	
+0.0.0.0	xyk.no-ip.org	
+0.0.0.0	yarikserbin22.schost.live	
+0.0.0.0	yasuo123.ddns.net	
+0.0.0.0	yigit263162.duckdns.org	
+0.0.0.0	yonger.ddns.net	
+0.0.0.0	ytdrfvjkhfjthf.duckdns.org	
+0.0.0.0	yuhdoc.ddns.net	
+0.0.0.0	yusufgokayy.duckdns.org	
+0.0.0.0	zahran.publicvm.com	
+0.0.0.0	zakemakl.ddns.net	
+0.0.0.0	zalupa1488.ddns.net	
+0.0.0.0	zamel.ddns.net	
+0.0.0.0	zaptorapto.no-ip.biz	
+0.0.0.0	zaza99.duckdns.org	
+0.0.0.0	zecookies412.ddns.net	
+0.0.0.0	zerip.ddns.net	
+0.0.0.0	zero2211.asuscomm.com	
+0.0.0.0	zhora-20508.portmap.io	
+0.0.0.0	zilol.no-ip.org	
+0.0.0.0	zmzmgpgp.codns.com	
+0.0.0.0	zoozb27.ddns.net	
+0.0.0.0	zulahack.ddns.net	
+0.0.0.0	zxackx-54545.portmap.host	
+0.0.0.0	zzak07.duckdns.org	
 # Dridex IOCs - Domains & Hosts
 # Trojan.Dridex is capable of stealing specific information. It usually goes after a list of installed applications and the OS version of the 
 # affected machine, which is crucial information for further exploring the affected system. The main goal of this Trojan is usually to steal banking credentials.
@@ -121623,224 +121623,6 @@ zews.tech
 # Hosts
 0.0.0.0 products-msofficeclient.office.microsoft.office-microsoft.cc
 0.0.0.0 www.cwuop.club
-# Hancitor - Malware Domain Feed V2
-# Command and Control domains for malware known as Hancitor. These domains are extracted from malware sandbox reports using a Machine Learning model trained on a corpus of good and bad domains.
-# Source: https://otx.alienvault.com/user/otxrobottwo/pulses
-#
-# UPDATED 19-03-2021
-#
-# Every link reported should be considered harmefull and could result in an unwanted malware download. Use this file carrefully.
-#
-#                                                             **** Therefor my advice is ****
-#                                                  **** If you experience sites that are being blocked ****
-#                                                **** please double check your input in search field and ****
-#                                           **** see if it's correct and verify that it is the correct page you ****
-#                                             **** are going too! If it is correct then whitelist that site ****
-#
-#                                                           USE THIS LIST WITH CAUTION!
-#
-#
-# *****The list is released without any warranty to the end users.*****
-#
-# *** This list contains domains and hosts ***
-# *******************************************************************************************************************************************************************
-# Hancitor - Malware Domain Feed V2
-# Source: https://otx.alienvault.com/pulse/5cc9a7076726505d0daa19c5
-
-# Domains
-abouniteta.ru
-aftereand.com
-anatereplage.com
-andninglethe.ru
-andpartanthat.com
-antialkinno.com
-anumessensan.ru
-areentthrices.ru
-aribliffored.ru
-atorsrofur.com
-avantusthea.com
-beestunduras.com
-berofaked.ru
-bilighbohooll.ru
-blocarh.info
-camovethet.com
-cetotrumo.com
-chungfamily.us
-cloolyepervir.com
-codirecrof.ru
-cornbeijnvoxin.com
-cussoricti.com
-daleftdownligh.ru
-decturnearrips.ru
-denaduntelaz.ru
-denduchor.com
-desuctoette.ru
-dirtroadpestle.com
-dofoheuse.ru
-duarreecto.ru
-ductivery.com
-duloperes.com
-eaussill.com
-efelsdvismade.com
-elesengrity.com
-ementincied.com
-epperhaptem.com
-etsofevenghen.com
-eummentur.ru
-euroteriage.com
-eviddinlahal.com
-exieverhiltur.ru
-fabickng.ru
-featicent.com
-feirecropl.com
-felighevengna.com
-fidosofwass.ru
-formawas.ru
-forticheire.ru
-froloccenatr.com
-frosemodynd.ru
-froursmonesed.com
-fruciand.com
-gatalfotold.com
-gatanpene.ru
-geeventsparke.ru
-geopertsure.ru
-gledhimze.com
-grectedparices.ru
-gumousethat.com
-gunomehad.com
-hadidndintligh.ru
-harforusero.ru
-hatuderefer.com
-hedrinsadidn.com
-hegenbofor.ru
-henletlighny.ru
-herstonsperted.ru
-hinsehatcal.ru
-hinwasslysed.com
-histoldwobet.ru
-howeelyzuq.com
-howevengrathan.ru
-hurampronand.com
-idathothet.ru
-iderfeirel.com
-idrettituse.ru
-imextralgall.ru
-infludeplike.ru
-iverspriturs.com
-justhardogot.ru
-keramenzakt.com
-kuzinium.com
-lacdowronfor.com
-lacheckwassrew.ru
-lappoing.com
-lationvold.com
-ledbabdintot.com
-lielftworiss.com
-littmejecand.com
-looduchavens.ru
-ludiesibut.ru
-maduabin.com
-magenvire.com
-mailartmen.ru
-mainctional.com
-matuattheires.ru
-mihisparrin.com
-moceoftpar.ru
-mylaledpar.ru
-nalohanhat.com
-nentrivend.ru
-ninglarenlac.com
-notmesparly.com
-nuatanste.com
-nuencres.com
-ocifirtaterity.com
-opulteme.com
-oresteseu.ru
-otsoebabe.com
-pansoniterger.com
-peasseal.com
-pehedforhers.ru
-perjustleftsup.com
-poresson.com
-pritupertion.com
-pritursivers.ru
-probominku.ru
-propywast.com
-pubarecaz.com
-publearysuc.ru
-pulbilood.com
-purclughtz.com
-qualityinnnorthampton.com
-ratleaningres.ru
-rebsotorslet.com
-recandritlo.com
-rentoldredsed.com
-reprathechim.com
-requirend.com
-rinnowitjohn.com
-ritsparrobred.com
-roflingleugh.ru
-rolsintarigh.ru
-rounzabout.ru
-rucerscur.com
-rythettinleft.ru
-sagitecheadle.com
-sameastar.ru
-satursed.com
-sebutgurom.ru
-shifiticans.com
-shwashate.ru
-sibetaver.com
-sicantort.com
-sindintwatold.com
-sinforonhad.com
-sinsiburop.ru
-sonalsovele.ru
-spardethe.com
-spausence.com
-speritentz.com
-stylefersan.com
-succupen.com
-sweyblidian.com
-syleclisizame.ru
-taftahrice.com
-tawithhershow.ru
-tedgesinund.ru
-tereadefle.com
-teriaproare.ru
-theaterpunti.ru
-theirrissublu.ru
-thenexames.ru
-theriond.com
-thozentaini.com
-throsesspeotte.com
-tiftecludinut.com
-tinkedrepaning.com
-toduhanha.com
-toffithatwith.com
-tofttoldboand.ru
-tonshekinar.ru
-tonthersthetleft.ru
-toolboxkasa.ru
-totharduron.com
-tridzetary.com
-tworkityre.ru
-ulaginceter.com
-unceliet.com
-usesindownne.ru
-veusegory.ru
-wamuchperhedt.ru
-warlarvars.com
-wingritydet.com
-witeseurturan.ru
-wordlegromin.ru
-woulauserpect.ru
-wronlacbeher.ru
-wronwithtedsu.ru
-zabiquzo.ru
-zinsubtal.ru
-ziverbsel.com
 # HTTP headers aiding exploitation
 # Source: https://otx.alienvault.com/
 #
@@ -122517,6 +122299,224 @@ youtube.com
 0.0.0.0	z.performance.now
 0.0.0.0	zerossl.crt.sectigo.com
 0.0.0.0	ziwit.crt.sectigo.com
+# Hancitor - Malware Domain Feed V2
+# Command and Control domains for malware known as Hancitor. These domains are extracted from malware sandbox reports using a Machine Learning model trained on a corpus of good and bad domains.
+# Source: https://otx.alienvault.com/user/otxrobottwo/pulses
+#
+# UPDATED 19-03-2021
+#
+# Every link reported should be considered harmefull and could result in an unwanted malware download. Use this file carrefully.
+#
+#                                                             **** Therefor my advice is ****
+#                                                  **** If you experience sites that are being blocked ****
+#                                                **** please double check your input in search field and ****
+#                                           **** see if it's correct and verify that it is the correct page you ****
+#                                             **** are going too! If it is correct then whitelist that site ****
+#
+#                                                           USE THIS LIST WITH CAUTION!
+#
+#
+# *****The list is released without any warranty to the end users.*****
+#
+# *** This list contains domains and hosts ***
+# *******************************************************************************************************************************************************************
+# Hancitor - Malware Domain Feed V2
+# Source: https://otx.alienvault.com/pulse/5cc9a7076726505d0daa19c5
+
+# Domains
+abouniteta.ru
+aftereand.com
+anatereplage.com
+andninglethe.ru
+andpartanthat.com
+antialkinno.com
+anumessensan.ru
+areentthrices.ru
+aribliffored.ru
+atorsrofur.com
+avantusthea.com
+beestunduras.com
+berofaked.ru
+bilighbohooll.ru
+blocarh.info
+camovethet.com
+cetotrumo.com
+chungfamily.us
+cloolyepervir.com
+codirecrof.ru
+cornbeijnvoxin.com
+cussoricti.com
+daleftdownligh.ru
+decturnearrips.ru
+denaduntelaz.ru
+denduchor.com
+desuctoette.ru
+dirtroadpestle.com
+dofoheuse.ru
+duarreecto.ru
+ductivery.com
+duloperes.com
+eaussill.com
+efelsdvismade.com
+elesengrity.com
+ementincied.com
+epperhaptem.com
+etsofevenghen.com
+eummentur.ru
+euroteriage.com
+eviddinlahal.com
+exieverhiltur.ru
+fabickng.ru
+featicent.com
+feirecropl.com
+felighevengna.com
+fidosofwass.ru
+formawas.ru
+forticheire.ru
+froloccenatr.com
+frosemodynd.ru
+froursmonesed.com
+fruciand.com
+gatalfotold.com
+gatanpene.ru
+geeventsparke.ru
+geopertsure.ru
+gledhimze.com
+grectedparices.ru
+gumousethat.com
+gunomehad.com
+hadidndintligh.ru
+harforusero.ru
+hatuderefer.com
+hedrinsadidn.com
+hegenbofor.ru
+henletlighny.ru
+herstonsperted.ru
+hinsehatcal.ru
+hinwasslysed.com
+histoldwobet.ru
+howeelyzuq.com
+howevengrathan.ru
+hurampronand.com
+idathothet.ru
+iderfeirel.com
+idrettituse.ru
+imextralgall.ru
+infludeplike.ru
+iverspriturs.com
+justhardogot.ru
+keramenzakt.com
+kuzinium.com
+lacdowronfor.com
+lacheckwassrew.ru
+lappoing.com
+lationvold.com
+ledbabdintot.com
+lielftworiss.com
+littmejecand.com
+looduchavens.ru
+ludiesibut.ru
+maduabin.com
+magenvire.com
+mailartmen.ru
+mainctional.com
+matuattheires.ru
+mihisparrin.com
+moceoftpar.ru
+mylaledpar.ru
+nalohanhat.com
+nentrivend.ru
+ninglarenlac.com
+notmesparly.com
+nuatanste.com
+nuencres.com
+ocifirtaterity.com
+opulteme.com
+oresteseu.ru
+otsoebabe.com
+pansoniterger.com
+peasseal.com
+pehedforhers.ru
+perjustleftsup.com
+poresson.com
+pritupertion.com
+pritursivers.ru
+probominku.ru
+propywast.com
+pubarecaz.com
+publearysuc.ru
+pulbilood.com
+purclughtz.com
+qualityinnnorthampton.com
+ratleaningres.ru
+rebsotorslet.com
+recandritlo.com
+rentoldredsed.com
+reprathechim.com
+requirend.com
+rinnowitjohn.com
+ritsparrobred.com
+roflingleugh.ru
+rolsintarigh.ru
+rounzabout.ru
+rucerscur.com
+rythettinleft.ru
+sagitecheadle.com
+sameastar.ru
+satursed.com
+sebutgurom.ru
+shifiticans.com
+shwashate.ru
+sibetaver.com
+sicantort.com
+sindintwatold.com
+sinforonhad.com
+sinsiburop.ru
+sonalsovele.ru
+spardethe.com
+spausence.com
+speritentz.com
+stylefersan.com
+succupen.com
+sweyblidian.com
+syleclisizame.ru
+taftahrice.com
+tawithhershow.ru
+tedgesinund.ru
+tereadefle.com
+teriaproare.ru
+theaterpunti.ru
+theirrissublu.ru
+thenexames.ru
+theriond.com
+thozentaini.com
+throsesspeotte.com
+tiftecludinut.com
+tinkedrepaning.com
+toduhanha.com
+toffithatwith.com
+tofttoldboand.ru
+tonshekinar.ru
+tonthersthetleft.ru
+toolboxkasa.ru
+totharduron.com
+tridzetary.com
+tworkityre.ru
+ulaginceter.com
+unceliet.com
+usesindownne.ru
+veusegory.ru
+wamuchperhedt.ru
+warlarvars.com
+wingritydet.com
+witeseurturan.ru
+wordlegromin.ru
+woulauserpect.ru
+wronlacbeher.ru
+wronwithtedsu.ru
+zabiquzo.ru
+zinsubtal.ru
+ziverbsel.com
 # IcedID - Malware Domain Feed V2
 # Command and Control domains for malware known as IcedID. These domains are extracted from malware sandbox reports using a Machine Learning model trained on a corpus of good and bad domains. 
 # Source: https://otx.alienvault.com/user/otxrobottwo/pulses
@@ -449666,6 +449666,304 @@ zzyjtsgls.com
 0.0.0.0	www.cleanroomequipment.ie
 0.0.0.0	www.makingmillionaires.net
 0.0.0.0	www.ticdefense.com
+# Malware - Win32. Collection of multiple win32.-families with few domains & hosts per feed.
+# Command and Control domains for malware known as Win32.Shiz.ufj. These domains are extracted from malware sandbox reports using a Machine Learning model trained on a corpus of good and bad domains.
+# Source: https://otx.alienvault.com/browse/global?section=All&q=Win32&include_inactive=0&sort=-modified&page=1&indicatorsSearch=modified:%22%22%20Win32
+#
+# INFO: https://www.f-secure.com/v-descs/win32_virus.shtml
+#
+# UPDATED 02-04-2021
+#
+# Every link reported should be considered harmefull and could result in an unwanted malware download. Use this file carrefully.
+#
+#                                                             **** Therefor my advice is ****
+#                                                  **** If you experience sites that are being blocked ****
+#                                                **** please double check your input in search field and ****
+#                                           **** see if it's correct and verify that it is the correct page you ****
+#                                             **** are going too! If it is correct then whitelist that site ****
+#
+#                                                           USE THIS LIST WITH CAUTION!
+#
+#
+# *****The list is released without any warranty to the end users.*****
+#
+# *** This list contains domains and hosts ***
+# *******************************************************************************************************************************************************************
+#---------------------------------------------
+# W32.Blackmoon - Malware Domain Feed V2
+# Source: https://otx.alienvault.com/pulse/5cc6b94df225b0045a904d5b
+
+# Domains
+fffffh.site
+luoyefeihua.site
+syncc.xyz
+
+# Hosts
+0.0.0.0	0408sq2u.58guyu.com
+0.0.0.0	91w2l6dt.58guyu.com
+0.0.0.0	833u3k3i.58guyu.com
+0.0.0.0	down01.58guyu.com
+0.0.0.0	exe.58guyu.com
+0.0.0.0	fpnt5n9r.58guyu.com
+0.0.0.0	ftp271303.host553.zhujiwu.cn
+0.0.0.0	ftp543845.host566.zhujiwu.me
+0.0.0.0	gj.wxb2568.cn
+0.0.0.0	ip.666888pya.xyz
+0.0.0.0	k7vvazyq.58guyu.com
+0.0.0.0	mprrpt.hjkl45678.xyz
+0.0.0.0	nmprrpt.hjkl45678.xyz
+0.0.0.0	p1hgivju.gdicoou.com
+0.0.0.0	q9o7y27m.58guyu.com
+0.0.0.0	qcyl.cyynet.com
+0.0.0.0	sfqlbmxt.58guyu.com
+0.0.0.0	tongji.58guyu.com
+0.0.0.0	v216976v.58guyu.com
+0.0.0.0	wkapi.kenfu1.com
+0.0.0.0	www.362com.com
+0.0.0.0	www.awen666.icu
+0.0.0.0	www.dfafsd.cloud
+0.0.0.0	www.joinbee.cn
+0.0.0.0	www.panbaogui.com
+0.0.0.0	www.yxlt.us
+0.0.0.0	xxx.xxx.com
+0.0.0.0	ys46waeu.adkuai8.com
+0.0.0.0	yy4010.gotoip1.com
+#---------------------------------------------
+# Win32.Shiz.ufj - Malware Domain Feed V2
+# Source: https://otx.alienvault.com/pulse/5ccb67aaa5bfa10ff6ffe535
+
+# Domains
+cihunemyror.eu
+cilavocofer.eu
+ciliqikytec.eu
+cinepycusaw.eu
+dikuvizigiz.eu
+diselahidaf.eu
+divesosisor.eu
+dixesywyruc.eu
+fodakyhijyv.eu
+fokyxazolar.eu
+foxivusozuc.eu
+gacezobeqon.eu
+gacok.eu
+gacyryw.com
+gacyzuz.com
+gadufiwabim.eu
+gadyniw.com
+gahyqah.com
+galykes.com
+ganypih.com
+gaqycos.com
+jefapexytar.eu
+jenokirifux.eu
+jewuqyjywyv.eu
+kefuwidijyp.eu
+kejogydideq.eu
+kemocujufys.eu
+lygymoj.com
+lygynud.com
+lykyjad.com
+lymyxid.com
+lyruxyxaxaw.eu
+lyryvex.com
+lysul.eu
+lysuxinebyg.eu
+lysyfyj.com
+lyvyxor.com
+lyxylux.com
+lyxywer.com
+mamixikusah.eu
+marytymenok.eu
+nojejecebuw.eu
+pufet.eu
+pujuduvaxim.eu
+pumed.eu
+pupex.eu
+pupod.eu
+pupybul.com
+purol.eu
+purycap.com
+puvem.eu
+puvopalywet.eu
+puvyxil.com
+puzib.eu
+puzutuqeqij.eu
+qedyfyq.com
+qedynul.com
+qegyqaq.com
+qekykev.com
+qekyqop.com
+qeqinuqypoq.eu
+qeqyxov.com
+qetyfuv.com
+qexylup.com
+qexyryl.com
+rynazuqihoj.eu
+ryqecolijet.eu
+tulyboputal.eu
+tunujolavez.eu
+tupudyqusuj.eu
+vocebufazap.eu
+vocumucokaj.eu
+vocyruk.com
+vofez.eu
+vofozymufok.eu
+vojacikigep.eu
+vojyjof.com
+vojyqem.com
+volec.eu
+volyqat.com
+vonodecidid.eu
+vopep.eu
+vopibycywow.eu
+vopogakakud.eu
+vowycac.com
+vowydef.com
+xukovoruput.eu
+xuqohyxeqak.eu
+xuxusujenes.eu
+
+# Hosts
+0.0.0.0	ww1.lysyfyj.com
+0.0.0.0	ww11.lysyfyj.com
+0.0.0.0	www.gadyniw.com
+0.0.0.0	www.gahyqah.com
+0.0.0.0	www.pupybul.com
+0.0.0.0	www.vowycac.com
+0.0.0.0	www.vowygem.com
+#---------------------------------------------
+# Win32.Floxif.A - Malware Domain Feed V2
+# Source: https://otx.alienvault.com/pulse/5cc9aa3bcf78e0d4834b11ce
+# Domains
+8bb11f3597.pw
+citygame.xyz
+hostas4.cf
+hostas8.ml
+hostpp2.cf
+xjpakmdcfuqe.biz
+zcop.ru
+
+# Hosts
+0.0.0.0	ddl.serveftp.com
+0.0.0.0	devid.drp.su
+0.0.0.0	googlegmail.servehttp.com
+0.0.0.0	latestapps.wen.ru
+0.0.0.0	microsoft.mypicture.info
+0.0.0.0	mzo.dyndns.org
+0.0.0.0	nexter.x0rg.com
+0.0.0.0	u.f321y.com
+0.0.0.0	updatertestww.mkcl.org
+0.0.0.0	www.balu001.0catch.com
+0.0.0.0	www.balu002.0catch.com
+0.0.0.0	www.balu003.0catch.com
+0.0.0.0	www.balu004.0catch.com
+0.0.0.0	www.balu007.0catch.com
+0.0.0.0	www.balu008.0catch.com
+0.0.0.0	www.balu010.0catch.com
+0.0.0.0	www.balu013.0catch.com
+0.0.0.0	www.blm35.net
+0.0.0.0	www.gfkgeeoqgz.wen.ru
+0.0.0.0	www.gugeeoqgz.wen.ru
+0.0.0.0	www.gxgeeoqgz.wen.ru
+0.0.0.0	www.hostpp2.cf
+0.0.0.0	www.oqzoqbeoqgz.wen.ru
+#---------------------------------------------
+# Win32.Wacapew - Malware Domain Feed V2
+# Source: https://otx.alienvault.com/pulse/5efe0e2e6887c757d99eaa2b
+
+# Domains
+08ba21b31b07e8b2.xyz
+0856c981fac71ad2.xyz
+1abb7c50a8e82d40.xyz
+3afc5ff1c881b281.xyz
+3cf900ecf0895e4a.xyz
+5c98ff7eb35a6899.xyz
+5df09f09188cb28e.xyz
+6c2d8999fc5c1708.xyz
+6d8b0272c433fd35.xyz
+6ec8c1bc55203805.xyz
+7fbaa5576a683a01.xyz
+8a4997225ef680c2.xyz
+8c365b78d1a7e8f8.xyz
+8d96c6c8686c52e7.xyz
+32ae7e2916cf4953.xyz
+71ce0c9703a486f1.xyz
+84cfba021a5a6662.xyz
+628cbea9eb2bdecc.xyz
+847c29d3e827a16e.xyz
+5723edfc5207ff2d.xyz
+29272a6bc0ef8ac8.xyz
+54893f9638f5f23b.xyz
+658537bb4cb52d28.xyz
+750940a116beb395.xyz
+7819552a3888d197.xyz
+66124112b4188769.xyz
+a5559c25c7aba201.xyz
+bea0e4a218a01f2a.xyz
+c8dd8ae6dc4dc644.xyz
+c9b19ecacba2ea44.xyz
+d0b9282d68078592.xyz
+d048129eb1be65d5.xyz
+e1bca370f5f49fe7.xyz
+e5ee35320e7c970b.xyz
+ef6df4af06ba6896.xyz
+fa1e6f7334d84c84.xyz
+fe0432d95d40b8a2.xyz
+freekzvideo.cloud
+post-back-url.com
+trackpressure.website
+zombiemaniya.ru
+
+# Hosts
+0.0.0.0	gfehi7.2ihsfa.com
+0.0.0.0	uhgag43.2ihsfa.com
+0.0.0.0	uhgargr.2ihsfa.com
+0.0.0.0	www.infokscents.com
+#---------------------------------------------
+# Win32.BlackNET - Malware Domain Feed V2
+# Source: https://otx.alienvault.com/pulse/5dfc6b8957112ec80405a93f
+
+# Domains
+alexknives.com
+crackedworld.xyz
+groupy.pro
+informavoce.com
+jonhost45.com
+manchestergardensllc.com
+meublesinde.in
+otchaos.tk
+raders.ru
+ranonlinedominationep7.site
+redbulllogistics.online
+sitespy.club
+svcupdate.com
+testnexus1123.tk
+tv-diaspora.eu
+
+# Hosts
+0.0.0.0	a.nvuty.ru
+0.0.0.0	blackguy.power-plast.in
+0.0.0.0	blacknet.all-hacks.org
+0.0.0.0	blacknet.spy24.biz
+0.0.0.0	blacknethost.000webhostapp.com
+0.0.0.0	d3c0d3dd0cx.000webhostapp.com
+0.0.0.0	dadacode2020.ddns.net
+0.0.0.0	do.kemem.ga
+0.0.0.0	f0374712.xsph.ru
+0.0.0.0	f0386817.xsph.ru
+0.0.0.0	f0401489.xsph.ru
+0.0.0.0	fskakjgg.beget.tech
+0.0.0.0	i9789238.beget.tech
+0.0.0.0	mailstealer.zzz.com.ua
+0.0.0.0	mosav5vz.beget.tech
+0.0.0.0	perc30.beget.tech
+0.0.0.0	sepasarg.beget.tech
+0.0.0.0	test.darkstrom.com
+0.0.0.0	tulsipada1.000webhostapp.com
+0.0.0.0	updatesmanager.ddns.net
+0.0.0.0	vovagaka.myjino.ru
+0.0.0.0	wwe23pro.myjino.ru
+0.0.0.0	xexob6ct.beget.tech
 # Nanocore - Malware Domain Feed V2
 # Command and Control domains for malware known as Nanocore. These domains are extracted from malware sandbox reports using a Machine Learning model trained on a corpus of good and bad domains. 
 # Source: https://otx.alienvault.com/user/otxrobottwo/pulses
@@ -450656,304 +450954,6 @@ spataway.com
 0.0.0.0	zonepay.publicvm.com
 0.0.0.0	zouina1.ddnsfree.com
 0.0.0.0	zxno.ddns.net
-# Malware - Win32. Collection of multiple win32.-families with few domains & hosts per feed.
-# Command and Control domains for malware known as Win32.Shiz.ufj. These domains are extracted from malware sandbox reports using a Machine Learning model trained on a corpus of good and bad domains.
-# Source: https://otx.alienvault.com/browse/global?section=All&q=Win32&include_inactive=0&sort=-modified&page=1&indicatorsSearch=modified:%22%22%20Win32
-#
-# INFO: https://www.f-secure.com/v-descs/win32_virus.shtml
-#
-# UPDATED 02-04-2021
-#
-# Every link reported should be considered harmefull and could result in an unwanted malware download. Use this file carrefully.
-#
-#                                                             **** Therefor my advice is ****
-#                                                  **** If you experience sites that are being blocked ****
-#                                                **** please double check your input in search field and ****
-#                                           **** see if it's correct and verify that it is the correct page you ****
-#                                             **** are going too! If it is correct then whitelist that site ****
-#
-#                                                           USE THIS LIST WITH CAUTION!
-#
-#
-# *****The list is released without any warranty to the end users.*****
-#
-# *** This list contains domains and hosts ***
-# *******************************************************************************************************************************************************************
-#---------------------------------------------
-# W32.Blackmoon - Malware Domain Feed V2
-# Source: https://otx.alienvault.com/pulse/5cc6b94df225b0045a904d5b
-
-# Domains
-fffffh.site
-luoyefeihua.site
-syncc.xyz
-
-# Hosts
-0.0.0.0	0408sq2u.58guyu.com
-0.0.0.0	91w2l6dt.58guyu.com
-0.0.0.0	833u3k3i.58guyu.com
-0.0.0.0	down01.58guyu.com
-0.0.0.0	exe.58guyu.com
-0.0.0.0	fpnt5n9r.58guyu.com
-0.0.0.0	ftp271303.host553.zhujiwu.cn
-0.0.0.0	ftp543845.host566.zhujiwu.me
-0.0.0.0	gj.wxb2568.cn
-0.0.0.0	ip.666888pya.xyz
-0.0.0.0	k7vvazyq.58guyu.com
-0.0.0.0	mprrpt.hjkl45678.xyz
-0.0.0.0	nmprrpt.hjkl45678.xyz
-0.0.0.0	p1hgivju.gdicoou.com
-0.0.0.0	q9o7y27m.58guyu.com
-0.0.0.0	qcyl.cyynet.com
-0.0.0.0	sfqlbmxt.58guyu.com
-0.0.0.0	tongji.58guyu.com
-0.0.0.0	v216976v.58guyu.com
-0.0.0.0	wkapi.kenfu1.com
-0.0.0.0	www.362com.com
-0.0.0.0	www.awen666.icu
-0.0.0.0	www.dfafsd.cloud
-0.0.0.0	www.joinbee.cn
-0.0.0.0	www.panbaogui.com
-0.0.0.0	www.yxlt.us
-0.0.0.0	xxx.xxx.com
-0.0.0.0	ys46waeu.adkuai8.com
-0.0.0.0	yy4010.gotoip1.com
-#---------------------------------------------
-# Win32.Shiz.ufj - Malware Domain Feed V2
-# Source: https://otx.alienvault.com/pulse/5ccb67aaa5bfa10ff6ffe535
-
-# Domains
-cihunemyror.eu
-cilavocofer.eu
-ciliqikytec.eu
-cinepycusaw.eu
-dikuvizigiz.eu
-diselahidaf.eu
-divesosisor.eu
-dixesywyruc.eu
-fodakyhijyv.eu
-fokyxazolar.eu
-foxivusozuc.eu
-gacezobeqon.eu
-gacok.eu
-gacyryw.com
-gacyzuz.com
-gadufiwabim.eu
-gadyniw.com
-gahyqah.com
-galykes.com
-ganypih.com
-gaqycos.com
-jefapexytar.eu
-jenokirifux.eu
-jewuqyjywyv.eu
-kefuwidijyp.eu
-kejogydideq.eu
-kemocujufys.eu
-lygymoj.com
-lygynud.com
-lykyjad.com
-lymyxid.com
-lyruxyxaxaw.eu
-lyryvex.com
-lysul.eu
-lysuxinebyg.eu
-lysyfyj.com
-lyvyxor.com
-lyxylux.com
-lyxywer.com
-mamixikusah.eu
-marytymenok.eu
-nojejecebuw.eu
-pufet.eu
-pujuduvaxim.eu
-pumed.eu
-pupex.eu
-pupod.eu
-pupybul.com
-purol.eu
-purycap.com
-puvem.eu
-puvopalywet.eu
-puvyxil.com
-puzib.eu
-puzutuqeqij.eu
-qedyfyq.com
-qedynul.com
-qegyqaq.com
-qekykev.com
-qekyqop.com
-qeqinuqypoq.eu
-qeqyxov.com
-qetyfuv.com
-qexylup.com
-qexyryl.com
-rynazuqihoj.eu
-ryqecolijet.eu
-tulyboputal.eu
-tunujolavez.eu
-tupudyqusuj.eu
-vocebufazap.eu
-vocumucokaj.eu
-vocyruk.com
-vofez.eu
-vofozymufok.eu
-vojacikigep.eu
-vojyjof.com
-vojyqem.com
-volec.eu
-volyqat.com
-vonodecidid.eu
-vopep.eu
-vopibycywow.eu
-vopogakakud.eu
-vowycac.com
-vowydef.com
-xukovoruput.eu
-xuqohyxeqak.eu
-xuxusujenes.eu
-
-# Hosts
-0.0.0.0	ww1.lysyfyj.com
-0.0.0.0	ww11.lysyfyj.com
-0.0.0.0	www.gadyniw.com
-0.0.0.0	www.gahyqah.com
-0.0.0.0	www.pupybul.com
-0.0.0.0	www.vowycac.com
-0.0.0.0	www.vowygem.com
-#---------------------------------------------
-# Win32.Floxif.A - Malware Domain Feed V2
-# Source: https://otx.alienvault.com/pulse/5cc9aa3bcf78e0d4834b11ce
-# Domains
-8bb11f3597.pw
-citygame.xyz
-hostas4.cf
-hostas8.ml
-hostpp2.cf
-xjpakmdcfuqe.biz
-zcop.ru
-
-# Hosts
-0.0.0.0	ddl.serveftp.com
-0.0.0.0	devid.drp.su
-0.0.0.0	googlegmail.servehttp.com
-0.0.0.0	latestapps.wen.ru
-0.0.0.0	microsoft.mypicture.info
-0.0.0.0	mzo.dyndns.org
-0.0.0.0	nexter.x0rg.com
-0.0.0.0	u.f321y.com
-0.0.0.0	updatertestww.mkcl.org
-0.0.0.0	www.balu001.0catch.com
-0.0.0.0	www.balu002.0catch.com
-0.0.0.0	www.balu003.0catch.com
-0.0.0.0	www.balu004.0catch.com
-0.0.0.0	www.balu007.0catch.com
-0.0.0.0	www.balu008.0catch.com
-0.0.0.0	www.balu010.0catch.com
-0.0.0.0	www.balu013.0catch.com
-0.0.0.0	www.blm35.net
-0.0.0.0	www.gfkgeeoqgz.wen.ru
-0.0.0.0	www.gugeeoqgz.wen.ru
-0.0.0.0	www.gxgeeoqgz.wen.ru
-0.0.0.0	www.hostpp2.cf
-0.0.0.0	www.oqzoqbeoqgz.wen.ru
-#---------------------------------------------
-# Win32.Wacapew - Malware Domain Feed V2
-# Source: https://otx.alienvault.com/pulse/5efe0e2e6887c757d99eaa2b
-
-# Domains
-08ba21b31b07e8b2.xyz
-0856c981fac71ad2.xyz
-1abb7c50a8e82d40.xyz
-3afc5ff1c881b281.xyz
-3cf900ecf0895e4a.xyz
-5c98ff7eb35a6899.xyz
-5df09f09188cb28e.xyz
-6c2d8999fc5c1708.xyz
-6d8b0272c433fd35.xyz
-6ec8c1bc55203805.xyz
-7fbaa5576a683a01.xyz
-8a4997225ef680c2.xyz
-8c365b78d1a7e8f8.xyz
-8d96c6c8686c52e7.xyz
-32ae7e2916cf4953.xyz
-71ce0c9703a486f1.xyz
-84cfba021a5a6662.xyz
-628cbea9eb2bdecc.xyz
-847c29d3e827a16e.xyz
-5723edfc5207ff2d.xyz
-29272a6bc0ef8ac8.xyz
-54893f9638f5f23b.xyz
-658537bb4cb52d28.xyz
-750940a116beb395.xyz
-7819552a3888d197.xyz
-66124112b4188769.xyz
-a5559c25c7aba201.xyz
-bea0e4a218a01f2a.xyz
-c8dd8ae6dc4dc644.xyz
-c9b19ecacba2ea44.xyz
-d0b9282d68078592.xyz
-d048129eb1be65d5.xyz
-e1bca370f5f49fe7.xyz
-e5ee35320e7c970b.xyz
-ef6df4af06ba6896.xyz
-fa1e6f7334d84c84.xyz
-fe0432d95d40b8a2.xyz
-freekzvideo.cloud
-post-back-url.com
-trackpressure.website
-zombiemaniya.ru
-
-# Hosts
-0.0.0.0	gfehi7.2ihsfa.com
-0.0.0.0	uhgag43.2ihsfa.com
-0.0.0.0	uhgargr.2ihsfa.com
-0.0.0.0	www.infokscents.com
-#---------------------------------------------
-# Win32.BlackNET - Malware Domain Feed V2
-# Source: https://otx.alienvault.com/pulse/5dfc6b8957112ec80405a93f
-
-# Domains
-alexknives.com
-crackedworld.xyz
-groupy.pro
-informavoce.com
-jonhost45.com
-manchestergardensllc.com
-meublesinde.in
-otchaos.tk
-raders.ru
-ranonlinedominationep7.site
-redbulllogistics.online
-sitespy.club
-svcupdate.com
-testnexus1123.tk
-tv-diaspora.eu
-
-# Hosts
-0.0.0.0	a.nvuty.ru
-0.0.0.0	blackguy.power-plast.in
-0.0.0.0	blacknet.all-hacks.org
-0.0.0.0	blacknet.spy24.biz
-0.0.0.0	blacknethost.000webhostapp.com
-0.0.0.0	d3c0d3dd0cx.000webhostapp.com
-0.0.0.0	dadacode2020.ddns.net
-0.0.0.0	do.kemem.ga
-0.0.0.0	f0374712.xsph.ru
-0.0.0.0	f0386817.xsph.ru
-0.0.0.0	f0401489.xsph.ru
-0.0.0.0	fskakjgg.beget.tech
-0.0.0.0	i9789238.beget.tech
-0.0.0.0	mailstealer.zzz.com.ua
-0.0.0.0	mosav5vz.beget.tech
-0.0.0.0	perc30.beget.tech
-0.0.0.0	sepasarg.beget.tech
-0.0.0.0	test.darkstrom.com
-0.0.0.0	tulsipada1.000webhostapp.com
-0.0.0.0	updatesmanager.ddns.net
-0.0.0.0	vovagaka.myjino.ru
-0.0.0.0	wwe23pro.myjino.ru
-0.0.0.0	xexob6ct.beget.tech
 # Netwire - Malware Domain Feed V2
 # Command and Control domains for malware known as Netwire. These domains are extracted from malware sandbox reports using a Machine Learning model trained on a corpus of good and bad domains.
 # Source: https://otx.alienvault.com/user/otxrobottwo/pulses
@@ -460338,6 +460338,82 @@ zucahealdaana.tk
 0.0.0.0	www.ziyaun.top
 0.0.0.0	wxzn.zaitui.top
 0.0.0.0	zhoulu0808.alexliu0808.xyz
+# TA2552 IOCs - Domains & Hosts
+# https://www.proofpoint.com/us/blog/threat-insight/ta2552-uses-oauth-access-token-phishing-exploit-read-only-risks
+# Source: https://otx.alienvault.com/user/343GuiltySpark/pulses
+#
+# UPDATED: 04-02-2021
+#
+# Every link reported should be considered harmefull and could result in an unwanted malware download. Use this file carrefully.
+#
+#                                                             **** Therefor my advice is ****
+#                                                  **** If you experience sites that are being blocked ****
+#                                                **** please double check your input in search field and ****
+#                                           **** see if it's correct and verify that it is the correct page you ****
+#                                             **** are going too! If it is correct then whitelist that site ****
+#
+#                                                           USE THIS LIST WITH CAUTION!
+#
+#
+# *****The list is released without any warranty to the end users.*****
+#
+# *** This list contains domains and hosts ***
+# *******************************************************************************************************************************************************************
+# TA2552 Uses OAuth Access Token Phishing to Exploit Read-Only Risks
+# Source: https://otx.alienvault.com/pulse/5f74a49bc85684b52d86ea23
+
+# Domains
+16720s.xyz
+akglass.in
+al-thawiya.com
+calyss.in
+casperinfosystem.com
+ccgdm.org
+e1920.xyz
+e10220.com
+e29120.com
+e180320.xyz
+ex171019.com
+i5320.xyz
+mucla.in
+nivedafoundation.org
+photobalkan.com
+printstockphoto.com
+r25820.xyz
+rr020920.xyz
+ultimatetravel.in
+xs1920.xyz
+
+# Hosts
+0.0.0.0 485online.rs10720.xyz
+0.0.0.0 app452-sat-mx.i3720.xyz
+0.0.0.0 apps-registros-mx.is15720.xyz
+0.0.0.0 dev.tvs.st
+0.0.0.0 www-netfflix-registros.i10720.xyz
+0.0.0.0 www-registros-apps-mx.e18220.com
+0.0.0.0 www-registros-appsmx-sat.x030720.xyz
+# TA2719 IOCs
+# - Highly suspicious newly registered domains
+#
+# Source: https://otx.alienvault.com/user/343GuiltySpark/pulses
+#
+# UPDATED 30-08-2020
+#
+# Every link reported should be considered harmefull and could result in an unwanted malware download.
+#
+# *****The list is released without any warranty to the end users.*****
+#
+# *** This list contains domains and hosts ***
+# *******************************************************************************************************************************************************************
+#------------------------------------------
+# TA2719 Uses Colorful Lures to Deliver RATs in Local Languages
+# In late March 2020, Proofpoint researchers began tracking a new actor with a penchant for using NanoCore and later AsyncRAT, popular commodity remote access trojans (RATs). 
+# Dubbed TA2719 by Proofpoint, the actor uses localized lures with colorful images that impersonate local banks, law enforcement, and shipping services. 
+# Source: https://otx.alienvault.com/pulse/5f47c261f5b6aba82c4b8de6
+
+# Hosts
+0.0.0.0 megaida123.ddns.net
+#------------------------------------------
 # TA505 IOCs - Domains & Hosts
 # @TA505, a well-established organised cybercrime group on the threat landscape, has continued its ongoing attack campaign into September. 
 # Malware used in this campaign includes SDBbot, Get2 Downloader, and GraceWire RAT. TA505 is also reportedly the operator of Clop ransomware.
@@ -462765,82 +462841,6 @@ siicg8lgadurupkt.com
 
 # Hosts
 0.0.0.0 www.nasproje.com
-# TA2552 IOCs - Domains & Hosts
-# https://www.proofpoint.com/us/blog/threat-insight/ta2552-uses-oauth-access-token-phishing-exploit-read-only-risks
-# Source: https://otx.alienvault.com/user/343GuiltySpark/pulses
-#
-# UPDATED: 04-02-2021
-#
-# Every link reported should be considered harmefull and could result in an unwanted malware download. Use this file carrefully.
-#
-#                                                             **** Therefor my advice is ****
-#                                                  **** If you experience sites that are being blocked ****
-#                                                **** please double check your input in search field and ****
-#                                           **** see if it's correct and verify that it is the correct page you ****
-#                                             **** are going too! If it is correct then whitelist that site ****
-#
-#                                                           USE THIS LIST WITH CAUTION!
-#
-#
-# *****The list is released without any warranty to the end users.*****
-#
-# *** This list contains domains and hosts ***
-# *******************************************************************************************************************************************************************
-# TA2552 Uses OAuth Access Token Phishing to Exploit Read-Only Risks
-# Source: https://otx.alienvault.com/pulse/5f74a49bc85684b52d86ea23
-
-# Domains
-16720s.xyz
-akglass.in
-al-thawiya.com
-calyss.in
-casperinfosystem.com
-ccgdm.org
-e1920.xyz
-e10220.com
-e29120.com
-e180320.xyz
-ex171019.com
-i5320.xyz
-mucla.in
-nivedafoundation.org
-photobalkan.com
-printstockphoto.com
-r25820.xyz
-rr020920.xyz
-ultimatetravel.in
-xs1920.xyz
-
-# Hosts
-0.0.0.0 485online.rs10720.xyz
-0.0.0.0 app452-sat-mx.i3720.xyz
-0.0.0.0 apps-registros-mx.is15720.xyz
-0.0.0.0 dev.tvs.st
-0.0.0.0 www-netfflix-registros.i10720.xyz
-0.0.0.0 www-registros-apps-mx.e18220.com
-0.0.0.0 www-registros-appsmx-sat.x030720.xyz
-# TA2719 IOCs
-# - Highly suspicious newly registered domains
-#
-# Source: https://otx.alienvault.com/user/343GuiltySpark/pulses
-#
-# UPDATED 30-08-2020
-#
-# Every link reported should be considered harmefull and could result in an unwanted malware download.
-#
-# *****The list is released without any warranty to the end users.*****
-#
-# *** This list contains domains and hosts ***
-# *******************************************************************************************************************************************************************
-#------------------------------------------
-# TA2719 Uses Colorful Lures to Deliver RATs in Local Languages
-# In late March 2020, Proofpoint researchers began tracking a new actor with a penchant for using NanoCore and later AsyncRAT, popular commodity remote access trojans (RATs). 
-# Dubbed TA2719 by Proofpoint, the actor uses localized lures with colorful images that impersonate local banks, law enforcement, and shipping services. 
-# Source: https://otx.alienvault.com/pulse/5f47c261f5b6aba82c4b8de6
-
-# Hosts
-0.0.0.0 megaida123.ddns.net
-#------------------------------------------
 # Upatre - Malware Domain Feed V2
 # Command and Control domains for malware known as Upatre. These domains are extracted from malware sandbox reports using a Machine Learning model trained on a corpus of good and bad domains. 
 # Source: https://otx.alienvault.com/user/otxrobottwo/pulses
